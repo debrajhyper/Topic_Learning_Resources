@@ -7,3 +7,8 @@
 
 Example
 - HTML : https://youtu.be/pQN-pnXPaVg
+
+
+- JAVA TUTORIAL (HINDI) : https://youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b
+- NODEJS (HINDI) - https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8
+

@@ -14,12 +14,12 @@
 - [🔥 Backend Development](#backend-development)
 
 
-## Programming: 
+## 👩🏻‍💻 Programming: 
 - CORE JAVA (HINDI) : https://youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b ★★★★☆
 
-## Frontend Development:
+## ❄ Frontend Development:
 - HTML : https://youtu.be/pQN-pnXPaVg ★★★★☆
 
-## Backend Development:
+## 🔥 Backend Development:
 - NODEJS (HINDI) - https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 ★★★★☆
 

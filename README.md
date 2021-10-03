@@ -4,7 +4,7 @@
     
 ## Contribution Details:
 - Srats : ★☆
-- Tpoic Name : Tutorial Link/Playlist Link Stars
+- Tpoic Name : Tutorial Link/Playlist Link ${ Stars }
 
 
 ## Table of Contents

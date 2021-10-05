@@ -23,6 +23,7 @@
 ## 👩🏻‍💻 Programming: 
 - CORE JAVA (HINDI) : https://youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b ★★★★☆
 - PYTHON(ENGLISH) : https://www.youtube.com/watch?v=t8pPdKYpowI  ★★★★☆
+- C++(HINDI) : https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL ★★★★☆
 
 ## ❄ Frontend Development
 

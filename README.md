@@ -6,8 +6,8 @@
 
 ## Contribution Details:
 
-- Srats : ★☆
-- Tpoic Name : Tutorial Link/Playlist Link `Stars`
+- Stars : ★☆
+- Topic Name : Tutorial Link/Playlist Link `Stars`
 
 
 ## Table of Contents
@@ -77,4 +77,5 @@
 ## 🔥 Backend Development:
 - NODEJS (HINDI) - https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 ★★★★☆
 - SQL(ENGLISH) - https://www.youtube.com/watch?v=5hzZtqCNQKk  ★★★★☆
+- PYTHON(ADVANCED) - https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2  ★★★★☆
 

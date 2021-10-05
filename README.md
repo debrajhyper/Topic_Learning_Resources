@@ -35,6 +35,13 @@
 - <a href="https://www.youtube.com/watch?v=mU6anWqZJcc" target="_blank">HTML and CSS From scratch - FreeCodeCamp</a>  
 - <a href="https://www.youtube.com/watch?v=pQN-pnXPaVg" target="_blank">HTML in 2hr - FreeCodeCamp</a>  
 - <a href="http://www.tutorialspoint.com/html/html_tutorial.pdf" target="_blank">TutorialsPoint - HTML</a>
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- [Stack Overflow](https://stackoverflow.com/)
+#### website assets
+- **High Resolution Stock Photos:**[pexels.com](https://www.pexels.com/)
+-  **Web Scalable Illustration:**[Undraw.co](https://undraw.co/)
+-  **Fonts:**[Google Fonts](https://fonts.google.com/)
+-  **Icon Pack:**[Font Awesome](https://fontawesome.com/)
 
 
 ### CSS

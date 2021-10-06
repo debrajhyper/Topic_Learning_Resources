@@ -28,6 +28,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
   - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
   - [📂 Database](#database)
 
+<br/>
+
 # Documentations
 
 ## Programming
@@ -79,7 +81,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 👩🏻‍💻 Programming: 
 
-| TOPIC                    | RESOURCE NAME       | LINK                                                                     |
+| TOPIC                    | SOURCE NAME         | LINK                                                                     |
 | ------------------------ | ------------------- | ------------------------------------------------------------------------ |
 | CORE JAVA                | Smart Programming   | https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b |
 | PYTHON Basics (Beginner) | FreeCodeCamp        | https://www.youtube.com/watch?v=rfscVS0vtbw                              |
@@ -90,7 +92,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## ❄ Frontend Development
 
-| TOPIC                 | RESOURCE NAME         | LINK                                               |
+| TOPIC                 | SOURCE NAME           | LINK                                               |
 | --------------------- | --------------------- | -------------------------------------------------- |
 | HTML                  | FreeCodeCamp          | https://www.youtube.com/watch?v=pQN-pnXPaVg        |
 | HTML/CSS From scratch | FreeCodeCamp          | https://www.youtube.com/watch?v=mU6anWqZJcc        |
@@ -98,7 +100,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## ⚡ Frontend Frameworks/Library
 
-| TOPIC                          | RESOURCE NAME     | LINK                                                                     |
+| TOPIC                          | SOURCE NAME       | LINK                                                                     |
 | ------------------------------ | ----------------- | ------------------------------------------------------------------------ |
 | REACT JS (Beginner)            | Clever Programmer | https://www.youtube.com/watch?v=vIRBSI-elUM                              |
 | REACT JS (Beginner to Advance) | Clever Programmer | https://www.youtube.com/watch?v=-cMqr9HpZ-Y                              |
@@ -107,22 +109,22 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🔥 Backend Development:
 
-| TOPIC          | RESOURCE NAME         | LINK                                                                     |
-| -------------- | --------------------- | ------------------------------------------------------------------------ |
-| NODE JS        | Thapa Technical       | https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 |
-| PYTHON         | API Testing In Python | https://testautomationu.applitools.com/python-api-testing                |
-| PYTHON(DJANGO) | Backend with Django   | https://www.youtube.com/watch?v=jBzwzrDvZ18                              |
+| TOPIC           | SOURCE NAME           | LINK                                                                     |
+| --------------- | --------------------- | ------------------------------------------------------------------------ |
+| NODE JS         | Thapa Technical       | https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 |
+| PYTHON          | API Testing In Python | https://testautomationu.applitools.com/python-api-testing                |
+| PYTHON (DJANGO) | FreeCodeCamp          | https://www.youtube.com/watch?v=jBzwzrDvZ18                              |
 
 ## 🌀 Backend Frameworks/Library
 
-| TOPIC             | RESOURCE NAME              | LINK                                                   |
+| TOPIC             | SOURCE NAME                | LINK                                                   |
 | ----------------- | -------------------------- | ------------------------------------------------------ |
 | PYTEST (Beginner) | Test Automation University | https://testautomationu.applitools.com/pytest-tutorial |
 
 ## 📂 Database
 
-| TOPIC             | RESOURCE NAME  | LINK                                                                     |
+| TOPIC             | SOURCE NAME    | LINK                                                                     |
 | ----------------- | -------------- | ------------------------------------------------------------------------ |
-| SQL (Beginner)    | Amigoscode     | www.youtube.com/watch?v=5hzZtqCNQKk                                      |
-| MONGODB (ENGLISH) | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
+| SQL (Beginner)    | Amigoscode     | https://www.youtube.com/watch?v=5hzZtqCNQKk                                      |
+| MONGODB           | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
 

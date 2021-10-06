@@ -15,9 +15,11 @@ We love your input! We want to make contributing to this project as easy and tra
 
 ## Template
 
-| TOPIC  | AUTHORITY NAME | LINK |
-| ------------- | ------------- | ------------- |
-| HTML | FreeCodeCamp | www.youtube.com/watch?v=pQN-pnXPaVg |
+| TOPIC                          | SOURCE NAME       | LINK                                        |
+| ------------------------------ | ----------------- | ------------------------------------------- |
+| HTML                           | FreeCodeCamp      | www.youtube.com/watch?v=pQN-pnXPaVg         |
+| PYTHON Basics (Beginner)       | FreeCodeCamp      | https://www.youtube.com/watch?v=rfscVS0vtbw |
+| REACT JS (Beginner to Advance) | Clever Programmer | https://www.youtube.com/watch?v=-cMqr9HpZ-Y |
 
 ## Steps For Contribution
 

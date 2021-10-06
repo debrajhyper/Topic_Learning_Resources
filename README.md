@@ -23,6 +23,7 @@
 ## 👩🏻‍💻 Programming: 
 - CORE JAVA (HINDI) : https://youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b ★★★★☆
 - PYTHON(ENGLISH) : https://www.youtube.com/watch?v=t8pPdKYpowI  ★★★★☆
+- FLUTTER FOR BEGGINERS(ENGLISH) : https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ 
 
 ## ❄ Frontend Development
 
@@ -51,6 +52,8 @@
 - <a href="https://chakra-ui.com/getting-started" target="_blank">Chakra UI</a>  
 - <a href="https://www.w3schools.com/sass/">SASS - Tutorials</a>  
 - <a href="https://css-tricks.com/">CSS-Tricks - Provide you everything tutorial with best understanding</a>
+- <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR">Bootstrap 5 Tutorial</a>
+- <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw">Tailwind CSS Tutorial</a>
 
 ### JavaScript and Frameworks
 
@@ -73,6 +76,7 @@
 - <a href="https://www.typescriptlang.org/docs/handbook/basic-types.html" target="_blank">Typerscript - Official Handbook</a>
 - REACT JS(BEGGINER): https://www.youtube.com/watch?v=vIRBSI-elUM ★★★★☆
 - REACT JS(BEGGINER TO ADVANCE FULL COURSE): https://www.youtube.com/watch?v=-cMqr9HpZ-Y ★★★★☆
+- NEXT JS(BEGGINER): https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw ★★★★☆
 
 ## 🔥 Backend Development:
 - NODEJS (HINDI) - https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 ★★★★☆

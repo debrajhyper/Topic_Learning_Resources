@@ -55,9 +55,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4
 - Bulma : openbase - www.openbase.io/js/bulma/tutorials
 - Chakra UI : Docs - www.chakra-ui.com/getting-started
+- TailwindCSS : Docs - https://tailwindcss.com/
 
 ## SASS
 - SASS : w3schools - www.w3schools.com/sass
+- SASS : Docs - https://sass-lang.com/documentation 
 
 ## Javascript
 - JS for Cats : www.jsforcats.com
@@ -67,6 +69,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## Frameworks/Library
 - React js : Docs - www.reactjs.org/docs/hello-world
 - Angular : Docs - www.angular.io
+- Vue : Docs - https://vuejs.org/ 
+- Next : Docs - https://nextjs.org/
+- Svelte: Docs - https://svelte.dev/ 
  
 ## Misc
 - DevTools : www.developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools

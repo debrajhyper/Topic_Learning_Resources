@@ -34,6 +34,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Programming
 - RUBY (BEGGINER) : Codecademy - www.codecademy.com/learn/learn-ruby
+- RUST : Docs - www.rust-lang.org/learn
 
 ## HTML
 - HTML : Learn-HTML - www.learn-html.org

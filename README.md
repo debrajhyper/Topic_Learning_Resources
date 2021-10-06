@@ -15,6 +15,9 @@
     - [CSS](#css)
     - [CSS Frameworks](#css-frameworks)
     - [SASS](#sass)
+    - [Javascript](#javascript)
+    - [Frameworks/Library](#frameworkslibrary)
+    - [Misc](#misc)
 - [Video/Playlist](#videoplaylist)
   - [👩🏻‍💻 Programming](#-programming)
   - [❄ Frontend Development](#-frontend-development)
@@ -51,24 +54,18 @@
 - SASS : w3schools - www.w3schools.com/sass
 
 ## Javascript
+- JS for Cats : www.jsforcats.com
+- Javascript Exercises (Beginner) : www.asmarterwaytolearn.com/js/index-of-exercises
 
-
-- <a href="http://jsforcats.com/" target="_blank">JS for Cats</a>  
-- <a href="https://javascript30.com/" target="_blank">A 30-day coding challenge in which you will build 30 things using vanilla JavaScript</a>  
-- <a href="https://watchandcode.com/p/practical-javascript" target="_blank">The excellent teachers at Watch and Code have released their beginning JavaScript course for free. </a>  
-- <a href="http://www.asmarterwaytolearn.com/js/index-of-exercises.html" target="_blank"> javascript exercises for beginners</a>  
-- <a href="https://www.learn-js.org/" target="_blank">A short interactive website which has exercises for introducing new programmers to the primary concepts in JavaScript.</a>  
-- <a href="https://www.youtube.com/watch?v=A71aqufiNtQ" target="_blank">The Epic React Crash Course</a>  
-- <a href="https://reactjs.org/docs/hello-world.html" target="_blank">React DOCS</a>  
-- <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa" target="_blank">Vue.js - Best NET NINJA Playlist</a>  
-- <a href="https://www.youtube.com/watch?v=Wy9q22isx3U" target="_blank">Vue.js Crash Course</a>  
-- <a href="https://angular.io/" target="_blank">Angular - Docs </a>  
-- <a href="https://github.com/avatsaev/angular-learning-resources" target="_blank">Github - More learning Resources</a>  
-- <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools" target="_blank">Using DevTools</a>  
-- <a href="https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4" target="_blank">A closure is a function that has access to its outer function scope even after the return of the outer function (For better understanding head inside the blog).</a>  
-- <a href="https://developers.google.com/web/progressive-web-apps/" target="_blank">For learning PWAS</a>  
-- <a href="https://webpack.js.org/" target="_blank">Using WEBPACK</a>  
-- <a href="https://www.typescriptlang.org/docs/handbook/basic-types.html" target="_blank">Typerscript - Official Handbook</a>
+## Frameworks/Library
+- React js : Docs - www.reactjs.org/docs/hello-world
+- Angular : Docs - www.angular.io
+ 
+## Misc
+- DevTools : www.developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
+- PWA : www.developers.google.com/web/progressive-web-apps
+- WEBPACK : www.webpack.js.org
+- Typerscript : Official Handbook - www.typescriptlang.org/docs/handbook/basic-types
 
 <br/>
 <br/>
@@ -91,10 +88,12 @@ TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
 
 - REACT JS (Beginner) : Clever Programmer - www.youtube.com/watch?v=vIRBSI-elUM
 - REACT JS (Beginner to Advance) : Clever Programmer - www.youtube.com/watch?v=-cMqr9HpZ-Y
+- React JS Crash Course : Traversy Media - www.youtube.com/watch?v=A71aqufiNtQ
+- VUE JS : The Net Ninja - www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa
 
 ## 🔥 Backend Development:
 
-- NODEJS : Thapa Technical - www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8
+- NODE JS : Thapa Technical - www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8
 
 
 

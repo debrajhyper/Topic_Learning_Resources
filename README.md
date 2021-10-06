@@ -58,6 +58,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## Javascript
 - JS for Cats : www.jsforcats.com
 - Javascript Exercises (Beginner) : www.asmarterwaytolearn.com/js/index-of-exercises
+- Javascript For Advanced Level : https://www.edureka.co/blog/advanced-javascript-tutorial/
 
 ## Frameworks/Library
 - React js : Docs - www.reactjs.org/docs/hello-world

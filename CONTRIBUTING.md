@@ -13,7 +13,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Pull request should include a link to the resource and a short description.
 - The resource **must** be completely free or to have a free tier.
 
-## Contributing Template
+## Template
 
 | TOPIC  | AUTHORITY NAME | LINK |
 | ------------- | ------------- | ------------- |

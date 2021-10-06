@@ -49,7 +49,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - CSS Grid : CheatSheets - www.grid.malven.co
 - CSS Flexbox : CheatSheets - www.darekkay.com/dev/flexbox-cheatsheet
 - CSS Tricks : www.css-tricks.com
-- CSS Animated Tutorial: www.joshwcomeau.com/tutorials/css/
+- CSS Animated Tutorial: www.joshwcomeau.com/tutorials/css
 
 ## CSS Frameworks
 - Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4

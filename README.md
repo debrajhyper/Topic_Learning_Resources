@@ -13,16 +13,22 @@
 ## Table of Contents
 
 - [👩🏻‍💻 Programming](#programming)
+  - Python
 - [❄ Frontend Development](#frontend-development)
   - HTML
   - CSS
   - JavaScript
 - [🔥 Backend Development](#backend-development)
-
+  - SQL
+  - Python
 
 ## 👩🏻‍💻 Programming: 
 - CORE JAVA (HINDI) : https://youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b ★★★★☆
-- PYTHON(ENGLISH) : https://www.youtube.com/watch?v=t8pPdKYpowI  ★★★★☆
+
+### Python
+- PYTHON(ENGLISH) : https://www.youtube.com/watch?v=t8pPdKYpowI ★★★★☆
+- PYTHON-INDEPTH(ENGLISH) : https://youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc ★★★★★★
+
 
 ## ❄ Frontend Development
 
@@ -74,8 +80,16 @@
 - REACT JS(BEGGINER): https://www.youtube.com/watch?v=vIRBSI-elUM ★★★★☆
 - REACT JS(BEGGINER TO ADVANCE FULL COURSE): https://www.youtube.com/watch?v=-cMqr9HpZ-Y ★★★★☆
 
+
 ## 🔥 Backend Development:
 - NODEJS (HINDI) - https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 ★★★★☆
+
+### SQL
 - SQL(ENGLISH) - https://www.youtube.com/watch?v=5hzZtqCNQKk  ★★★★☆
+- SQL(ENGLISH) - https://youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN ★★★★☆
+
+### Python
 - PYTHON(ADVANCED) - https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2  ★★★★☆
+- PYTHON-DLANGO(ENGLISH) : https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p ★★★★☆
+- PYTHON-FLASK(ENGLISH) : https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH ★★★★☆
 

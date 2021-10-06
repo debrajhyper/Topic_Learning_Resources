@@ -22,7 +22,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [Misc](#misc)
 - [Video/Playlist](#videoplaylist)
   - [👩🏻‍💻 Programming](#-programming)
-  - [❄ Frontend Development](#-frontend-development)
+  - [🌊 Frontend Development](#-frontend-development)
   - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
   - [🔥 Backend Development](#-backend-development)
   - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
@@ -97,7 +97,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C++                      | Apna College        | https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
 | GOLANG (Beginner)        | Tech with Tim       | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
 
-## ❄ Frontend Development
+## 🌊 Frontend Development
 
 | TOPIC                 | SOURCE NAME           | LINK                                               |
 | --------------------- | --------------------- | -------------------------------------------------- |
@@ -135,3 +135,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | SQL (Beginner)    | Amigoscode     | https://www.youtube.com/watch?v=5hzZtqCNQKk                              |
 | MONGODB           | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
 
+<br/>
+<br/>
+<br/>
+
+# Contributors
+
+<a href="https://github.com/debrajhyper/Topic_Learning_Resources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=debrajhyper/Topic_Learning_Resources" />
+</a>

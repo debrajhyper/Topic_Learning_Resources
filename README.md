@@ -10,9 +10,6 @@ If you like this repo, be sure to ⭐ it.
 
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
-<br/>
-<br/>
-
 ## Table of Contents
 - [Documentations](#documentations)
     - [Programming](#programming)

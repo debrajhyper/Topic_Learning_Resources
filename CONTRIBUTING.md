@@ -14,10 +14,23 @@ We love your input! We want to make contributing to this project as easy and tra
 - The resource **must** be completely free or to have a free tier.
 
 ## Template
+#### Documentations
+    - please follow the the link type for Documentations section.
+    - www at the starting.
+    - No / at the end.
+
+- TOPIC : SOURCE NAME - LINK
+- SASS : w3schools - www.w3schools.com/sass
+- Next : Docs - www.nextjs.org
+
+#### Video/Playlist
+    - please follow the the link type for Video/Playlist section.
+    - https://www at the starting.
+    - No / at the end.
 
 | TOPIC                          | SOURCE NAME       | LINK                                        |
 | ------------------------------ | ----------------- | ------------------------------------------- |
-| HTML                           | FreeCodeCamp      | www.youtube.com/watch?v=pQN-pnXPaVg         |
+| HTML                           | FreeCodeCamp      | https://www.youtube.com/watch?v=pQN-pnXPaVg |
 | PYTHON Basics (Beginner)       | FreeCodeCamp      | https://www.youtube.com/watch?v=rfscVS0vtbw |
 | REACT JS (Beginner to Advance) | Clever Programmer | https://www.youtube.com/watch?v=-cMqr9HpZ-Y |
 

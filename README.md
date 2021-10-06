@@ -94,8 +94,7 @@ TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
 ## 🔥 Backend Development:
 
 - NODE JS : Thapa Technical - www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8
-
-
+- PYTHON : API Testing In Python - https://testautomationu.applitools.com/python-api-testing/
 
 ## 🌀 Backend Frameworks/Library
 - PYTEST (Beginner) : Test Automation University - https://testautomationu.applitools.com/pytest-tutorial/

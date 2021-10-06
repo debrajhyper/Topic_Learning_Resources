@@ -1,37 +1,126 @@
-## Welcome to GitHub Pages
+# Topic Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/debrajhyper)
 
-You can use the [editor on GitHub](https://github.com/debrajhyper/Topic_Learning_Resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is an awesome project about Learning resources. ⚡
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Resources are added frequently! ⚡
 
-### Markdown
+Enjoy!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you like this repo, be sure to ⭐ it.
 
-```markdown
-Syntax highlighted code block
+Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
-# Header 1
-## Header 2
-### Header 3
+## Table of Contents
+- [Documentations](#documentations)
+    - [Programming](#programming)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [CSS Frameworks](#css-frameworks)
+    - [SASS](#sass)
+    - [Javascript](#javascript)
+    - [Frameworks/Library](#frameworkslibrary)
+    - [Misc](#misc)
+- [Video/Playlist](#videoplaylist)
+  - [👩🏻‍💻 Programming](#-programming)
+  - [❄ Frontend Development](#-frontend-development)
+  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+  - [🔥 Backend Development](#-backend-development)
+  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+  - [📂 Database](#database)
 
-- Bulleted
-- List
+# Documentations
 
-1. Numbered
-2. List
+## Programming
+- RUBY (BEGGINER) : Codecademy - www.codecademy.com/learn/learn-ruby
+## HTML
+- HTML : Learn-HTML - www.learn-html.org
+- HTML : TutorialsPoint - www.tutorialspoint.com/html/html_tutorial.pdf
+- HTML/CSS : UDEMY - www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
 
-**Bold** and _Italic_ and `Code` text
+## CSS
+- CSS : W3Schools - www.w3schools.com/css
+- CSS : SoloLearn - www.sololearn.com
+- CSS Course : FreeCodeCamp - www.freecodecamp.org
+- Introduction to CSS : Scrimba - www.scrimba.com/learn/introtocss
+- Materialize CSS : Docs - www.materializecss.com
+- CSS Grid : CheatSheets - www.grid.malven.co
+- CSS Flexbox : CheatSheets - www.darekkay.com/dev/flexbox-cheatsheet
+- CSS Tricks : www.css-tricks.com
 
-[Link](url) and ![Image](src)
-```
+## CSS Frameworks
+- Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4
+- Bulma : openbase - www.openbase.io/js/bulma/tutorials
+- Chakra UI : Docs - www.chakra-ui.com/getting-started
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## SASS
+- SASS : w3schools - www.w3schools.com/sass
 
-### Jekyll Themes
+## Javascript
+- JS for Cats : www.jsforcats.com
+- Javascript Exercises (Beginner) : www.asmarterwaytolearn.com/js/index-of-exercises
+- Javascript (Advance) : https://www.edureka.co/blog/advanced-javascript-tutorial/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/debrajhyper/Topic_Learning_Resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Frameworks/Library
+- React js : Docs - www.reactjs.org/docs/hello-world
+- Angular : Docs - www.angular.io
+ 
+## Misc
+- DevTools : www.developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
+- PWA : www.developers.google.com/web/progressive-web-apps
+- WEBPACK : www.webpack.js.org
+- Typerscript : Official Handbook - www.typescriptlang.org/docs/handbook/basic-types
 
-### Support or Contact
+<br/>
+<br/>
+<br/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Video/Playlist
+
+## 👩🏻‍💻 Programming: 
+
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| CORE JAVA | Smart Programming | www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b |
+| PYTHON Basics (Beginner) | FreeCodeCamp | https://www.youtube.com/watch?v=rfscVS0vtbw |
+| PYTHON (Beginner) | TechWorld with Nana | www.youtube.com/watch?v=t8pPdKYpowI |
+| PYTHON (Advance) | Python Engineer | www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 |
+| C++ | Apna College | www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
+| GOLANG (Beginner) | Tech with Tim | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
+
+## ❄ Frontend Development
+
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| HTML | FreeCodeCamp | www.youtube.com/watch?v=pQN-pnXPaVg |
+| HTML/CSS From scratch | FreeCodeCamp | www.youtube.com/watch?v=mU6anWqZJcc |
+| HTML (Beginner) | Programming with Mosh | https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s |
+
+## ⚡ Frontend Frameworks/Library
+
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| REACT JS (Beginner) | Clever Programmer | www.youtube.com/watch?v=vIRBSI-elUM |
+| REACT JS (Beginner to Advance) | Clever Programmer | www.youtube.com/watch?v=-cMqr9HpZ-Y |
+| React JS Crash Course | Traversy Media | www.youtube.com/watch?v=A71aqufiNtQ |
+| VUE JS | The Net Ninja | www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa |
+
+## 🔥 Backend Development:
+
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| NODE JS | Thapa Technical | www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 |
+| PYTHON | API Testing In Python | https://testautomationu.applitools.com/python-api-testing |
+
+## 🌀 Backend Frameworks/Library
+
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| PYTEST (Beginner) | Test Automation University | https://testautomationu.applitools.com/pytest-tutorial |
+
+## 📂 Database
+
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| SQL (Beginner) | Amigoscode | www.youtube.com/watch?v=5hzZtqCNQKk |
+| MONGODB (ENGLISH) | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
+

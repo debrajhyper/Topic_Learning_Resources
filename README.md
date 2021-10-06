@@ -50,7 +50,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## CSS Frameworks
 - Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4
 - Bulma : openbase - www.openbase.io/js/bulma/tutorials
-- Chakra UI : Docs - chakra-ui.com/getting-started
+- Chakra UI : Docs - www.chakra-ui.com/getting-started
 
 ## SASS
 - SASS : w3schools - www.w3schools.com/sass
@@ -83,6 +83,14 @@ TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
 - PYTHON (Advance) : Python Engineer - www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
 - C++ : Apna College - www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
 
+## 👩🏻‍💻 Programming: 
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------------- | ------------- | ------------- |
+| CORE JAVA | Smart Programming | www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b |
+| PYTHON Basics (Beginner) | FreeCodeCamp | https://www.youtube.com/watch?v=rfscVS0vtbw |
+| PYTHON (Beginner) | TechWorld with Nana | www.youtube.com/watch?v=t8pPdKYpowI |
+| PYTHON (Advance) | Python Engineer | www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 |
+| C++ | Apna College | www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
 
 ## ❄ Frontend Development
 - HTML : FreeCodeCamp - www.youtube.com/watch?v=pQN-pnXPaVg

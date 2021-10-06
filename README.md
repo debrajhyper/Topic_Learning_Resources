@@ -31,7 +31,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 # Documentations
 
 ## Programming
-- RUBY(BEGGINER) : codecademy - www.codecademy.com/learn/learn-ruby
+- RUBY (BEGGINER) : Codecademy - www.codecademy.com/learn/learn-ruby
 ## HTML
 - HTML : Learn-HTML - www.learn-html.org
 - HTML : TutorialsPoint - www.tutorialspoint.com/html/html_tutorial.pdf
@@ -50,7 +50,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## CSS Frameworks
 - Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4
 - Bulma : openbase - www.openbase.io/js/bulma/tutorials
-- Chakra UI : Docs - chakra-ui.com/getting-started
+- Chakra UI : Docs - www.chakra-ui.com/getting-started
 
 ## SASS
 - SASS : w3schools - www.w3schools.com/sass
@@ -58,6 +58,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## Javascript
 - JS for Cats : www.jsforcats.com
 - Javascript Exercises (Beginner) : www.asmarterwaytolearn.com/js/index-of-exercises
+- Javascript For Advanced Level : https://www.edureka.co/blog/advanced-javascript-tutorial/
 
 ## Frameworks/Library
 - React js : Docs - www.reactjs.org/docs/hello-world
@@ -77,6 +78,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 👩🏻‍💻 Programming: 
 
+
 - CORE JAVA (HINDI) : https://youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b ★★★★☆
 - PYTHON(ENGLISH) : https://www.youtube.com/watch?v=t8pPdKYpowI  ★★★★☆
 - GOLANG(ENGLISH) : https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q  ★★★★☆
@@ -87,19 +89,34 @@ TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
 - C++ : Apna College - www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
 - Python (Basics) for beginners by FreeCodeCamp.org: https://www.youtube.com/watch?v=rfscVS0vtbw
 
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| CORE JAVA | Smart Programming | www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b |
+| PYTHON Basics (Beginner) | FreeCodeCamp | https://www.youtube.com/watch?v=rfscVS0vtbw |
+| PYTHON (Beginner) | TechWorld with Nana | www.youtube.com/watch?v=t8pPdKYpowI |
+| PYTHON (Advance) | Python Engineer | www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 |
+| C++ | Apna College | www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
+
+
 ## ❄ Frontend Development
-- HTML : FreeCodeCamp - www.youtube.com/watch?v=pQN-pnXPaVg
-- HTML/CSS From scratch : FreeCodeCamp - www.youtube.com/watch?v=mU6anWqZJcc
-- HTML For Beginners : Programming with Mosh - https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s
+
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| HTML | FreeCodeCamp | www.youtube.com/watch?v=pQN-pnXPaVg |
+| HTML/CSS From scratch | FreeCodeCamp | www.youtube.com/watch?v=mU6anWqZJcc |
+| HTML (Beginner) | Programming with Mosh | https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s |
 
 ## ⚡ Frontend Frameworks/Library
 
-- REACT JS (Beginner) : Clever Programmer - www.youtube.com/watch?v=vIRBSI-elUM
-- REACT JS (Beginner to Advance) : Clever Programmer - www.youtube.com/watch?v=-cMqr9HpZ-Y
-- React JS Crash Course : Traversy Media - www.youtube.com/watch?v=A71aqufiNtQ
-- VUE JS : The Net Ninja - www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| REACT JS (Beginner) | Clever Programmer | www.youtube.com/watch?v=vIRBSI-elUM |
+| REACT JS (Beginner to Advance) | Clever Programmer | www.youtube.com/watch?v=-cMqr9HpZ-Y |
+| React JS Crash Course | Traversy Media | www.youtube.com/watch?v=A71aqufiNtQ |
+| VUE JS | The Net Ninja | www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa |
 
 ## 🔥 Backend Development:
+
 
 - NODEJS (HINDI) - https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 ★★★★☆
 - SQL(ENGLISH) - https://www.youtube.com/watch?v=5hzZtqCNQKk  ★★★★☆
@@ -108,9 +125,21 @@ TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
 - NODE JS : Thapa Technical - www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8
 - PYTHON : API Testing In Python - https://testautomationu.applitools.com/python-api-testing/
 
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| NODE JS | Thapa Technical | www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 |
+| PYTHON | API Testing In Python | https://testautomationu.applitools.com/python-api-testing |
+
 ## 🌀 Backend Frameworks/Library
-- PYTEST (Beginner) : Test Automation University - https://testautomationu.applitools.com/pytest-tutorial/
+
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| PYTEST (Beginner) | Test Automation University | https://testautomationu.applitools.com/pytest-tutorial |
+
 ## 📂 Database
-- SQL (Beginner) : Amigoscode - www.youtube.com/watch?v=5hzZtqCNQKk
+
+| TOPIC  | AUTHORITY NAME | LINK |
+| ------ | -------------- | ---- |
+| SQL (Beginner) | Amigoscode | www.youtube.com/watch?v=5hzZtqCNQKk |
 
 

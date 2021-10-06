@@ -9,7 +9,7 @@ We love your input! We want to make contributing to this project as easy and tra
 
 ## Guidelines
 
-- Mention total number of changes/added resources in the pull request.
+- Mention total **number of changes/added** resources in the pull request.
 - Pull request should include a link to the resource and a short description.
 - The resource **must** be completely free or to have a free tier.
 

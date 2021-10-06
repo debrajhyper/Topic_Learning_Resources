@@ -12,10 +12,10 @@
 - [Documentations](#documentations)
     - ad
 - [Video/Playlist](#videoplaylist)
-  - [👩🏻‍💻 Programming](#programming)
-  - [❄ Frontend Development](#frontend-development)
-  - [⚡ JavaScript and Frameworks](#javaScript-and-frameworks)
-  - [🔥 Backend Development](#backend-development)
+  - [👩🏻‍💻 Programming](#-programming)
+  - [❄ Frontend Development](#-frontend-development)
+  - [⚡ JavaScript and Frameworks](#-javaScript-and-frameworks)
+  - [🔥 Backend Development](#-backend-development)
 
 
 # Documentations

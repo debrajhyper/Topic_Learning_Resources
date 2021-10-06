@@ -55,23 +55,23 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4
 - Bulma : openbase - www.openbase.io/js/bulma/tutorials
 - Chakra UI : Docs - www.chakra-ui.com/getting-started
-- TailwindCSS : Docs - https://tailwindcss.com/
+- TailwindCSS : Docs - www.tailwindcss.com
 
 ## SASS
 - SASS : w3schools - www.w3schools.com/sass
-- SASS : Docs - https://sass-lang.com/documentation 
+- SASS : Docs - www.sass-lang.com/documentation 
 
 ## Javascript
 - JS for Cats : www.jsforcats.com
 - Javascript Exercises (Beginner) : www.asmarterwaytolearn.com/js/index-of-exercises
-- Javascript (Advance) : https://www.edureka.co/blog/advanced-javascript-tutorial/
+- Javascript (Advance) : www.edureka.co/blog/advanced-javascript-tutorial
 
 ## Frameworks/Library
 - React js : Docs - www.reactjs.org/docs/hello-world
 - Angular : Docs - www.angular.io
-- Vue : Docs - https://vuejs.org/ 
-- Next : Docs - https://nextjs.org/
-- Svelte: Docs - https://svelte.dev/ 
+- Vue : Docs - www.vuejs.org
+- Next : Docs - www.nextjs.org
+- Svelte: Docs - www.svelte.dev
  
 ## Misc
 - DevTools : www.developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
@@ -131,6 +131,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 | TOPIC             | SOURCE NAME    | LINK                                                                     |
 | ----------------- | -------------- | ------------------------------------------------------------------------ |
-| SQL (Beginner)    | Amigoscode     | https://www.youtube.com/watch?v=5hzZtqCNQKk                                      |
+| SQL (Beginner)    | Amigoscode     | https://www.youtube.com/watch?v=5hzZtqCNQKk                              |
 | MONGODB           | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
 

@@ -19,6 +19,14 @@ We love your input! We want to make contributing to this project as easy and tra
 | ------------- | ------------- | ------------- |
 | HTML | FreeCodeCamp | www.youtube.com/watch?v=pQN-pnXPaVg |
 
+## Steps For Contribution
+
+    1. Fork this repo
+    2. Star ⭐ this repo
+    3. Add Your Awesome Learning Resources
+    4. commit the changes
+    5. Make Pull Request
+
 
 ## Get help from Guthub:
 

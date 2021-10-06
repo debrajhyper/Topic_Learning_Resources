@@ -106,10 +106,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🔥 Backend Development:
 
-| TOPIC   | RESOURCE NAME         | LINK                                                                     |
-| ------- | --------------------- | ------------------------------------------------------------------------ |
-| NODE JS | Thapa Technical       | https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 |
-| PYTHON  | API Testing In Python | https://testautomationu.applitools.com/python-api-testing                |
+| TOPIC          | RESOURCE NAME         | LINK                                                                     |
+| -------------- | --------------------- | ------------------------------------------------------------------------ |
+| NODE JS        | Thapa Technical       | https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 |
+| PYTHON         | API Testing In Python | https://testautomationu.applitools.com/python-api-testing                |
+| PYTHON(DJANGO) | Backend with Django   | https://www.youtube.com/watch?v=jBzwzrDvZ18                              |
 
 ## 🌀 Backend Frameworks/Library
 

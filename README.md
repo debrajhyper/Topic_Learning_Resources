@@ -11,10 +11,10 @@
 ## Table of Contents
 - [Documentations](#documentations)
     - ad
-- [Video/Playlist](#video/playlist)
+- [Video/Playlist](#videoplaylist)
   - [👩🏻‍💻 Programming](#programming)
   - [❄ Frontend Development](#frontend-development)
-  - [JavaScript and Frameworks](#javaScript-and-frameworks)
+  - [⚡ JavaScript and Frameworks](#javaScript-and-frameworks)
   - [🔥 Backend Development](#backend-development)
 
 
@@ -73,7 +73,7 @@ TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
 - HTML : FreeCodeCamp - www.youtube.com/watch?v=pQN-pnXPaVg
 - HTML/CSS From scratch : FreeCodeCamp - www.youtube.com/watch?v=mU6anWqZJcc
 
-### JavaScript and Frameworks
+## ⚡ JavaScript and Frameworks
 
 - REACT JS (BEGGINER) : Clever Programmer - www.youtube.com/watch?v=vIRBSI-elUM
 - REACT JS (BEGGINER TO ADVANCE) : Clever Programmer - www.youtube.com/watch?v=-cMqr9HpZ-Y

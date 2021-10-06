@@ -22,7 +22,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [Misc](#misc)
 - [Video/Playlist](#videoplaylist)
   - [👩🏻‍💻 Programming](#-programming)
-  - [❄ Frontend Development](#-frontend-development)
+  - [🌊 Frontend Development](#-frontend-development)
   - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
   - [🔥 Backend Development](#-backend-development)
   - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
@@ -97,7 +97,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C++                      | Apna College        | https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
 | GOLANG (Beginner)        | Tech with Tim       | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
 
-## ❄ Frontend Development
+## 🌊 Frontend Development
 
 | TOPIC                 | SOURCE NAME           | LINK                                               |
 | --------------------- | --------------------- | -------------------------------------------------- |

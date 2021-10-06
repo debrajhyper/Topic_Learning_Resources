@@ -31,7 +31,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 # Documentations
 
 ## Programming
-- RUBY(BEGGINER) : codecademy - www.codecademy.com/learn/learn-ruby
+- RUBY (BEGGINER) : Codecademy - www.codecademy.com/learn/learn-ruby
 ## HTML
 - HTML : Learn-HTML - www.learn-html.org
 - HTML : TutorialsPoint - www.tutorialspoint.com/html/html_tutorial.pdf
@@ -77,16 +77,17 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 👩🏻‍💻 Programming: 
 - CORE JAVA : Smart Programming - www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b
+- PYTHON Basics (Beginner) : FreeCodeCamp - https://www.youtube.com/watch?v=rfscVS0vtbw
 - PYTHON (Beginner) : 
 TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
 - PYTHON (Advance) : Python Engineer - www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
 - C++ : Apna College - www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
-- Python (Basics) for beginners by FreeCodeCamp.org: https://www.youtube.com/watch?v=rfscVS0vtbw
+
 
 ## ❄ Frontend Development
 - HTML : FreeCodeCamp - www.youtube.com/watch?v=pQN-pnXPaVg
 - HTML/CSS From scratch : FreeCodeCamp - www.youtube.com/watch?v=mU6anWqZJcc
-- HTML For Beginners : Programming with Mosh - https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s
+- HTML (Beginner) : Programming with Mosh - https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s
 
 ## ⚡ Frontend Frameworks/Library
 

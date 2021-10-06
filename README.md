@@ -1,12 +1,17 @@
-# Topic Learning Resources
-    It's an all-one repository to get all free tech topics learning resources.
-    So that you can focus on building skills rather than finding good resources to learn from.
- 
+# Topic Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/debrajhyper)
 
+This is an awesome project about Learning resources. ⚡
 
-## Contribution Details:
-- Topic Name : Tutorial Link/Playlist Link `Stars`
+Resources are added frequently! ⚡
 
+Enjoy!
+
+If you like this repo, be sure to ⭐ it.
+
+Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
+
+<br/>
+<br/>
 
 ## Table of Contents
 - [Documentations](#documentations)
@@ -43,7 +48,7 @@
 - Materialize CSS : Docs - www.materializecss.com
 - CSS Grid : CheatSheets - www.grid.malven.co
 - CSS Flexbox : CheatSheets - www.darekkay.com/dev/flexbox-cheatsheet
-- CSS-Tricks : css-tricks.com
+- CSS Tricks : www.css-tricks.com
 
 ## CSS Frameworks
 - Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4

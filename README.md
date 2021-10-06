@@ -67,7 +67,7 @@
 - CORE JAVA (HINDI) : Smart Programming - www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b
 - PYTHON (ENGLISH) : 
 TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
-- CPP (HINDI) : Apna College - youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
+- CPP (HINDI) : Apna College - www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
 
 ## ❄ Frontend Development
 - HTML : FreeCodeCamp - www.youtube.com/watch?v=pQN-pnXPaVg
@@ -81,7 +81,7 @@ TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
 ## 🔥 Backend Development:
 
 - NODEJS (HINDI) : Thapa Technical - www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8
-- SQL(ENGLISH) : Amigoscode - www.youtube.com/watch?v=5hzZtqCNQKk
-- PYTHON(ADVANCED) : Python Engineer - www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
+- SQL (ENGLISH) : Amigoscode - www.youtube.com/watch?v=5hzZtqCNQKk
+- PYTHON (ADVANCED) : Python Engineer - www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
 
 

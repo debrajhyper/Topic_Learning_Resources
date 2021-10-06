@@ -79,4 +79,5 @@
 - NODEJS (HINDI) - https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 ★★★★☆
 - SQL(ENGLISH) - https://www.youtube.com/watch?v=5hzZtqCNQKk  ★★★★☆
 - PYTHON(ADVANCED) - https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2  ★★★★☆
+- RUBY(BEGGINER) - https://www.codecademy.com/learn/learn-ruby  ★★★★☆
 

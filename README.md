@@ -98,7 +98,7 @@ TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
 
 
 ## 🌀 Backend Frameworks/Library
-
+- PYTEST (Beginner) : Test Automation University - https://testautomationu.applitools.com/pytest-tutorial/
 ## 📂 Database
 - SQL (Beginner) : Amigoscode - www.youtube.com/watch?v=5hzZtqCNQKk
 

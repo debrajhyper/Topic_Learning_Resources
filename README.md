@@ -77,6 +77,17 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 # Video/Playlist
 
 ## 👩🏻‍💻 Programming: 
+
+
+- CORE JAVA (HINDI) : https://youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b ★★★★☆
+- PYTHON(ENGLISH) : https://www.youtube.com/watch?v=t8pPdKYpowI  ★★★★☆
+- CORE JAVA : Smart Programming - www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b
+- PYTHON (Beginner) : 
+TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
+- PYTHON (Advance) : Python Engineer - www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
+- C++ : Apna College - www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
+- Python (Basics) for beginners by FreeCodeCamp.org: https://www.youtube.com/watch?v=rfscVS0vtbw
+
 | TOPIC  | AUTHORITY NAME | LINK |
 | ------ | -------------- | ---- |
 | CORE JAVA | Smart Programming | www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b |
@@ -84,6 +95,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | PYTHON (Beginner) | TechWorld with Nana | www.youtube.com/watch?v=t8pPdKYpowI |
 | PYTHON (Advance) | Python Engineer | www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 |
 | C++ | Apna College | www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
+| GOLANG (Beginner) | Tech with Tim | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
 
 ## ❄ Frontend Development
 
@@ -104,6 +116,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🔥 Backend Development:
 
+
+- NODEJS (HINDI) - https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 ★★★★☆
+- SQL(ENGLISH) - https://www.youtube.com/watch?v=5hzZtqCNQKk  ★★★★☆
+- PYTHON(ADVANCED) - https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2  ★★★★☆
+
+- NODE JS : Thapa Technical - www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8
+- PYTHON : API Testing In Python - https://testautomationu.applitools.com/python-api-testing/
+
 | TOPIC  | AUTHORITY NAME | LINK |
 | ------ | -------------- | ---- |
 | NODE JS | Thapa Technical | www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 |
@@ -120,4 +140,5 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC  | AUTHORITY NAME | LINK |
 | ------ | -------------- | ---- |
 | SQL (Beginner) | Amigoscode | www.youtube.com/watch?v=5hzZtqCNQKk |
+| MONGODB (ENGLISH) | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
 

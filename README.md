@@ -5,55 +5,39 @@
 
 
 ## Contribution Details:
-
-- Stars : ★☆
 - Topic Name : Tutorial Link/Playlist Link `Stars`
 
 
 ## Table of Contents
-
-- [👩🏻‍💻 Programming](#programming)
-- [❄ Frontend Development](#frontend-development)
-  - HTML
-  - CSS
-  - JavaScript
-- [🔥 Backend Development](#backend-development)
-
-
-## 👩🏻‍💻 Programming: 
-- CORE JAVA (HINDI) : https://youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b ★★★★☆
-- PYTHON(ENGLISH) : https://www.youtube.com/watch?v=t8pPdKYpowI  ★★★★☆
-- CPP1(HINDI) : https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
-
-## ❄ Frontend Development
-
-### HTML
-
-- HTML : https://youtu.be/pQN-pnXPaVg ★★★★☆
-- <a href="https://www.w3schools.com/" target="_blank">W3Schools</a>   
-- <a href="https://www.learn-html.org/" target="_blank">Learn HTML</a>  
-- <a href="https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign" target="_blank">Free UDEMY Course for HTML/CSS from scratch</a>  
-- <a href="https://www.youtube.com/watch?v=mU6anWqZJcc" target="_blank">HTML and CSS From scratch - FreeCodeCamp</a>  
-- <a href="https://www.youtube.com/watch?v=pQN-pnXPaVg" target="_blank">HTML in 2hr - FreeCodeCamp</a>  
-- <a href="http://www.tutorialspoint.com/html/html_tutorial.pdf" target="_blank">TutorialsPoint - HTML</a>
+- [Documentations](#documentations)
+    - ad
+- [Video/Playlist](#video/playlist)
+  - [👩🏻‍💻 Programming](#programming)
+  - [❄ Frontend Development](#frontend-development)
+  - [JavaScript and Frameworks](#javaScript-and-frameworks)
+  - [🔥 Backend Development](#backend-development)
 
 
-### CSS
-- <a href="https://www.w3schools.com/css/" target="_blank">W3Schools CSS</a>  
-- <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp - CSS Course</a>  
-- <a href="https://scrimba.com/learn/introtocss" target="_blank">Intro CSS - This series will teach you CSS in one hour</a>  
-- <a href="https://openbase.io/js/bulma/tutorials" target="_blank">Bulma - Tutorials provided by OpenBase</a>  
-- <a href="https://scrimba.com/learn/bootstrap4" target="_blank">Scrimba - Bootstrap 4</a>  
-- <a href="https://materializecss.com/" target="_blank">Materiliza CSS : Docs</a>  
-- <a href="https://www.sololearn.com/" target="_blank">SoloLearn - CSS (And all the major Langauges too)</a>  
-- <a href="http://overapi.com/css" target="_blank">CSS - CheatSheets</a>  
-- <a href="http://grid.malven.co/" target="_blank">CSS Grid - CheatSheets</a>  
-- <a href="https://darekkay.com/dev/flexbox-cheatsheet.html" target="_blank">CSS Flexbox - CheatSheets</a>  
-- <a href="https://chakra-ui.com/getting-started" target="_blank">Chakra UI</a>  
-- <a href="https://www.w3schools.com/sass/">SASS - Tutorials</a>  
-- <a href="https://css-tricks.com/">CSS-Tricks - Provide you everything tutorial with best understanding</a>
+# Documentations
+- HTML : Learn-HTML - www.learn-html.org
+- HTML : TutorialsPoint - www.tutorialspoint.com/html/html_tutorial.pdf
+- HTML/CSS : UDEMY - www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
 
-### JavaScript and Frameworks
+- CSS : W3Schools - www.w3schools.com/css
+- CSS : SoloLearn - www.sololearn.com
+- CSS Course : FreeCodeCamp - www.freecodecamp.org
+- Introduction to CSS : Scrimba - www.scrimba.com/learn/introtocss
+- Materialize CSS : Docs - www.materializecss.com
+- CSS Grid : CheatSheets - www.grid.malven.co
+- CSS Flexbox : CheatSheets - www.darekkay.com/dev/flexbox-cheatsheet
+- Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4
+- Bulma : openbase - www.openbase.io/js/bulma/tutorials
+- Chakra UI : Docs - chakra-ui.com/getting-started
+- SASS : w3schools - www.w3schools.com/sass
+- CSS-Tricks : css-tricks.com
+- RUBY(BEGGINER) : codecademy - www.codecademy.com/learn/learn-ruby
+
+
 
 
 - <a href="http://jsforcats.com/" target="_blank">JS for Cats</a>  
@@ -72,12 +56,32 @@
 - <a href="https://developers.google.com/web/progressive-web-apps/" target="_blank">For learning PWAS</a>  
 - <a href="https://webpack.js.org/" target="_blank">Using WEBPACK</a>  
 - <a href="https://www.typescriptlang.org/docs/handbook/basic-types.html" target="_blank">Typerscript - Official Handbook</a>
-- REACT JS(BEGGINER): https://www.youtube.com/watch?v=vIRBSI-elUM ★★★★☆
-- REACT JS(BEGGINER TO ADVANCE FULL COURSE): https://www.youtube.com/watch?v=-cMqr9HpZ-Y ★★★★☆
+
+<br/>
+<br/>
+<br/>
+
+# Video/Playlist
+
+## 👩🏻‍💻 Programming: 
+- CORE JAVA (HINDI) : Smart Programming - www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b
+- PYTHON (ENGLISH) : 
+TechWorld with Nana - www.youtube.com/watch?v=t8pPdKYpowI
+- CPP (HINDI) : Apna College - youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
+
+## ❄ Frontend Development
+- HTML : FreeCodeCamp - www.youtube.com/watch?v=pQN-pnXPaVg
+- HTML/CSS From scratch : FreeCodeCamp - www.youtube.com/watch?v=mU6anWqZJcc
+
+### JavaScript and Frameworks
+
+- REACT JS (BEGGINER) : Clever Programmer - www.youtube.com/watch?v=vIRBSI-elUM
+- REACT JS (BEGGINER TO ADVANCE) : Clever Programmer - www.youtube.com/watch?v=-cMqr9HpZ-Y
 
 ## 🔥 Backend Development:
-- NODEJS (HINDI) - https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 ★★★★☆
-- SQL(ENGLISH) - https://www.youtube.com/watch?v=5hzZtqCNQKk  ★★★★☆
-- PYTHON(ADVANCED) - https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2  ★★★★☆
-- RUBY(BEGGINER) - https://www.codecademy.com/learn/learn-ruby  ★★★★☆
+
+- NODEJS (HINDI) : Thapa Technical - www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8
+- SQL(ENGLISH) : Amigoscode - www.youtube.com/watch?v=5hzZtqCNQKk
+- PYTHON(ADVANCED) : Python Engineer - www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
+
 

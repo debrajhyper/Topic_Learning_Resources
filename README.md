@@ -103,6 +103,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C++                      | Apna College        | https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
 | C++ (Beginner)           | CodeWithHarry       | https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL     |
 | GOLANG (Beginner)        | Tech with Tim       | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
+| C#  (Full Course)        | FreeCodeCamo        | https://www.youtube.com/watch?v=GhQdlIFylQ8                              |
+| C# (Basic)               |Programming With Mosh| https://www.youtube.com/watch?v=gfkTfcpWqAY                              |
+
 
 ## 🎓 DSA
 

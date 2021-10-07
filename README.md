@@ -126,7 +126,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | React JS Crash Course          | Traversy Media    | https://www.youtube.com/watch?v=A71aqufiNtQ                              |
 | REACT JS (Beginner)            | Clever Programmer | https://www.youtube.com/watch?v=vIRBSI-elUM                              |
 | REACT JS (Beginner to Advance) | Clever Programmer | https://www.youtube.com/watch?v=-cMqr9HpZ-Y                              |
-| ReactJS (Beginner to Advance)  | Codevolution      | https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3 |
+| React JS (Beginner to Advance) | Codevolution      | https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3 |
 | React Redux                    | Codevolution      | https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK |
 | VUE JS                         | The Net Ninja     | https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa |
 

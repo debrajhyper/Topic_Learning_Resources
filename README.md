@@ -36,8 +36,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - RUBY (BEGGINER) : Codecademy - www.codecademy.com/learn/learn-ruby
 - RUST : Docs - www.rust-lang.org/learn
 - Python :
-  - Python for everybody by Dr. Chuck - www.py4e.com/
-  - FreecodeCamp Scientific Computing with Python certification - www.freecodecamp.org/learn/scientific-computing-with-python/
+  - Python for everybody by Dr. Chuck - www.py4e.com
+  - FreecodeCamp Scientific Computing with Python certification - www.freecodecamp.org/learn/scientific-computing-with-python
 
 ## HTML
 - HTML : Learn-HTML - www.learn-html.org

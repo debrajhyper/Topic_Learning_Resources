@@ -26,7 +26,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
   - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
   - [🔥 Backend Development](#-backend-development)
   - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-  - [📂 Database](#database)
+  - [📂 Database](#-database)
 
 <br/>
 
@@ -139,7 +139,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ----------------- | -------------- | ------------------------------------------------------------------------ |
 | SQL (Beginner)    | Amigoscode     | https://www.youtube.com/watch?v=5hzZtqCNQKk                              |
 | MONGODB           | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
-
 
 
 <br/>

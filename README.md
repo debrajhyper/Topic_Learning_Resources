@@ -99,6 +99,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | PYTHON (Advance)         | Python Engineer     | https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 |
 | C++                      | Apna College        | https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
 | GOLANG (Beginner)        | Tech with Tim       | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
+| C++ (Beginner)           | CodeWithHarry       | https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL     |
 
 ## 🌊 Frontend Development
 

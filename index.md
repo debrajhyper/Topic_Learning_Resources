@@ -22,6 +22,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [Misc](#misc)
 - [Video/Playlist](#videoplaylist)
   - [👩🏻‍💻 Programming](#-programming)
+  - [🎓 DSA](#-dsa)
   - [🌊 Frontend Development](#-frontend-development)
   - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
   - [🔥 Backend Development](#-backend-development)
@@ -101,6 +102,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C++ (Beginner)           | CodeWithHarry       | https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL     |
 | GOLANG (Beginner)        | Tech with Tim       | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
 
+## 🎓 DSA
+
+| TOPIC                    | SOURCE NAME    | LINK                                                                     |
+| ------------------------ | -------------- | ------------------------------------------------------------------------ |
+| Algorithms               | Abdul Bari     | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O |
+| Sliding Window Algorithm | Aditya Verma   | https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj |
+| Stack                    | Aditya Verma   | https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd |
+| DSA in Java              | Dinesh Varyani | https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d |
 
 ## 🌊 Frontend Development
 
@@ -114,9 +123,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 | TOPIC                          | SOURCE NAME       | LINK                                                                     |
 | ------------------------------ | ----------------- | ------------------------------------------------------------------------ |
+| React JS Crash Course          | Traversy Media    | https://www.youtube.com/watch?v=A71aqufiNtQ                              |
 | REACT JS (Beginner)            | Clever Programmer | https://www.youtube.com/watch?v=vIRBSI-elUM                              |
 | REACT JS (Beginner to Advance) | Clever Programmer | https://www.youtube.com/watch?v=-cMqr9HpZ-Y                              |
-| React JS Crash Course          | Traversy Media    | https://www.youtube.com/watch?v=A71aqufiNtQ                              |
+| React JS (Beginner to Advance) | Codevolution      | https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3 |
+| React Redux                    | Codevolution      | https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK |
 | VUE JS                         | The Net Ninja     | https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa |
 
 ## 🔥 Backend Development:

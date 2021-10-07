@@ -26,7 +26,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
   - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
   - [🔥 Backend Development](#-backend-development)
   - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-  - [📂 Database](#database)
+  - [📂 Database](#-database)
 
 <br/>
 

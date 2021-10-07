@@ -83,6 +83,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - PWA : www.developers.google.com/web/progressive-web-apps
 - WEBPACK : www.webpack.js.org
 - Typerscript : Official Handbook - www.typescriptlang.org/docs/handbook/basic-types
+- Android Development : https://developer.android.com/courses
 
 <br/>
 <br/>
@@ -101,6 +102,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C++                      | Apna College        | https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
 | C++ (Beginner)           | CodeWithHarry       | https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL     |
 | GOLANG (Beginner)        | Tech with Tim       | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
+| Kotlin                   | FreeCodeCamp        | https://www.youtube.com/watch?v=F9UC9DY-vIU                              |
 
 ## 🎓 DSA
 

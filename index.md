@@ -35,6 +35,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## Programming
 - RUBY (BEGGINER) : Codecademy - www.codecademy.com/learn/learn-ruby
 - RUST : Docs - www.rust-lang.org/learn
+- Python :
+  - Python for everybody by Dr. Chuck - www.py4e.com
+  - FreecodeCamp Scientific Computing with Python certification - www.freecodecamp.org/learn/scientific-computing-with-python
 
 ## HTML
 - HTML : Learn-HTML - www.learn-html.org
@@ -95,7 +98,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | PYTHON (Beginner)        | TechWorld with Nana | https://www.youtube.com/watch?v=t8pPdKYpowI                              |
 | PYTHON (Advance)         | Python Engineer     | https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 |
 | C++                      | Apna College        | https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
+| C++ (Beginner)           | CodeWithHarry       | https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL     |
 | GOLANG (Beginner)        | Tech with Tim       | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
+
 
 ## 🌊 Frontend Development
 
@@ -134,6 +139,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ----------------- | -------------- | ------------------------------------------------------------------------ |
 | SQL (Beginner)    | Amigoscode     | https://www.youtube.com/watch?v=5hzZtqCNQKk                              |
 | MONGODB           | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
+
+
 
 <br/>
 <br/>

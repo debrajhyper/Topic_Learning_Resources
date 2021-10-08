@@ -44,7 +44,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - HTML : Learn-HTML - www.learn-html.org
 - HTML : TutorialsPoint - www.tutorialspoint.com/html/html_tutorial.pdf
 - HTML/CSS : UDEMY - www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
-
+- HTML/CSS : FreecodeCamp responsive web design certification : www.freecodecamp.org/learn/responsive-web-design/ 
 ## CSS
 - CSS : W3Schools - www.w3schools.com/css
 - CSS : SoloLearn - www.sololearn.com

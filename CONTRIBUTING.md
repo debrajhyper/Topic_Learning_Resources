@@ -20,8 +20,8 @@ We love your input! We want to make contributing to this project as easy and tra
     
 #### Documentations
 - TOPIC : SOURCE NAME - LINK
-- SASS : w3schools - www.w3schools.com/sass
-- Next : Docs - www.nextjs.org
+- SASS  : w3schools   - https://www.w3schools.com/sass
+- Next  : Docs        - https://nextjs.org
 
 #### Video/Playlist
 | TOPIC                          | SOURCE NAME       | LINK                                        |

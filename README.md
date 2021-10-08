@@ -55,6 +55,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - CSS Flexbox : CheatSheets - www.darekkay.com/dev/flexbox-cheatsheet
 - CSS Tricks : www.css-tricks.com
 - CSS Animated Tutorial: www.joshwcomeau.com/tutorials/css
+- CSS : WEB.DEV : https://web.dev/learn/css/
 
 ## CSS Frameworks
 - Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4
@@ -154,4 +155,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ----------------- | -------------- | ------------------------------------------------------------------------ |
 | SQL (Beginner)    | Amigoscode     | https://www.youtube.com/watch?v=5hzZtqCNQKk                              |
 | MONGODB           | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
+| MongoDB           | JsWiz          | https://www.youtube.com/playlist?list=PLGquJ_T_JBMQmvvrriJcwdESGECuRhvtR |
+
+
 

@@ -1,0 +1,44 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here!
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  Thanks for opening this pull request! 🤗
+  Wishing you a great Hacktoberfest 2021 🎉 ⚡
+  
+  📢 Spread the word about @debrajhyper/Topic_Learning_Resources repo across your social media channels to help get others involved!
+  **Retweet** [this](https://twitter.com/debraj_010/status/1444397715559833602?s=20).
+  
+  ![](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+  
+  Check out few other repos below 🚀
+  <p align="center">
+  <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
+
+  <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
+  </p>
+  
+  Show some ❤️
+
+  Consider leaving a ⭐ here.
+  Check out more beginner-friendly repos [here](https://github.com/debrajhyper?tab=repositories).
+  Follow @debrajhyper for more updates.
+  
+  Say Hi on [Twitter](https://twitter.com/debraj_010)! 👋
+  
+  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/debraj_010)&nbsp;
+  [![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/debrajkarmakar010/)
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
+
+# It is recommended to include as many gifs and emojis as possible!

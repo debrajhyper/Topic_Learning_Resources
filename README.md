@@ -93,19 +93,18 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 👩🏻‍💻 Programming: 
 
-| TOPIC                    | SOURCE NAME         | LINK                                                                     |
-| ------------------------ | ------------------- | ------------------------------------------------------------------------ |
-| CORE JAVA                | Smart Programming   | https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b |
-| KOTLIN                   | FreeCodeCamp        | https://www.youtube.com/watch?v=F9UC9DY-vIU                              |
-| PYTHON Basics (Beginner) | FreeCodeCamp        | https://www.youtube.com/watch?v=rfscVS0vtbw                              |
-| PYTHON (Beginner)        | TechWorld with Nana | https://www.youtube.com/watch?v=t8pPdKYpowI                              |
-| PYTHON (Advance)         | Python Engineer     | https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 |
-| C++                      | Apna College        | https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
-| C++ (Beginner)           | CodeWithHarry       | https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL     |
-| GOLANG (Beginner)        | Tech with Tim       | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
-| C#  (Full Course)        | FreeCodeCamo        | https://www.youtube.com/watch?v=GhQdlIFylQ8                              |
-| C# (Basic)               |Programming With Mosh| https://www.youtube.com/watch?v=gfkTfcpWqAY                              |
-
+| TOPIC                    | SOURCE NAME           | LINK                                                                     |
+| ------------------------ | --------------------- | ------------------------------------------------------------------------ |
+| CORE JAVA                | Smart Programming     | https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b |
+| KOTLIN                   | FreeCodeCamp          | https://www.youtube.com/watch?v=F9UC9DY-vIU                              |
+| PYTHON Basics (Beginner) | FreeCodeCamp          | https://www.youtube.com/watch?v=rfscVS0vtbw                              |
+| PYTHON (Beginner)        | TechWorld with Nana   | https://www.youtube.com/watch?v=t8pPdKYpowI                              |
+| PYTHON (Advance)         | Python Engineer       | https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 |
+| C++                      | Apna College          | https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
+| C++ (Beginner)           | CodeWithHarry         | https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL     |
+| GOLANG (Beginner)        | Tech with Tim         | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
+| C# (Basic)               | Programming With Mosh | https://www.youtube.com/watch?v=gfkTfcpWqAY                              |
+| C#  (Full Course)        | FreeCodeCamo          | https://www.youtube.com/watch?v=GhQdlIFylQ8                              |
 
 ## 🎓 DSA
 

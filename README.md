@@ -29,6 +29,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
   - [🔥 Backend Development](#-backend-development)
   - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
   - [📂 Database](#-database)
+- [Free-Courses](#free-courses)
+  - [📂 Machine Learning](#-machine-learning)
+  - [📂 Artifical Intelligence](#-artifical-intelligence)
 
 <br/>
 
@@ -159,3 +162,27 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | SQL (Beginner)    | Amigoscode     | https://www.youtube.com/watch?v=5hzZtqCNQKk                              |
 | MONGODB           | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
 | MongoDB           | JsWiz          | https://www.youtube.com/playlist?list=PLGquJ_T_JBMQmvvrriJcwdESGECuRhvtR |
+
+# Free Courses
+
+## 📂 Machine Learning
+
+| TOPIC             | SOURCE NAME    | LINK                                                                     |
+| ----------------- | -------------- | ------------------------------------------------------------------------ |
+| Machine Learning    | Stanford - Coursera     | [click_here](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&siteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM)                            |
+| Data Science: Machine Learning | Harvard university | [click_here](https://www.edx.org/course/data-science-machine-learning?source=aw&awc=6798_1633798073_b437c9898e15c64b9410fecfc721916d&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=790615_MLTUT) |
+| Machine Learning Crash Course | Google Developer Student Club      |[click_here](https://developers.google.com/machine-learning/crash-course/ml-intro) |
+| Data Science, Machine Learning, Data Analysis, Python & R          | Udemy | [click_here](https://www.udemy.com/course/data-science-machine-learning-data-analysis-python-r/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-L568tmz9IBoJNloTuAYouA&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads) |
+| Python Crash Course for Data Science and Machine Learning          | Udemy          | [click_here](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-FHQDALViz5JD74D6YRr0Rw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads) |
+
+## 📂 Artifical Intelligence
+
+| TOPIC             | SOURCE NAME    | LINK                                                                     |
+| ----------------- | -------------- | ------------------------------------------------------------------------ |
+| AI Engineering   | IBM - Coursera     | [click_here](https://www.coursera.org/professional-certificates/ai-engineer)                            |
+| Applied AI | IBM - Coursera | [click_here](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai) |
+| Deep Learning Specialization | DeepLearning.AI - Coursera      |[click_here](https://www.coursera.org/specializations/deep-learning) |
+| Convolutional Neural Networks for Visual Recognition  | Stanford - YouTube |[click_here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| Intro to Artificial Intelligence  | Udacity | [click_here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) |
+|Artificial Intelligence for Robotics | Udacity  | [click_here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) |
+

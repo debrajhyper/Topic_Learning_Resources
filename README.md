@@ -34,56 +34,57 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 # Documentations
 
 ## Programming
-- RUBY (BEGGINER) : Codecademy - www.codecademy.com/learn/learn-ruby
-- RUST : Docs - www.rust-lang.org/learn
+- RUBY (BEGGINER) : Codecademy - https://codecademy.com/learn/learn-ruby
+- RUST : Docs - https://rust-lang.org/learn
 - Python :
-  - Python for everybody by Dr. Chuck - www.py4e.com
-  - FreecodeCamp Scientific Computing with Python certification - www.freecodecamp.org/learn/scientific-computing-with-python
+  - Python for everybody by Dr. Chuck - https://py4e.com
+  - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
 
 ## HTML
-- HTML : Learn-HTML - www.learn-html.org
-- HTML : TutorialsPoint - www.tutorialspoint.com/html/html_tutorial.pdf
-- HTML/CSS : UDEMY - www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
-- HTML/CSS : FreecodeCamp responsive web design certification : www.freecodecamp.org/learn/responsive-web-design/ 
+- HTML : Learn-HTML - https://learn-html.org
+- HTML : TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
+- HTML/CSS : UDEMY - https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
+- HTML/CSS : FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
+
 ## CSS
-- CSS : W3Schools - www.w3schools.com/css
-- CSS : SoloLearn - www.sololearn.com
-- CSS Course : FreeCodeCamp - www.freecodecamp.org
-- Introduction to CSS : Scrimba - www.scrimba.com/learn/introtocss
-- Materialize CSS : Docs - www.materializecss.com
-- CSS Grid : CheatSheets - www.grid.malven.co
-- CSS Flexbox : CheatSheets - www.darekkay.com/dev/flexbox-cheatsheet
-- CSS Tricks : www.css-tricks.com
-- CSS Animated Tutorial: www.joshwcomeau.com/tutorials/css
+- CSS : W3Schools - https://w3schools.com/css/
+- CSS : SoloLearn - https://sololearn.com
+- CSS Course : FreeCodeCamp - https://freecodecamp.org
+- Introduction to CSS : Scrimba - https://scrimba.com/learn/introtocss
+- Materialize CSS : Docs - https://materializecss.com
+- CSS Grid : CheatSheets - https://grid.malven.co
+- CSS Flexbox : CheatSheets - https://darekkay.com/dev/flexbox-cheatsheet
+- CSS Tricks : https://css-tricks.com
+- CSS Animated Tutorial: https://joshwcomeau.com/tutorials/css
 - CSS : WEB.DEV : https://web.dev/learn/css
 
 ## CSS Frameworks
-- Bootstrap 4 : Scrimba - www.scrimba.com/learn/bootstrap4
-- Bulma : openbase - www.openbase.io/js/bulma/tutorials
-- Chakra UI : Docs - www.chakra-ui.com/getting-started
-- TailwindCSS : Docs - www.tailwindcss.com
+- Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
+- Bulma : openbase -  https://openbase.io/js/bulma/tutorials
+- Chakra UI : Docs -  https://chakra-ui.com/getting-started
+- TailwindCSS : Docs -  https://tailwindcss.com
 
 ## SASS
-- SASS : w3schools - www.w3schools.com/sass
-- SASS : Docs - www.sass-lang.com/documentation 
+- SASS : w3schools -  https://w3schools.com/sass
+- SASS : Docs -  https://sass-lang.com/documentation 
 
 ## Javascript
-- JS for Cats : www.jsforcats.com
-- Javascript Exercises (Beginner) : www.asmarterwaytolearn.com/js/index-of-exercises
-- Javascript (Advance) : www.edureka.co/blog/advanced-javascript-tutorial
+- JS for Cats :  https://jsforcats.com
+- Javascript Exercises (Beginner) :  https://asmarterwaytolearn.com/js/index-of-exercises
+- Javascript (Advance) :  https://edureka.co/blog/advanced-javascript-tutorial
 
 ## Frameworks/Library
-- React js : Docs - www.reactjs.org/docs/hello-world
-- Angular : Docs - www.angular.io
-- Vue : Docs - www.vuejs.org
-- Next : Docs - www.nextjs.org
-- Svelte: Docs - www.svelte.dev
+- React js : Docs -  https://reactjs.org/docs/hello-world
+- Angular : Docs -  https://angular.io
+- Vue : Docs - https://vuejs.org
+- Next : Docs -  https://nextjs.org
+- Svelte: Docs -  https://svelte.dev
  
 ## Misc
-- DevTools : www.developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
-- PWA : www.developers.google.com/web/progressive-web-apps
-- WEBPACK : www.webpack.js.org
-- Typerscript : Official Handbook - www.typescriptlang.org/docs/handbook/basic-types
+- DevTools :  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
+- PWA :  https://developers.google.com/web/progressive-web-apps
+- WEBPACK :  https://webpack.js.org
+- Typerscript : Official Handbook -  https://typescriptlang.org/docs/handbook/basic-types
 - Android Development : https://developer.android.com/courses
 
 <br/>
@@ -109,13 +110,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🎓 DSA
 
-| TOPIC                    | SOURCE NAME    | LINK                                                                     |
-| ------------------------ | -------------- | ------------------------------------------------------------------------ |
-| Algorithms               | Abdul Bari     | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O |
-| Sliding Window Algorithm | Aditya Verma   | https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj |
-| Stack                    | Aditya Verma   | https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd |
-| DSA in Java              | Dinesh Varyani | https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d |
-| Ongoing Java + DSA + Interview Preparation Course | Kunal Kushwaha | https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ |
+| TOPIC                                               | SOURCE NAME    | LINK                                                                     |
+| --------------------------------------------------- | -------------- | ------------------------------------------------------------------------ |
+| Algorithms                                          | Abdul Bari     | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O |
+| Sliding Window Algorithm                            | Aditya Verma   | https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj |
+| Stack                                               | Aditya Verma   | https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd |
+| DSA in Java                                         | Dinesh Varyani | https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d |
+| Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha | https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ     |
 
 ## 🌊 Frontend Development
 

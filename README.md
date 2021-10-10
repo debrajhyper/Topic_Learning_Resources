@@ -29,9 +29,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
   - [🔥 Backend Development](#-backend-development)
   - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
   - [📂 Database](#-database)
-- [Free-Courses](#free-courses)
-  - [📂 Machine Learning](#-machine-learning)
-  - [📂 Artifical Intelligence](#-artifical-intelligence)
+  - [📑 Machine Learning](#-machine-learning)
+  - [💡 Artifical Intelligence](#-artifical-intelligence)
 
 <br/>
 
@@ -99,90 +98,87 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 👩🏻‍💻 Programming: 
 
-| TOPIC                    | SOURCE NAME           | LINK                                                                     |
-| ------------------------ | --------------------- | ------------------------------------------------------------------------ |
-| CORE JAVA                | Smart Programming     | https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b |
-| KOTLIN                   | FreeCodeCamp          | https://www.youtube.com/watch?v=F9UC9DY-vIU                              |
-| PYTHON Basics (Beginner) | FreeCodeCamp          | https://www.youtube.com/watch?v=rfscVS0vtbw                              |
-| PYTHON (Beginner)        | TechWorld with Nana   | https://www.youtube.com/watch?v=t8pPdKYpowI                              |
-| PYTHON (Advance)         | Python Engineer       | https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 |
-| C++                      | Apna College          | https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ |
-| C++ (Beginner)           | CodeWithHarry         | https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL     |
-| GOLANG (Beginner)        | Tech with Tim         | https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q |
-| C# (Basic)               | Programming With Mosh | https://www.youtube.com/watch?v=gfkTfcpWqAY                              |
-| C#  (Full Course)        | FreeCodeCamo          | https://www.youtube.com/watch?v=GhQdlIFylQ8                              |
+| TOPIC                    | SOURCE NAME           | LINK                                                                                   |
+| ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
+| CORE JAVA                | Smart Programming     | [click here](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) |
+| KOTLIN                   | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=F9UC9DY-vIU)                              |
+| PYTHON Basics (Beginner) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw)                              |
+| PYTHON (Beginner)        | TechWorld with Nana   | [click here](https://www.youtube.com/watch?v=t8pPdKYpowI)                              |
+| PYTHON (Advance)         | Python Engineer       | [click here](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |
+| C++                      | Apna College          | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) |
+| C++ (Beginner)           | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)     |
+| GOLANG (Beginner)        | Tech with Tim         | [click here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) |
+| C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
+| C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 
 ## 🎓 DSA
 
-| TOPIC                                               | SOURCE NAME    | LINK                                                                     |
-| --------------------------------------------------- | -------------- | ------------------------------------------------------------------------ |
-| Algorithms                                          | Abdul Bari     | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O |
-| Sliding Window Algorithm                            | Aditya Verma   | https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj |
-| Stack                                               | Aditya Verma   | https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd |
-| DSA in Java                                         | Dinesh Varyani | https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d |
-| Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha | https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ     |
+| TOPIC                                               | SOURCE NAME    | LINK                                                                                   |
+| --------------------------------------------------- | -------------- | -------------------------------------------------------------------------------------- |
+| Algorithms                                          | Abdul Bari     | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) |
+| Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj) |
+| Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) |
+| DSA in Java                                         | Dinesh Varyani | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) |
+| Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha | [click here](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)     |
 
 ## 🌊 Frontend Development
 
-| TOPIC                 | SOURCE NAME           | LINK                                               |
-| --------------------- | --------------------- | -------------------------------------------------- |
-| HTML                  | FreeCodeCamp          | https://www.youtube.com/watch?v=pQN-pnXPaVg        |
-| HTML/CSS From scratch | FreeCodeCamp          | https://www.youtube.com/watch?v=mU6anWqZJcc        |
-| HTML (Beginner)       | Programming with Mosh | https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s |
+| TOPIC                 | SOURCE NAME           | LINK                                                             |
+| --------------------- | --------------------- | ---------------------------------------------------------------- |
+| HTML                  | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg)        |
+| HTML/CSS From scratch | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)        |
+| HTML (Beginner)       | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s) |
 
 ## ⚡ Frontend Frameworks/Library
 
-| TOPIC                          | SOURCE NAME       | LINK                                                                     |
-| ------------------------------ | ----------------- | ------------------------------------------------------------------------ |
-| React JS Crash Course          | Traversy Media    | https://www.youtube.com/watch?v=A71aqufiNtQ                              |
-| REACT JS (Beginner)            | Clever Programmer | https://www.youtube.com/watch?v=vIRBSI-elUM                              |
-| REACT JS (Beginner to Advance) | Clever Programmer | https://www.youtube.com/watch?v=-cMqr9HpZ-Y                              |
-| React JS (Beginner to Advance) | Codevolution      | https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3 |
-| React Redux                    | Codevolution      | https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK |
-| VUE JS                         | The Net Ninja     | https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa |
+| TOPIC                          | SOURCE NAME       | LINK                                                                                   |
+| ------------------------------ | ----------------- | -------------------------------------------------------------------------------------- |
+| React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |
+| REACT JS (Beginner)            | Clever Programmer | [click here](https://www.youtube.com/watch?v=vIRBSI-elUM)                              |
+| REACT JS (Beginner to Advance) | Clever Programmer | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)                              |
+| React JS (Beginner to Advance) | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
+| React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
+| VUE JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
 
 ## 🔥 Backend Development:
 
-| TOPIC           | SOURCE NAME           | LINK                                                                     |
-| --------------- | --------------------- | ------------------------------------------------------------------------ |
-| NODE JS         | Thapa Technical       | https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8 |
-| PYTHON          | API Testing In Python | https://testautomationu.applitools.com/python-api-testing                |
-| PYTHON (DJANGO) | FreeCodeCamp          | https://www.youtube.com/watch?v=jBzwzrDvZ18                              |
+| TOPIC           | SOURCE NAME           | LINK                                                                                   |
+| --------------- | --------------------- | -------------------------------------------------------------------------------------- |
+| NODE JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) |
+| PYTHON          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
+| PYTHON (DJANGO) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 
 ## 🌀 Backend Frameworks/Library
 
-| TOPIC             | SOURCE NAME                | LINK                                                   |
-| ----------------- | -------------------------- | ------------------------------------------------------ |
-| PYTEST (Beginner) | Test Automation University | https://testautomationu.applitools.com/pytest-tutorial |
+| TOPIC             | SOURCE NAME                | LINK                                                                 |
+| ----------------- | -------------------------- | -------------------------------------------------------------------- |
+| PYTEST (Beginner) | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial) |
 
 ## 📂 Database
 
-| TOPIC             | SOURCE NAME    | LINK                                                                     |
-| ----------------- | -------------- | ------------------------------------------------------------------------ |
-| SQL (Beginner)    | Amigoscode     | https://www.youtube.com/watch?v=5hzZtqCNQKk                              |
-| MONGODB           | WebDevSimplied | https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9 |
-| MongoDB           | JsWiz          | https://www.youtube.com/playlist?list=PLGquJ_T_JBMQmvvrriJcwdESGECuRhvtR |
+| TOPIC             | SOURCE NAME    | LINK                                                                                   |
+| ----------------- | -------------- | -------------------------------------------------------------------------------------- |
+| SQL (Beginner)    | Amigoscode     | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
+| MONGODB           | WebDevSimplied | [click here](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9) |
+| MongoDB           | JsWiz          | [click here](https://www.youtube.com/playlist?list=PLGquJ_T_JBMQmvvrriJcwdESGECuRhvtR) |
 
-# Free Courses
+## 📑 Machine Learning
 
-## 📂 Machine Learning
+| TOPIC                                                     | SOURCE NAME                   | LINK                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Machine Learning                                          | Stanford - Coursera           | [click here](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&siteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM) |
+| Data Science: Machine Learning                            | Harvard university            | [click here](https://www.edx.org/course/data-science-machine-learning?source=aw&awc=6798_1633798073_b437c9898e15c64b9410fecfc721916d&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=790615_MLTUT)                                           |
+| Machine Learning Crash Course                             | Google Developer Student Club | [click here](https://developers.google.com/machine-learning/crash-course/ml-intro)                                                                                                                                                                                     |
+| Data Science, Machine Learning, Data Analysis, Python & R | Udemy                         | [click here](https://www.udemy.com/course/data-science-machine-learning-data-analysis-python-r/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-L568tmz9IBoJNloTuAYouA&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads)                        |
+| Python Crash Course for Data Science and Machine Learning | Udemy                         | [click here](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-FHQDALViz5JD74D6YRr0Rw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads)                   |
 
-| TOPIC             | SOURCE NAME    | LINK                                                                     |
-| ----------------- | -------------- | ------------------------------------------------------------------------ |
-| Machine Learning    | Stanford - Coursera     | [click_here](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&siteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM)                            |
-| Data Science: Machine Learning | Harvard university | [click_here](https://www.edx.org/course/data-science-machine-learning?source=aw&awc=6798_1633798073_b437c9898e15c64b9410fecfc721916d&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=790615_MLTUT) |
-| Machine Learning Crash Course | Google Developer Student Club      |[click_here](https://developers.google.com/machine-learning/crash-course/ml-intro) |
-| Data Science, Machine Learning, Data Analysis, Python & R          | Udemy | [click_here](https://www.udemy.com/course/data-science-machine-learning-data-analysis-python-r/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-L568tmz9IBoJNloTuAYouA&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads) |
-| Python Crash Course for Data Science and Machine Learning          | Udemy          | [click_here](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-FHQDALViz5JD74D6YRr0Rw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads) |
+## 💡 Artificial Intelligence
 
-## 📂 Artifical Intelligence
-
-| TOPIC             | SOURCE NAME    | LINK                                                                     |
-| ----------------- | -------------- | ------------------------------------------------------------------------ |
-| AI Engineering   | IBM - Coursera     | [click_here](https://www.coursera.org/professional-certificates/ai-engineer)                            |
-| Applied AI | IBM - Coursera | [click_here](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai) |
-| Deep Learning Specialization | DeepLearning.AI - Coursera      |[click_here](https://www.coursera.org/specializations/deep-learning) |
-| Convolutional Neural Networks for Visual Recognition  | Stanford - YouTube |[click_here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
-| Intro to Artificial Intelligence  | Udacity | [click_here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) |
-|Artificial Intelligence for Robotics | Udacity  | [click_here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) |
-
+| TOPIC                                                | SOURCE NAME                | LINK                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI Engineering                                       | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/ai-engineer)                                                                                                                                                                                                                 |
+| Applied AI                                           | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)                                                                                                                                                                                |
+| Deep Learning Specialization                         | DeepLearning.AI - Coursera | [click here](https://www.coursera.org/specializations/deep-learning)                                                                                                                                                                                                                         |
+| Convolutional Neural Networks for Visual Recognition | Stanford - YouTube         | [click here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                                                                                                                                                                                                       |
+| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) |
+| Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |

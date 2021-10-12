@@ -75,6 +75,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - JS for Cats :  https://jsforcats.com
 - Javascript Exercises (Beginner) :  https://asmarterwaytolearn.com/js/index-of-exercises
 - Javascript (Advance) :  https://edureka.co/blog/advanced-javascript-tutorial
+- FreecodeCamp JavaScript Algorithms and Data Structures certification : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
 ## Frameworks/Library
 - React js : Docs -  https://reactjs.org/docs/hello-world

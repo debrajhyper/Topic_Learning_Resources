@@ -112,7 +112,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | GOLANG (Beginner)        | Tech with Tim         | [click here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
-| FLUTTER (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)                              |
+| FLUTTER (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
 
 ## 🎓 DSA
 
@@ -126,12 +126,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🌊 Frontend Development
 
-| TOPIC                 | SOURCE NAME           | LINK                                                             |
-| --------------------- | --------------------- | ---------------------------------------------------------------- |
-| HTML                  | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg)        |
-| HTML/CSS From scratch | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)        |
-| HTML (Beginner)       | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s) |
-| Tailwind CSS          | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| TOPIC                 | SOURCE NAME           | LINK                                                                                   |
+| --------------------- | --------------------- | -------------------------------------------------------------------------------------- |
+| HTML                  | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg)                              |
+| HTML/CSS From scratch | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)                              |
+| HTML (Beginner)       | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s)                       |
+| TAILWIND CSS          | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
 
 ## ⚡ Frontend Frameworks/Library
 
@@ -140,8 +140,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |
 | REACT JS (Beginner)            | Clever Programmer | [click here](https://www.youtube.com/watch?v=vIRBSI-elUM)                              |
 | REACT JS (Beginner to Advance) | Clever Programmer | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)                              |
-| React JS (Beginner to Advance) | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
-| React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
+| REACT JS (Beginner to Advance) | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
+| REACT REDUX                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
 | VUE JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
 
 ## 🔥 Backend Development:

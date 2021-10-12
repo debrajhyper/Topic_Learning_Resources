@@ -12,6 +12,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Mention total **number of changes/added** resources in the pull request.
 - Pull request should include a link to the resource and a short description.
 - The resource **must** be completely free or to have a free tier.
+- Make sure you add your resource in the correct alphabetical order
 
 ## Template
     - please follow this link type.

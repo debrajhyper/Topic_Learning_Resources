@@ -1,7 +1,7 @@
 [![](./.github/TLR.svg)](https://github.com/debrajhyper)
 # Topic Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/debrajhyper)
 
-This is an awesome project about Learning resources. ⚡
+This is an awesome project about Learning resources. 📚
 
 Resources are added frequently! ⚡
 
@@ -12,71 +12,72 @@ If you like this repo, be sure to ⭐ it.
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 ## Table of Contents
-- [Documentations](#documentations)
-    - [Programming](#programming)
-    - [HTML](#html)
-    - [CSS](#css)
-    - [CSS Frameworks](#css-frameworks)
-    - [SASS](#sass)
-    - [Javascript](#javascript)
-    - [Frameworks/Library](#frameworkslibrary)
-    - [Misc](#misc)
-- [Video/Playlist](#videoplaylist)
-  - [👩🏻‍💻 Programming](#-programming)
-  - [🎓 DSA](#-dsa)
-  - [🌊 Frontend Development](#-frontend-development)
-  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-  - [🔥 Backend Development](#-backend-development)
-  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-  - [📂 Database](#-database)
-  - [📑 Machine Learning](#-machine-learning)
-  - [💡 Artifical Intelligence](#-artifical-intelligence)
+- [📃 Documentations](#-documentations)
+    - [👩🏻‍💻 Programming Doc](#-programming-doc)
+    - [⚡ Development Doc](#-development-doc)
+    - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
+    - [📄 Misc](#-misc)
+- [💻 Video/Playlist](#-videoplaylist)
+    - [👩🏻‍💻 Programming](#-programming)
+    - [🎓 DSA](#-dsa)
+    - [🌊 Frontend Development](#-frontend-development)
+    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+    - [🔥 Backend Development](#-backend-development)
+    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+    - [📂 Database](#-database)
+    - [📑 Machine Learning](#-machine-learning)
+    - [💡 Artificial Intelligence](#-artificial-intelligence)
 
 <br/>
 
-# Documentations
+# 📃 Documentations
 
-## Programming
+## 👩🏻‍💻 Programming Doc
 - RUBY (BEGGINER) : Codecademy - https://codecademy.com/learn/learn-ruby
 - RUST : Docs - https://rust-lang.org/learn
 - Python :
   - Python for everybody by Dr. Chuck - https://py4e.com
   - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
 
-## HTML
-- HTML : Learn-HTML - https://learn-html.org
-- HTML : TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
-- HTML/CSS : UDEMY - https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
-- HTML/CSS : FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
+## ⚡ Development Doc
+- HTML :
+    - Learn-HTML - https://learn-html.org
+    - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
 
-## CSS
-- CSS : W3Schools - https://w3schools.com/css/
-- CSS : SoloLearn - https://sololearn.com
-- CSS Course : FreeCodeCamp - https://freecodecamp.org
-- Introduction to CSS : Scrimba - https://scrimba.com/learn/introtocss
-- Materialize CSS : Docs - https://materializecss.com
-- CSS Grid : CheatSheets - https://grid.malven.co
-- CSS Flexbox : CheatSheets - https://darekkay.com/dev/flexbox-cheatsheet
-- CSS Tricks : https://css-tricks.com
-- CSS Animated Tutorial: https://joshwcomeau.com/tutorials/css
-- CSS : WEB.DEV : https://web.dev/learn/css
+- CSS :
+    - W3Schools - https://w3schools.com/css
+    - FreeCodeCamp - https://freecodecamp.org
+    - SoloLearn - https://sololearn.com
+    - WEB.DEV - https://web.dev/learn/css
+    - Introduction to CSS by Scrimba - https://scrimba.com/learn/introtocss
+    - Materialize CSS - https://materializecss.com
+    - CSS Grid - https://grid.malven.co
+    - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet
+    - CSS Tricks - https://css-tricks.com
+    - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
 
-## CSS Frameworks
+- HTML/CSS :
+    - Udemy Course - https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
+    - FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
+
+- SASS :
+    - w3schools -  https://w3schools.com/sass
+    - Docs -  https://sass-lang.com/documentation
+
+- Javascript :
+    - JS for Cats :  https://jsforcats.com
+    - Javascript Exercises (Beginner) :  https://asmarterwaytolearn.com/js/index-of-exercises
+    - Javascript (Advance) :  https://edureka.co/blog/advanced-javascript-tutorial
+
+- Typerscript : Official Handbook -  https://typescriptlang.org/docs/handbook/basic-types
+- WEBPACK :  https://webpack.js.org
+- Android Development : https://developer.android.com/courses
+
+## 🎯 Frameworks/Library Doc
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
 - Chakra UI : Docs -  https://chakra-ui.com/getting-started
 - TailwindCSS : Docs -  https://tailwindcss.com
-
-## SASS
-- SASS : w3schools -  https://w3schools.com/sass
-- SASS : Docs -  https://sass-lang.com/documentation 
-
-## Javascript
-- JS for Cats :  https://jsforcats.com
-- Javascript Exercises (Beginner) :  https://asmarterwaytolearn.com/js/index-of-exercises
-- Javascript (Advance) :  https://edureka.co/blog/advanced-javascript-tutorial
-
-## Frameworks/Library
 - React js : Docs -  https://reactjs.org/docs/hello-world
 - Angular : Docs -  https://angular.io
 - Vue : Docs - https://vuejs.org
@@ -86,15 +87,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## Misc
 - DevTools :  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
 - PWA :  https://developers.google.com/web/progressive-web-apps
-- WEBPACK :  https://webpack.js.org
-- Typerscript : Official Handbook -  https://typescriptlang.org/docs/handbook/basic-types
-- Android Development : https://developer.android.com/courses
 
 <br/>
 <br/>
 <br/>
 
-# Video/Playlist
+# 💻 Video/Playlist
 
 ## 👩🏻‍💻 Programming: 
 

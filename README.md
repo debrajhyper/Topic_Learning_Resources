@@ -151,6 +151,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | NODE JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) |
 | PYTHON          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
 | PYTHON (DJANGO) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
+| PYTHON (FLASK) | Corey Schafer          | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)                              |
 
 ## 🌀 Backend Frameworks/Library
 

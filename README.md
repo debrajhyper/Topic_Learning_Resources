@@ -13,84 +13,87 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Table of Contents
 - [📃 Documentations](#-documentations)
-    - [👩🏻‍💻 Programming Doc](#-programming-doc)
     - [⚡ Development Doc](#-development-doc)
     - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
     - [📄 Misc](#-misc)
+    - [👩🏻‍💻 Programming Doc](#-programming-doc)
 - [💻 Video/Playlist](#-videoplaylist)
-    - [👩🏻‍💻 Programming](#-programming)
-    - [🎓 DSA](#-dsa)
-    - [🌊 Frontend Development](#-frontend-development)
-    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+    - [💡 Artificial Intelligence](#-artificial-intelligence)
     - [🔥 Backend Development](#-backend-development)
     - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
     - [📂 Database](#-database)
+    - [🎓 DSA](#-dsa)
+    - [🌊 Frontend Development](#-frontend-development)
+    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
     - [📑 Machine Learning](#-machine-learning)
-    - [💡 Artificial Intelligence](#-artificial-intelligence)
+    - [👩🏻‍💻 Programming](#-programming)
 
 <br/>
 
 # 📃 Documentations
 
-## 👩🏻‍💻 Programming Doc
-- RUBY (BEGGINER) : Codecademy - https://codecademy.com/learn/learn-ruby
-- RUST : Docs - https://rust-lang.org/learn
-- Python :
-  - Python for everybody by Dr. Chuck - https://py4e.com
-  - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
-
 ## ⚡ Development Doc
+- Android Development : https://developer.android.com/courses
+
+- CSS :
+    - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
+    - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet
+    - CSS Grid - https://grid.malven.co
+    - CSS Tricks - https://css-tricks.com
+    - FreeCodeCamp - https://freecodecamp.org
+    - Introduction to CSS by Scrimba - https://scrimba.com/learn/introtocss
+    - Materialize CSS - https://materializecss.com
+    - SoloLearn - https://sololearn.com
+    - W3Schools - https://w3schools.com/css
+    - WEB.DEV - https://web.dev/learn/css
+
 - HTML :
     - Learn-HTML - https://learn-html.org
     - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
 
-- CSS :
-    - W3Schools - https://w3schools.com/css
-    - FreeCodeCamp - https://freecodecamp.org
-    - SoloLearn - https://sololearn.com
-    - WEB.DEV - https://web.dev/learn/css
-    - Introduction to CSS by Scrimba - https://scrimba.com/learn/introtocss
-    - Materialize CSS - https://materializecss.com
-    - CSS Grid - https://grid.malven.co
-    - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet
-    - CSS Tricks - https://css-tricks.com
-    - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
-
 - HTML/CSS :
-    - Udemy Course - https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
     - FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
-
-- SASS :
-    - w3schools -  https://w3schools.com/sass
-    - Docs -  https://sass-lang.com/documentation
+    - Udemy Course - https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
 
 - Javascript :
-    - JS for Cats - https://jsforcats.com
+    - FreecodeCamp JavaScript Algorithms and Data Structures certification - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
     - Javascript Exercises (Beginner) - https://asmarterwaytolearn.com/js/index-of-exercises
     - Javascript (Advance) - https://edureka.co/blog/advanced-javascript-tutorial
-    - FreecodeCamp JavaScript Algorithms and Data Structures certification - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+    - JS for Cats - https://jsforcats.com
 
-- Typerscript : Official Handbook -  https://typescriptlang.org/docs/handbook/basic-types
+- SASS :
+    - Docs -  https://sass-lang.com/documentation
+    - w3schools -  https://w3schools.com/sass
+
+- Typerscript :
+    - Official Handbook -  https://typescriptlang.org/docs/handbook/basic-types
+
 - WEBPACK :  https://webpack.js.org
-- Android Development : https://developer.android.com/courses
 
 ## 🎯 Frameworks/Library Doc
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
 - Chakra UI : Docs -  https://chakra-ui.com/getting-started
-- TailwindCSS : Docs -  https://tailwindcss.com
 - Material UI : Docs -  https://mui.com
+- TailwindCSS : Docs -  https://tailwindcss.com
 
 ## Frameworks/Library
-- React js : Docs -  https://reactjs.org/docs/hello-world
 - Angular : Docs -  https://angular.io
-- Vue : Docs - https://vuejs.org
 - Next : Docs -  https://nextjs.org
+- React js : Docs -  https://reactjs.org/docs/hello-world
 - Svelte: Docs -  https://svelte.dev
+- Vue : Docs - https://vuejs.org
  
-## Misc
+## 📄 Misc
 - DevTools :  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
 - PWA :  https://developers.google.com/web/progressive-web-apps
+
+## 👩🏻‍💻 Programming Doc
+- Python :
+  - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
+  - Python for everybody by Dr. Chuck - https://py4e.com
+- RUBY (BEGGINER) : Codecademy - https://codecademy.com/learn/learn-ruby
+- RUST : Docs - https://rust-lang.org/learn
 
 <br/>
 <br/>

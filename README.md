@@ -66,6 +66,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
 - Chakra UI : Docs -  https://chakra-ui.com/getting-started
 - TailwindCSS : Docs -  https://tailwindcss.com
+- Material UI : Docs -  https://mui.com/
 
 ## SASS
 - SASS : w3schools -  https://w3schools.com/sass
@@ -111,6 +112,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | GOLANG (Beginner)        | Tech with Tim         | [click here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
+| Flutter (Beginner)        | The Net Ninja          | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)                              |
 
 ## 🎓 DSA
 
@@ -129,6 +131,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | HTML                  | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg)        |
 | HTML/CSS From scratch | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)        |
 | HTML (Beginner)       | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s) |
+| Tailwind CSS          | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
 
 ## ⚡ Frontend Frameworks/Library
 

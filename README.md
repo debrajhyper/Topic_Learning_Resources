@@ -65,9 +65,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Docs -  https://sass-lang.com/documentation
 
 - Javascript :
-    - JS for Cats :  https://jsforcats.com
-    - Javascript Exercises (Beginner) :  https://asmarterwaytolearn.com/js/index-of-exercises
-    - Javascript (Advance) :  https://edureka.co/blog/advanced-javascript-tutorial
+    - JS for Cats - https://jsforcats.com
+    - Javascript Exercises (Beginner) - https://asmarterwaytolearn.com/js/index-of-exercises
+    - Javascript (Advance) - https://edureka.co/blog/advanced-javascript-tutorial
+    - FreecodeCamp JavaScript Algorithms and Data Structures certification - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
 - Typerscript : Official Handbook -  https://typescriptlang.org/docs/handbook/basic-types
 - WEBPACK :  https://webpack.js.org
@@ -78,6 +79,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
 - Chakra UI : Docs -  https://chakra-ui.com/getting-started
 - TailwindCSS : Docs -  https://tailwindcss.com
+- Material UI : Docs -  https://mui.com
+
+## Frameworks/Library
 - React js : Docs -  https://reactjs.org/docs/hello-world
 - Angular : Docs -  https://angular.io
 - Vue : Docs - https://vuejs.org
@@ -108,6 +112,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | GOLANG (Beginner)        | Tech with Tim         | [click here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
+| FLUTTER (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)                              |
 
 ## 🎓 DSA
 
@@ -126,6 +131,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | HTML                  | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg)        |
 | HTML/CSS From scratch | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)        |
 | HTML (Beginner)       | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s) |
+| Tailwind CSS          | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
 
 ## ⚡ Frontend Frameworks/Library
 

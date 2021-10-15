@@ -74,6 +74,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - WEBPACK :  https://webpack.js.org
 - Android Development : https://developer.android.com/courses
 
+- PHP :
+    - The Right Way - https://phptherightway.com          
+    - w3schools - https://www.w3schools.com/php
+    - Offitial doc - https://www.php.net/manual/en/index.php)   
+
 ## 🎯 Frameworks/Library Doc
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
@@ -114,9 +119,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 | FLUTTER (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
 | PHP(Full Course)         | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
-| PHP(Practice)            | The Right Way         | [click here](https://phptherightway.com)                                               |
-| PHP(Referance)           | w3schools             | [click here](https://www.w3schools.com/php)                                            |
-| PHP (Referance)          | Offitial doc          | [click here](https://www.php.net/manual/en/index.php)                                  |
+
 
 ## 🎓 DSA
 

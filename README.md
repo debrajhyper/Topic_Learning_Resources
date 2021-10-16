@@ -33,7 +33,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 # 📃 Documentations
 
 ## ⚡ Development Doc
-- Android Development : https://developer.android.com/courses
+- Android Development : Docs - https://developer.android.com/courses
 
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
@@ -69,6 +69,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Official Handbook -  https://typescriptlang.org/docs/handbook/basic-types
 
 - WEBPACK :  https://webpack.js.org
+
+- PHP :
+    - The Right Way - https://phptherightway.com          
+    - w3schools - https://www.w3schools.com/php
+    - Offitial doc - https://www.php.net/manual/en/index.php)   
 
 ## 🎯 Frameworks/Library Doc
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
@@ -154,6 +159,17 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | HTML (Beginner)       | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s)                       |
 | HTML/CSS From scratch | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)                              |
 | TAILWIND CSS          | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| JavaScript (Beginner) | Programming with Mosh | [click here](https://www.youtube.com/watch?v=W6NZfCO5SIk) |
+| INTRO TO HTML & CSS   | Udacity               | [click here](https://www.udacity.com/course/intro-to-html-and-css--ud001)              |
+| Responsive Web Design Fundamentals | Udacity  | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
+| Responsive Images     | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
+| JavaScript Basics     | Udacity               | [click here](https://www.udacity.com/course/javascript-basics--ud804)                  |
+| Intro to jQuery       | Udacity               | [click here](https://www.udacity.com/course/intro-to-jquery--ud245)                    |
+| Object-Oriented JavaScript | Udacity          | [click here](https://www.udacity.com/course/object-oriented-javascript--ud015)         |
+| HTML5 Canvas          | Udacity               | [click here](https://www.udacity.com/course/html5-canvas--ud292)                       |
+|Intro to AJAX          | Udacity               | [click here](https://www.udacity.com/course/intro-to-ajax--ud110)                      |
+|JavaScript Design Patterns | Udacity           | [click here](https://www.udacity.com/course/javascript-design-patterns--ud989)         |
+|JavaScript Testing     | Udacity               | [click here](https://www.udacity.com/course/javascript-testing--ud549)                 |
 
 ## ⚡ Frontend Frameworks/Library
 
@@ -165,9 +181,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | REACT JS (Beginner to Advance) | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
 | REACT REDUX                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
 | VUE JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
-
-
-
 
 ## 📑 Machine Learning
 

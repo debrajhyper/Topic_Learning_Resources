@@ -12,21 +12,24 @@ If you like this repo, be sure to ⭐ it.
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 ## Table of Contents
+- [Topic Learning Resources ![Awesome](https://github.com/debrajhyper)](#topic-learning-resources-)
+  - [Table of Contents](#table-of-contents)
 - [📃 Documentations](#-documentations)
-    - [👩🏻‍💻 Programming Doc](#-programming-doc)
-    - [⚡ Development Doc](#-development-doc)
-    - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
-    - [📄 Misc](#-misc)
+  - [👩🏻‍💻 Programming Doc](#-programming-doc)
+  - [⚡ Development Doc](#-development-doc)
+  - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
+  - [Frameworks/Library](#frameworkslibrary)
+  - [Misc](#misc)
 - [💻 Video/Playlist](#-videoplaylist)
-    - [👩🏻‍💻 Programming](#-programming)
-    - [🎓 DSA](#-dsa)
-    - [🌊 Frontend Development](#-frontend-development)
-    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-    - [🔥 Backend Development](#-backend-development)
-    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-    - [📂 Database](#-database)
-    - [📑 Machine Learning](#-machine-learning)
-    - [💡 Artificial Intelligence](#-artificial-intelligence)
+  - [👩🏻‍💻 Programming:](#-programming)
+  - [🎓 DSA](#-dsa)
+  - [🌊 Frontend Development](#-frontend-development)
+  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+  - [🔥 Backend Development:](#-backend-development)
+  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+  - [📂 Database](#-database)
+  - [📑 Machine Learning](#-machine-learning)
+  - [💡 Artificial Intelligence](#-artificial-intelligence)
 
 <br/>
 
@@ -140,6 +143,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | HTML/CSS From scratch | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)                              |
 | HTML (Beginner)       | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s)                       |
 | TAILWIND CSS          | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| JavaScript (Beginner) | Programming with Mosh | [click here](https://www.youtube.com/watch?v=W6NZfCO5SIk) |
 | INTRO TO HTML & CSS   | Udacity               | [click here](https://www.udacity.com/course/intro-to-html-and-css--ud001)              |
 | Responsive Web Design Fundamentals | Udacity  | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
 | Responsive Images     | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |

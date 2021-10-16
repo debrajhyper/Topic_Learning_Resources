@@ -119,8 +119,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 | FLUTTER (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
+| RUBY (Beginner)          | ProgrammingKnowledge  | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbNBXZAeVbkkHEj9zsEbXQK) |
 | PHP(Full Course)         | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
-
 
 ## 🎓 DSA
 
@@ -180,6 +180,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC             | SOURCE NAME                | LINK                                                                 |
 | ----------------- | -------------------------- | -------------------------------------------------------------------- |
 | PYTEST (Beginner) | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial) |
+| LARAVEL (Beginner)| ProgrammingKnowledge       | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi) |
 
 ## 📂 Database
 

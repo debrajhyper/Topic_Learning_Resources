@@ -133,6 +133,16 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | HTML/CSS From scratch | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)                              |
 | HTML (Beginner)       | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s)                       |
 | TAILWIND CSS          | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| INTRO TO HTML & CSS   | Udacity               | [click here](https://www.udacity.com/course/intro-to-html-and-css--ud001)              |
+| Responsive Web Design Fundamentals | Udacity  | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
+| Responsive Images     | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
+| JavaScript Basics     | Udacity               | [click here](https://www.udacity.com/course/javascript-basics--ud804)                  |
+| Intro to jQuery       | Udacity               | [click here](https://www.udacity.com/course/intro-to-jquery--ud245)                    |
+| Object-Oriented JavaScript | Udacity          | [click here](https://www.udacity.com/course/object-oriented-javascript--ud015)         |
+| HTML5 Canvas          | Udacity               | [click here](https://www.udacity.com/course/html5-canvas--ud292)                       |
+|Intro to AJAX          | Udacity               | [click here](https://www.udacity.com/course/intro-to-ajax--ud110)                      |
+|JavaScript Design Patterns | Udacity           | [click here](https://www.udacity.com/course/javascript-design-patterns--ud989)         |
+|JavaScript Testing     | Udacity               | [click here](https://www.udacity.com/course/javascript-testing--ud549)                 |
 
 ## ⚡ Frontend Frameworks/Library
 

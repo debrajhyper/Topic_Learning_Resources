@@ -75,6 +75,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - WEBPACK :  https://webpack.js.org
 - Android Development : https://developer.android.com/courses
 
+- PHP :
+    - The Right Way - https://phptherightway.com          
+    - w3schools - https://www.w3schools.com/php
+    - Offitial doc - https://www.php.net/manual/en/index.php)   
+
 ## 🎯 Frameworks/Library Doc
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
@@ -114,6 +119,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 | FLUTTER (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
+| PHP(Full Course)         | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
+
 
 ## 🎓 DSA
 
@@ -162,7 +169,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | NODE JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) |
 | PYTHON          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
 | PYTHON (DJANGO) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
-| PYTHON (FLASK) | Corey Schafer          | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)                              |
+| PYTHON (FLASK)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)                              |
+| PHP (mongoDB)   |  AmigosCode           | [click here](https://www.youtube.com/watch?v=Www6cTUymCY)                              |
+| PHP(postgreSQL) |  AmigosCode           | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
+| PHP (Rest API)  | ProgrammingKnowledge  | [click here](https://www.youtube.com/watch?v=dlGtSoigdB0)                              |
+
 
 ## 🌀 Backend Frameworks/Library
 

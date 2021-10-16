@@ -205,6 +205,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Flutter (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
 | GoLang (Beginner)        | Tech with Tim         | [click here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) |
 | Javascript(Beginner)     | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=PkZNo7MFNFg)                              |
+| Javascript(Beginner)     | Brad Travesy          |[click here](https://youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)      |                       |
 | Kotlin                   | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=F9UC9DY-vIU)                              |
 | PHP (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
 | Python Basics (Beginner) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw)                              |

@@ -122,6 +122,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 | FLUTTER (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
+| Javascript(Beginner)     | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=PkZNo7MFNFg)                              |
 | RUBY (Beginner)          | ProgrammingKnowledge  | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbNBXZAeVbkkHEj9zsEbXQK) |
 | PHP(Full Course)         | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
 

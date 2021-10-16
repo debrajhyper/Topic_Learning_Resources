@@ -43,6 +43,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - HTML :
     - Learn-HTML - https://learn-html.org
     - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
+    - DevDocs - https://devdocs.io/html
 
 - CSS :
     - W3Schools - https://w3schools.com/css
@@ -73,6 +74,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Typerscript : Official Handbook -  https://typescriptlang.org/docs/handbook/basic-types
 - WEBPACK :  https://webpack.js.org
 - Android Development : https://developer.android.com/courses
+
+- PHP :
+    - The Right Way - https://phptherightway.com          
+    - w3schools - https://www.w3schools.com/php
+    - Offitial doc - https://www.php.net/manual/en/index.php)   
 
 ## 🎯 Frameworks/Library Doc
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
@@ -114,6 +120,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 | FLUTTER (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
 | RUBY (Beginner)          | ProgrammingKnowledge  | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbNBXZAeVbkkHEj9zsEbXQK) |
+| PHP(Full Course)         | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
 
 ## 🎓 DSA
 
@@ -133,6 +140,16 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | HTML/CSS From scratch | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)                              |
 | HTML (Beginner)       | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s)                       |
 | TAILWIND CSS          | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| INTRO TO HTML & CSS   | Udacity               | [click here](https://www.udacity.com/course/intro-to-html-and-css--ud001)              |
+| Responsive Web Design Fundamentals | Udacity  | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
+| Responsive Images     | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
+| JavaScript Basics     | Udacity               | [click here](https://www.udacity.com/course/javascript-basics--ud804)                  |
+| Intro to jQuery       | Udacity               | [click here](https://www.udacity.com/course/intro-to-jquery--ud245)                    |
+| Object-Oriented JavaScript | Udacity          | [click here](https://www.udacity.com/course/object-oriented-javascript--ud015)         |
+| HTML5 Canvas          | Udacity               | [click here](https://www.udacity.com/course/html5-canvas--ud292)                       |
+|Intro to AJAX          | Udacity               | [click here](https://www.udacity.com/course/intro-to-ajax--ud110)                      |
+|JavaScript Design Patterns | Udacity           | [click here](https://www.udacity.com/course/javascript-design-patterns--ud989)         |
+|JavaScript Testing     | Udacity               | [click here](https://www.udacity.com/course/javascript-testing--ud549)                 |
 
 ## ⚡ Frontend Frameworks/Library
 
@@ -152,6 +169,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | NODE JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) |
 | PYTHON          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
 | PYTHON (DJANGO) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
+| PYTHON (FLASK)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)                              |
+| PHP (mongoDB)   |  AmigosCode           | [click here](https://www.youtube.com/watch?v=Www6cTUymCY)                              |
+| PHP(postgreSQL) |  AmigosCode           | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
+| PHP (Rest API)  | ProgrammingKnowledge  | [click here](https://www.youtube.com/watch?v=dlGtSoigdB0)                              |
+
 
 ## 🌀 Backend Frameworks/Library
 

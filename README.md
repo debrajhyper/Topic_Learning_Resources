@@ -43,6 +43,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - HTML :
     - Learn-HTML - https://learn-html.org
     - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
+    - DevDocs - https://devdocs.io/html
 
 - CSS :
     - W3Schools - https://w3schools.com/css

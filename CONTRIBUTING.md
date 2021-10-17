@@ -40,7 +40,7 @@ We love your input! We want to make contributing to this project as easy and tra
     5. Make Pull Request
 
 
-## Get help from Guthub:
+## Get help from Github:
 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)

@@ -1,6 +1,14 @@
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
   Thanks for opening your first issue here!
+  
+  <br>
+  **Say Hi on** [Twitter](https://twitter.com/debraj_010) 👋
+  <br>
+  
+  [![Twitter FOLLOW](https://img.shields.io/twitter/url/https/twitter.com/debraj_010.svg?style=social&label=Follow)](https://twitter.com/debraj_010)&nbsp;
+  [![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/debrajkarmakar010/)
+  <br>
 
 
 # Comment to be posted to on PRs from first time contributors in your repository
@@ -32,18 +40,10 @@ newPRWelcomeComment: >
   <br>
   <br>
   **Show some** ❤️
-      - Consider leaving a ⭐ [here](https://github.com/debrajhyper/Topic_Learning_Resources/).
-      - Check out more beginner-friendly repos [here](https://github.com/debrajhyper?tab=repositories).
-      - Follow @debrajhyper for more updates.
-  
-  <br>
-  **Say Hi on** [Twitter](https://twitter.com/debraj_010) 👋
-  <br>
-  
-  [![Twitter FOLLOW](https://img.shields.io/twitter/url/https/twitter.com/debraj_010.svg?style=social&label=Follow)](https://twitter.com/debraj_010)&nbsp;
-  [![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/debrajkarmakar010/)
-  <br>
-  
+    - Consider leaving a ⭐ [here](https://github.com/debrajhyper/Topic_Learning_Resources/).
+    - Check out more beginner-friendly repos [here](https://github.com/debrajhyper?tab=repositories).
+    - Follow @debrajhyper for more updates.
+ 
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >

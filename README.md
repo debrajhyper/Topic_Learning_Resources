@@ -146,6 +146,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | --------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------- |
 | Algorithms                                          | Abdul Bari     | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)            |
 | DSA in Java                                         | Dinesh Varyani | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)            |
+| Dynamic Programming                                 | Aditya Verma   | [click here](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) |
 | Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha | [click here](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)                |
 | Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
 | Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)            |

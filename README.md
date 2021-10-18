@@ -26,6 +26,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🌊 Frontend Development](#-frontend-development)
     - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
     - [📑 Machine Learning](#-machine-learning)
+    - [📄 Misc](#-misc)
     - [👩🏻‍💻 Programming](#-programming)
 
 <br/>
@@ -194,6 +195,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Machine Learning                                          | Stanford - Coursera           | [click here](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&siteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM) |
 | Machine Learning Crash Course                             | Google Developer Student Club | [click here](https://developers.google.com/machine-learning/crash-course/ml-intro)                                                                                                                                                                                     |
 | Python Crash Course for Data Science and Machine Learning | Udemy                         | [click here](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-FHQDALViz5JD74D6YRr0Rw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads)                   |
+
+## 📄 Misc
+
+| TOPIC                    | SOURCE NAME           | LINK                                                                                   |
+| ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
+| Cookies                  | Hussein Nasser        | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
 
 ## 👩🏻‍💻 Programming: 
 

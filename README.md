@@ -23,6 +23,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
     - [📂 Database](#-database)
     - [🎓 DSA](#-dsa)
+    - [📈 Data Science](#-data-science)
     - [🌊 Frontend Development](#-frontend-development)
     - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
     - [📑 Machine Learning](#-machine-learning)
@@ -152,6 +153,20 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
 | Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)            |
 | Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)            |
+
+
+## 📈 Data Science
+
+| TOPIC                                               | SOURCE NAME    | LINK                                                                                              |
+| --------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------- |
+| Intro to Data Science                                          | Udacity     | [click here](https://www.udacity.com/course/intro-to-data-science--ud359?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBSX%3A3ROwUAzM0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224)            |
+| IBM Data Science Professional Certificate                      | Coursera | [click here](https://www.coursera.org/professional-certificates/ibm-data-science?)            |
+| Foundations of Data Science: K-Means Clustering in Python                                 | Coursera   | [click here](https://www.coursera.org/learn/data-science-k-means-clustering-python?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-yZZpNMHQWy10JC0CCT9abw&siteID=Vrr1tRSwXGM-yZZpNMHQWy10JC0CCT9abw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM) |
+| Bayesian Statistics: From Concept to Data Analysis | Coursera | [click here](https://www.coursera.org/learn/bayesian-statistics?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-YX1cIkk6qIfolEUBTAYszg&siteID=Vrr1tRSwXGM-YX1cIkk6qIfolEUBTAYszg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM)                |
+| Process Mining: Data science in Action             | Coursera   | [click here](https://www.coursera.org/learn/process-mining?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-H5LHsnuxkpXkYu0WYISbgg&siteID=Vrr1tRSwXGM-H5LHsnuxkpXkYu0WYISbgg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM) |
+| Probability and Statistics: To p or not to p?      | Coursera   | [click here](https://www.coursera.org/learn/probability-statistics?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-cIxdZ2YiHhlxp7gXDVD3dw&siteID=Vrr1tRSwXGM-cIxdZ2YiHhlxp7gXDVD3dw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM)            |
+| Linear Algebra Refresher Course                    | Udacity   | [click here](https://www.udacity.com/course/linear-algebra-refresher-course--ud953?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBSX%3ARxOwUAzM0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224)            |
+
 
 ## 🌊 Frontend Development
 

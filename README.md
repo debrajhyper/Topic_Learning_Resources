@@ -62,6 +62,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - JavaScript Exercises (Beginner) - https://asmarterwaytolearn.com/js/index-of-exercises
     - JavaScript (Advance) - https://edureka.co/blog/advanced-javascript-tutorial
     - JS for Cats - https://jsforcats.com
+    - JavaScript Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
 - SASS :
     - Doc -  https://sass-lang.com/documentation

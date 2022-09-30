@@ -154,6 +154,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Process Mining: Data science in Action                    | Coursera    | [click here](https://www.coursera.org/learn/process-mining?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-H5LHsnuxkpXkYu0WYISbgg&siteID=Vrr1tRSwXGM-H5LHsnuxkpXkYu0WYISbgg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM)                         |
 | Probability and Statistics: To p or not to p?             | Coursera    | [click here](https://www.coursera.org/learn/probability-statistics?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-cIxdZ2YiHhlxp7gXDVD3dw&siteID=Vrr1tRSwXGM-cIxdZ2YiHhlxp7gXDVD3dw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM)                 |
 | Linear Algebra Refresher Course                           | Udacity     | [click here](https://www.udacity.com/course/linear-algebra-refresher-course--ud953?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBSX%3ARxOwUAzM0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224)                                              |
+| Statistics Fundamentals                                   | StatQuest   | [click here](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)                  |
 
 ## 🎓 DSA
 

@@ -151,15 +151,16 @@ https://codeforces.com/
 
 ## 🔥 Backend Development:
 
-| TOPIC           | SOURCE NAME           | LINK                                                                                   |
-| --------------- | --------------------- | -------------------------------------------------------------------------------------- |
-| Node JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) |
-| PHP (MongoDB)   | AmigosCode            | [click here](https://www.youtube.com/watch?v=Www6cTUymCY)                              |
-| PHP(PostgreSQL) | AmigosCode            | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
-| PHP (Rest API)  | ProgrammingKnowledge  | [click here](https://www.youtube.com/watch?v=dlGtSoigdB0)                              |
-| Python          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
-| Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
-| Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
+| TOPIC           | SOURCE NAME           | LINK                                                                                             |
+| --------------- | --------------------- | --------------------------------------------------------------------------------------           |
+| Node JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8)           |
+| Node JS         | Net Ninjas            | {click here}(https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)|
+| PHP (MongoDB)   | AmigosCode            | [click here](https://www.youtube.com/watch?v=Www6cTUymCY)                                        |
+| PHP(PostgreSQL) | AmigosCode            | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                                        |
+| PHP (Rest API)  | ProgrammingKnowledge  | [click here](https://www.youtube.com/watch?v=dlGtSoigdB0)                                        |
+| Python          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                          |
+| Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                                        |
+| Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)               |
 
 ## 🌀 Backend Frameworks/Library
 

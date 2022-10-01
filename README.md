@@ -228,6 +228,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
 | Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)            |
 | Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)            |
+| Binary Tree                                         | take U forward | [click here](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk)            |
+
+## 🎓 Interview Preparation Sheets
+
+| TOPIC                                               | SOURCE NAME    | LINK                                                                                              |
+| --------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------- |
+| Neetcode.io                                         | Neetcode     | [click here](https://neetcode.io/practice)            |
+| Leetcode Patterns                                   | Sean Parshad | [click here](https://seanprashad.com/leetcode-patterns/)            |
+| Strivers A2Z DSA Course/Sheet                       | take U forward   | [click here](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) |
 
 ## 🌊 Frontend Development
 

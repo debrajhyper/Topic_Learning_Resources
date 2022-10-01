@@ -108,6 +108,8 @@ https://codeforces.com/
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
 - Chakra UI : Doc -  https://chakra-ui.com/getting-started
+- Flask : Doc - https://flask.palletsprojects.com
+- Jinja : Doc - https://jinja.palletsprojects.com
 - Material UI : Doc -  https://mui.com
 - Next : Doc -  https://nextjs.org
 - React JS : Doc -  https://reactjs.org/docs/hello-world
@@ -128,6 +130,8 @@ https://codeforces.com/
   - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
   - Python for everybody by Dr. Chuck - https://py4e.com
   - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
+  - Python Flask tutorial for a microblogging website - https://youtu.be/Qr4QMBUPxWo
+
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
 

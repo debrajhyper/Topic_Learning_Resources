@@ -12,23 +12,26 @@ If you like this repo, be sure to ⭐ it.
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 ## Table of Contents
+- [Topic Learning Resources ![Awesome](https://github.com/debrajhyper)](#topic-learning-resources-)
+  - [Table of Contents](#table-of-contents)
 - [📃 Documentations](#-documentations)
-    - [⚡ Development Doc](#-development-doc)
-    - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
-    - [📄 Misc Doc](#-misc-doc)
-    - [👩🏻‍💻 Programming Doc](#-programming-doc)
+  - [⚡ Development Doc](#-development-doc)
+  - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
+  - [📄 Misc Doc](#-misc-doc)
+  - [👩🏻‍💻 Programming Doc](#-programming-doc)
+- [🧟 Websites for programming competitions](#-websites-for-programming-competitions)
 - [💻 Video/Playlist](#-videoplaylist)
-    - [💡 Artificial Intelligence](#-artificial-intelligence)
-    - [🔥 Backend Development](#-backend-development)
-    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-    - [📂 Database](#-database)
-    - [📈 Data Science](#-data-science)
-    - [🎓 DSA](#-dsa)
-    - [🌊 Frontend Development](#-frontend-development)
-    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-    - [📑 Machine Learning](#-machine-learning)
-    - [📄 Misc](#-misc)
-    - [👩🏻‍💻 Programming](#-programming)
+  - [💡 Artificial Intelligence](#-artificial-intelligence)
+  - [🔥 Backend Development:](#-backend-development)
+  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+  - [📂 Database](#-database)
+  - [📈 Data Science](#-data-science)
+  - [🎓 DSA](#-dsa)
+  - [🌊 Frontend Development](#-frontend-development)
+  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+  - [📑 Machine Learning](#-machine-learning)
+  - [📄 Misc](#-misc)
+  - [👩🏻‍💻 Programming:](#-programming)
 
 <br/>
 
@@ -36,30 +39,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## ⚡ Development Doc
 - Android Development : Doc - https://developer.android.com/courses
-
-
-
-
-🧟Websites for programming competitions
-
-
-
-https://clist.by/  💚
-
-https://www.topcoder.com/
-
-https://www.hackerrank.com/
-
-https://icpc.global/
-
-https://www.codechef.com/
-
-https://www.geeksforgeeks.org/
-
-https://leetcode.com/
-
-https://codeforces.com/
-
 
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
@@ -134,6 +113,26 @@ https://codeforces.com/
 <br/>
 <br/>
 <br/>
+
+# 🧟 Websites for programming competitions
+
+
+
+https://clist.by/  💚
+
+https://www.topcoder.com/
+
+https://www.hackerrank.com/
+
+https://icpc.global/
+
+https://www.codechef.com/
+
+https://www.geeksforgeeks.org/
+
+https://leetcode.com/
+
+https://codeforces.com/
 
 # 💻 Video/Playlist
 

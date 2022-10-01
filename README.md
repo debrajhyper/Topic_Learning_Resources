@@ -65,7 +65,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - JS for Cats - https://jsforcats.com
     - JavaScript Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
     - JavaScript Info - https://javascript.info
-
+    - Javascript Tutorail From Scrimba - https://scrimba.com/learn/learnjavascript
 - SASS :
     - Doc -  https://sass-lang.com/documentation
     - W3Schools -  https://w3schools.com/sass

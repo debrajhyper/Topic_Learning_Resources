@@ -60,7 +60,7 @@ https://leetcode.com/
 
 https://codeforces.com/
 
-https://www.hackerearth.com
+https://www.hackerearth.com/
 
 
 - CSS :

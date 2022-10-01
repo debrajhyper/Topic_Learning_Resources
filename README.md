@@ -130,7 +130,9 @@ https://codeforces.com/
   - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
-
+- Solidity : 
+    - CryptoZombie - https://cryptozombies.io/
+    - Ethernaut - https://ethernaut.openzeppelin.com/ 
 <br/>
 <br/>
 <br/>

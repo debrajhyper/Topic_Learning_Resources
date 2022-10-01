@@ -149,7 +149,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - CodeForces Edu : https://codeforces.com/edu/courses
     - C++ Tips and Tricks : https://codeforces.com/blog/entry/74684
     - Roadmap : https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg , https://www.geeksforgeeks.org/greedy-algorithms/ 
-    - List of other useful resources : https://codeforces.com/blog/entry/91363 , https://codeforces.com/blog/entry/57282 , https://codeforces.com/blog/entry/13529 
+    - List of other useful resources : https://codeforces.com/blog/entry/91363 , https://codeforces.com/blog/entry/57282 ,  https://cses.fi/book/book.pdf , https://codeforces.com/blog/entry/13529 
 <br/>
 <br/>
 

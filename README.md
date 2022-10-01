@@ -12,23 +12,25 @@ If you like this repo, be sure to ⭐ it.
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 ## Table of Contents
+- [Topic Learning Resources ![Awesome](https://github.com/debrajhyper)](#topic-learning-resources-)
+  - [Table of Contents](#table-of-contents)
 - [📃 Documentations](#-documentations)
-    - [⚡ Development Doc](#-development-doc)
-    - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
-    - [📄 Misc Doc](#-misc-doc)
-    - [👩🏻‍💻 Programming Doc](#-programming-doc)
+  - [⚡ Development Doc](#-development-doc)
+  - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
+  - [📄 Misc Doc](#-misc-doc)
+  - [👩🏻‍💻 Programming Doc](#-programming-doc)
 - [💻 Video/Playlist](#-videoplaylist)
-    - [💡 Artificial Intelligence](#-artificial-intelligence)
-    - [🔥 Backend Development](#-backend-development)
-    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-    - [📂 Database](#-database)
-    - [📈 Data Science](#-data-science)
-    - [🎓 DSA](#-dsa)
-    - [🌊 Frontend Development](#-frontend-development)
-    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-    - [📑 Machine Learning](#-machine-learning)
-    - [📄 Misc](#-misc)
-    - [👩🏻‍💻 Programming](#-programming)
+  - [💡 Artificial Intelligence](#-artificial-intelligence)
+  - [🔥 Backend Development:](#-backend-development)
+  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+  - [📂 Database](#-database)
+  - [📈 Data Science](#-data-science)
+  - [🎓 DSA](#-dsa)
+  - [🌊 Frontend Development](#-frontend-development)
+  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+  - [📑 Machine Learning](#-machine-learning)
+  - [📄 Misc](#-misc)
+  - [👩🏻‍💻 Programming:](#-programming)
 
 <br/>
 
@@ -59,6 +61,17 @@ https://www.geeksforgeeks.org/
 https://leetcode.com/
 
 https://codeforces.com/
+
+🧟Youtube Channels for CS Theory
+
+
+https://www.youtube.com/c/GateSmashers💚
+
+https://www.youtube.com/c/nesoacademy
+
+https://www.youtube.com/c/Ekeeda
+
+https://www.youtube.com/c/KNOWLEDGEGATE_kg
 
 
 - CSS :
@@ -147,7 +160,9 @@ https://codeforces.com/
 | Convolutional Neural Networks for Visual Recognition | Stanford - YouTube         | [click here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                                                                                                                                                                                                       |
 | Deep Learning Specialization                         | DeepLearning.AI - Coursera | [click here](https://www.coursera.org/specializations/deep-learning)                                                                                                                                                                                                                         |
 | Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) 
-| AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)
+| AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)                                                |
+| Machine Learning & Data Science Project/Tutorial     | Codebasics                 | [click here](https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg)               |
+| Neural networks                                      | 3Blue1Brown                | [click here](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)               |
 
 ## 🔥 Backend Development:
 
@@ -228,6 +243,7 @@ https://codeforces.com/
 | TOPIC                          | SOURCE NAME       | LINK                                                                                   |
 | ------------------------------ | ----------------- | -------------------------------------------------------------------------------------- |
 | React JS (Beginner)            | Clever Programmer | [click here](https://www.youtube.com/watch?v=vIRBSI-elUM)                              |
+| React JS (Beginner Interactive)| Scrimba           | [click here](https://scrimba.com/learn/learnreact)                                     |
 | React JS (Beginner to Advance) | Clever Programmer | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)                              |
 | React JS (Beginner to Advance) | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
 | React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |

@@ -21,17 +21,19 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
   - [👩🏻‍💻 Programming Doc](#-programming-doc)
 - [🧟 Websites for programming competitions](#-websites-for-programming-competitions)
 - [💻 Video/Playlist](#-videoplaylist)
-  - [💡 Artificial Intelligence](#-artificial-intelligence)
-  - [🔥 Backend Development:](#-backend-development)
-  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-  - [📂 Database](#-database)
-  - [📈 Data Science](#-data-science)
-  - [🎓 DSA](#-dsa)
-  - [🌊 Frontend Development](#-frontend-development)
-  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-  - [📑 Machine Learning](#-machine-learning)
-  - [📄 Misc](#-misc)
-  - [👩🏻‍💻 Programming:](#-programming)
+    - [🧩 Block Programming](#-block-programming)
+    - [💡 Artificial Intelligence](#-artificial-intelligence)
+    - [🔥 Backend Development](#-backend-development)
+    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+    - [📂 Database](#-database)
+    - [📈 Data Science](#-data-science)
+    - [🎓 DSA](#-dsa)
+    - [🌊 Frontend Development](#-frontend-development)
+    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+    - [📑 Machine Learning](#-machine-learning)
+    - [📄 Misc](#-misc)
+    - [👩🏻‍💻 Programming](#-programming)
+    
 
 <br/>
 
@@ -81,6 +83,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Flutter Basics - https://flutter.dev/
     - Angela Yu Flutter Course - https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart-13
     - Johannes Milke Flutter essentials - https://www.youtube.com/JohannesMilke
+
+- Git and Github :
+    - Git Cheatsheet - https://education.github.com/git-cheat-sheet-education.pdf
+    - Git and GitHub Crash Course :FreeCodeCamp - https://www.youtube.com/watch?v=RGOj5yH7evk
+    - Git Branching Game - https://learngitbranching.js.org/
+    
 
 ## 🎯 Frameworks/Library Doc
 - Angular : Doc -  https://angular.io
@@ -136,10 +144,18 @@ https://codeforces.com/
 
 # 💻 Video/Playlist
 
+## 🧩Block Programming
+
+| TOPIC           | SOURCE NAME           | LINK                                                                                   |
+|-----------------|-----------------------|----------------------------------------------------------------------------------------|
+| Scratch         | CS50                  | [click here](https://youtu.be/YoXxevp1WRQ)                                             |
+| MIT-APP Inventor| Coding Blocks Jr      | [click here](https://youtu.be/HbIX_l2FWi8)                                             |
+
 ## 💡 Artificial Intelligence
 
 | TOPIC                                                | SOURCE NAME                | LINK                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI Basics                                            | CS50                       | [click here](https://youtu.be/eey91kzfOZs)                                                                           |
 | AI Engineering                                       | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/ai-engineer)                                                                                                                                                                                                                 |
 | Applied AI                                           | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)                                                                                                                                                                                |
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |
@@ -173,6 +189,7 @@ https://codeforces.com/
 | ----------------- | -------------- | -------------------------------------------------------------------------------------- |
 | MongoDB           | JsWiz          | [click here](https://www.youtube.com/playlist?list=PLGquJ_T_JBMQmvvrriJcwdESGECuRhvtR) |
 | MongoDB           | WebDevSimplied | [click here](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9) |
+| SQL (CrashCourse) | CS50           | [click here](https://youtu.be/Wb0DM9I8RDo)                                             |
 | SQL (Beginner)    | Amigoscode     | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
 
 ## 📈 Data Science
@@ -248,22 +265,27 @@ https://codeforces.com/
 | TOPIC                    | SOURCE NAME           | LINK                                                                                   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
 | Cookies                  | Hussein Nasser        | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
+| Ethics                   | CS50                  | [click here](https://youtu.be/eNxMn7slmwI)                                             |
+| Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
 
 ## 👩🏻‍💻 Programming: 
 
 | TOPIC                    | SOURCE NAME           | LINK                                                                                   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
+| C                        | CS50                  | [click here](https://youtu.be/zYierUhIFNQ)                                             |
 | C++                      | Apna College          | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) |
 | C++ (Beginner)           | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)     |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 | Core JAVA                | Smart Programming     | [click here](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) |
+| Flask                    | CS50                  | [click here](https://youtu.be/x_c8pTW8ZUc)                                             |
 | Flutter (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
 | GoLang (Beginner)        | Tech with Tim         | [click here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) |
 | Javascript (Beginner)    | Brad Travesy          | [click here](https://youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)     |
 | Javascript (Beginner)    | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=PkZNo7MFNFg)                              |
 | Kotlin                   | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=F9UC9DY-vIU)                              |
 | PHP (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
+| Python Basics CrashCourse| CS50                  | [click here](https://youtu.be/ZEQh45W_UDo)                                             |
 | Python Basics (Beginner) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw)                              |
 | Python (Beginner)        | TechWorld with Nana   | [click here](https://www.youtube.com/watch?v=t8pPdKYpowI)                              |
 | Python (Advance)         | Python Engineer       | [click here](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |

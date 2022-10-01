@@ -60,6 +60,10 @@ https://leetcode.com/
 
 https://codeforces.com/
 
+https://www.codewars.com
+
+https://www.codingninjas.com
+
 
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
@@ -130,7 +134,7 @@ https://codeforces.com/
   - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
-
+- C++ : Doc - https://devdocs.io/cpp/
 <br/>
 <br/>
 <br/>
@@ -255,6 +259,8 @@ https://codeforces.com/
 | TOPIC                    | SOURCE NAME           | LINK                                                                                   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
 | C++                      | Apna College          | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) |
+| C++ (Beginner to Advance)                     | Love Babbar          | [click here](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) |
+
 | C++ (Beginner)           | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)     |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |

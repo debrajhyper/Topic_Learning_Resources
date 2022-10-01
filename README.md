@@ -141,10 +141,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - LeetCode : https://leetcode.com/
     - GeeksForGeeks : https://www.geeksforgeeks.org/
     - A2OJ ladder (Practice) : https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
+    - CSES Problem set:https://cses.fi/problemset/list
 - Resources For Competitive Programming
     - CP Handbook (pdf) : https://cses.fi/book.pdf
     - CP Algorithms : https://cp-algorithms.com/
     - Usaco Guide : https://usaco.guide/
+    - Usaco Training : https://train.usaco.org
     - GeeksForGeeks : https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/ , https://www.geeksforgeeks.org/data-structures/?ref=lbp , 
     - CodeForces Edu : https://codeforces.com/edu/courses
     - C++ Tips and Tricks : https://codeforces.com/blog/entry/74684

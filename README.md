@@ -130,7 +130,7 @@ https://codeforces.com/
   - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
   - Python for everybody by Dr. Chuck - https://py4e.com
   - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
-  - Python Flask tutorial for a microblogging website - https://youtu.be/Qr4QMBUPxWo
+  - Python Flask tutorial for a marketplace website - https://youtu.be/Qr4QMBUPxWo
 
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn

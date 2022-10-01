@@ -30,6 +30,16 @@ We love your input! We want to make contributing to this project as easy and tra
 | Python Basics (Beginner)       | FreeCodeCamp      | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw) |
 | React JS (Beginner to Advance) | Clever Programmer | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) |
 
+
+
+
+#### Games to Learn Tech
+| TOPIC                          | SOURCE NAME       | LINK                                                      |
+| ------------------------------ | ----------------- | --------------------------------------------------------- |
+| FlexBox                        | Flexbox Froggy    | [click here](http://flexboxfroggy.com/)                   |
+| WebDev                         | codingFantasy     | [click here](https://codingfantasy.com/) |
+
+
 ## Steps For Contribution
 
     1. Fork this repo

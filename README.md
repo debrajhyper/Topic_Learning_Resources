@@ -12,13 +12,15 @@ If you like this repo, be sure to ⭐ it.
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 ## Table of Contents
-- [📃 Documentations](#-documentations)
-    - [⚡ Development Doc](#-development-doc)
-    - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
-    - [📄 Misc Doc](#-misc-doc)
-    - [👩🏻‍💻 Programming Doc](#-programming-doc)
-    - [🖥️ Competitive Programming](#%EF%B8%8F-competitive-programming)
-- [💻 Video/Playlist](#-videoplaylist)
+
+- [📃 Documentations Resources](#-documentations)
+  - [⚡ Development Doc](#-development-doc)
+  - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
+  - [📄 Misc Doc](#-misc-doc)
+  - [👩🏻‍💻 Programming Doc](#-programming-doc)
+  - [🖥️ Competitive Programming](#%EF%B8%8F-competitive-programming)
+- [💻 Video/Playlist Resources](#-videoplaylist)
+    - [🧩 Block Programming](#-block-programming)
     - [💡 Artificial Intelligence](#-artificial-intelligence)
     - [🔥 Backend Development](#-backend-development)
     - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
@@ -30,14 +32,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📑 Machine Learning](#-machine-learning)
     - [📄 Misc](#-misc)
     - [👩🏻‍💻 Programming](#-programming)
+
     - [🖥️ Competitive Programming Tutorials](#%EF%B8%8F-competitive-programming-tutorials)
 <br/>
 
 # 📃 Documentations
 
 ## ⚡ Development Doc
-- Android Development : Doc - https://developer.android.com/courses
-
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
     - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet
@@ -70,15 +71,29 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Doc -  https://sass-lang.com/documentation
     - W3Schools -  https://w3schools.com/sass
 
-- TypeScript : Official Handbook -  https://www.typescriptlang.org/docs/handbook/2/basic-types.html
+- TypeScript : 
+    - Official Handbook -  https://www.typescriptlang.org/docs/handbook/2/basic-types.html
 
-- Webpack : Doc - https://webpack.js.org
+- Webpack : 
+    - Doc - https://webpack.js.org
+    
+- Android Development
+    - Doc - https://developer.android.com/courses
+    - Android Guids - https://github.com/codepath/android_guides/wiki
+    - Codelabs(by Google) - https://codelabs.developers.google.com/?cat=android&product=android
+    - Jetpack Compose - https://foso.github.io/Jetpack-Compose-Playground
 
 - Flutter :
     - Freecodecamp Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial - https://www.freecodecamp.org/news/learn-flutter-full-course
     - Flutter Basics - https://flutter.dev/
     - Angela Yu Flutter Course - https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart-13
     - Johannes Milke Flutter essentials - https://www.youtube.com/JohannesMilke
+
+- Git and Github :
+    - Git Cheatsheet - https://education.github.com/git-cheat-sheet-education.pdf
+    - Git and GitHub Crash Course :FreeCodeCamp - https://www.youtube.com/watch?v=RGOj5yH7evk
+    - Git Branching Game - https://learngitbranching.js.org/
+    
 
 ## 🎯 Frameworks/Library Doc
 - Angular : Doc -  https://angular.io
@@ -102,9 +117,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - W3Schools - https://www.w3schools.com/php
     - Official Doc - https://www.php.net/manual/en/index.php
 - Python :
-  - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
-  - Python for everybody by Dr. Chuck - https://py4e.com
-  - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
+    - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
+    - Python for everybody by Dr. Chuck - https://py4e.com
+    - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
 
@@ -136,10 +151,18 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 # 💻 Video/Playlist
 
+## 🧩Block Programming
+
+| TOPIC           | SOURCE NAME           | LINK                                                                                   |
+|-----------------|-----------------------|----------------------------------------------------------------------------------------|
+| Scratch         | CS50                  | [click here](https://youtu.be/YoXxevp1WRQ)                                             |
+| MIT-APP Inventor| Coding Blocks Jr      | [click here](https://youtu.be/HbIX_l2FWi8)                                             |
+
 ## 💡 Artificial Intelligence
 
 | TOPIC                                                | SOURCE NAME                | LINK                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI Basics                                            | CS50                       | [click here](https://youtu.be/eey91kzfOZs)                                                                                                                                                                                                                                                   |
 | AI Engineering                                       | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/ai-engineer)                                                                                                                                                                                                                 |
 | Applied AI                                           | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)                                                                                                                                                                                |
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |
@@ -153,6 +176,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC           | SOURCE NAME           | LINK                                                                                   |
 | --------------- | --------------------- | -------------------------------------------------------------------------------------- |
 | Node JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) |
+| Node JS (Rest API)   | Artlfmj               | [click here](https://www.youtube.com/watch?v=z0mySTQDJvc&list=PLdgxJkMu3zdR9dUPZT4hX9esce3-SzuK6)     
 | PHP (MongoDB)   | AmigosCode            | [click here](https://www.youtube.com/watch?v=Www6cTUymCY)                              |
 | PHP(PostgreSQL) | AmigosCode            | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
 | PHP (Rest API)  | ProgrammingKnowledge  | [click here](https://www.youtube.com/watch?v=dlGtSoigdB0)                              |
@@ -173,6 +197,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ----------------- | -------------- | -------------------------------------------------------------------------------------- |
 | MongoDB           | JsWiz          | [click here](https://www.youtube.com/playlist?list=PLGquJ_T_JBMQmvvrriJcwdESGECuRhvtR) |
 | MongoDB           | WebDevSimplied | [click here](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9) |
+| SQL (CrashCourse) | CS50           | [click here](https://youtu.be/Wb0DM9I8RDo)                                             |
 | SQL (Beginner)    | Amigoscode     | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
 
 ## 📈 Data Science
@@ -248,22 +273,27 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC                    | SOURCE NAME           | LINK                                                                                   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
 | Cookies                  | Hussein Nasser        | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
+| Ethics                   | CS50                  | [click here](https://youtu.be/eNxMn7slmwI)                                             |
+| Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
 
 ## 👩🏻‍💻 Programming: 
 
 | TOPIC                    | SOURCE NAME           | LINK                                                                                   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
+| C                        | CS50                  | [click here](https://youtu.be/zYierUhIFNQ)                                             |
 | C++                      | Apna College          | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) |
 | C++ (Beginner)           | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)     |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 | Core JAVA                | Smart Programming     | [click here](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) |
+| Flask                    | CS50                  | [click here](https://youtu.be/x_c8pTW8ZUc)                                             |
 | Flutter (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
 | GoLang (Beginner)        | Tech with Tim         | [click here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) |
 | Javascript (Beginner)    | Brad Travesy          | [click here](https://youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)     |
 | Javascript (Beginner)    | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=PkZNo7MFNFg)                              |
 | Kotlin                   | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=F9UC9DY-vIU)                              |
 | PHP (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
+| Python Basics CrashCourse| CS50                  | [click here](https://youtu.be/ZEQh45W_UDo)                                             |
 | Python Basics (Beginner) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw)                              |
 | Python (Beginner)        | TechWorld with Nana   | [click here](https://www.youtube.com/watch?v=t8pPdKYpowI)                              |
 | Python (Advance)         | Python Engineer       | [click here](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |

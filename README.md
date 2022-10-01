@@ -130,6 +130,9 @@ https://codeforces.com/
   - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
+- Nim :
+  - Official Doc - https://nim-lang.org/docs/tut1.html
+  - Learn Nim in 5 minutes - https://learnxinyminutes.com/docs/nim/
 
 <br/>
 <br/>

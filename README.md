@@ -152,6 +152,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC           | SOURCE NAME           | LINK                                                                                   |
 | --------------- | --------------------- | -------------------------------------------------------------------------------------- |
 | Node JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) |
+| Node JS (Rest API)   | Artlfmj               | [click here](https://www.youtube.com/watch?v=z0mySTQDJvc&list=PLdgxJkMu3zdR9dUPZT4hX9esce3-SzuK6)     
 | PHP (MongoDB)   | AmigosCode            | [click here](https://www.youtube.com/watch?v=Www6cTUymCY)                              |
 | PHP(PostgreSQL) | AmigosCode            | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
 | PHP (Rest API)  | ProgrammingKnowledge  | [click here](https://www.youtube.com/watch?v=dlGtSoigdB0)                              |

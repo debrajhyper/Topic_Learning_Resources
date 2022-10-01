@@ -75,8 +75,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Webpack : 
     - Doc - https://webpack.js.org
     
-- Android Development : 
+- Android Development
     - Doc - https://developer.android.com/courses
+    - Android Guids - https://github.com/codepath/android_guides/wiki
+    - Codelabs(by Google) - https://codelabs.developers.google.com/?cat=android&product=android
+    - Jetpack Compose - https://foso.github.io/Jetpack-Compose-Playground
 
 - Flutter :
     - Freecodecamp Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial - https://www.freecodecamp.org/news/learn-flutter-full-course
@@ -135,7 +138,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 | TOPIC                                                | SOURCE NAME                | LINK                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AI Basics                                            | CS50                       | [click here](https://youtu.be/eey91kzfOZs)                                                                           |
+| AI Basics                                            | CS50                       | [click here](https://youtu.be/eey91kzfOZs)                                                                                                                                                                                                                                                   |
 | AI Engineering                                       | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/ai-engineer)                                                                                                                                                                                                                 |
 | Applied AI                                           | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)                                                                                                                                                                                |
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |

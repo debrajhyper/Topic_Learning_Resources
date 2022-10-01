@@ -1,7 +1,7 @@
 [![](./.github/TLR.svg)](https://github.com/debrajhyper)
 # Topic Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/debrajhyper)
 
-This is an awesome project about Learning resources. 📚
+This is an awesome project about various Learning resources. 📚
 
 Resources are added frequently! ⚡
 
@@ -17,6 +17,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
     - [📄 Misc Doc](#-misc-doc)
     - [👩🏻‍💻 Programming Doc](#-programming-doc)
+    - [🖥️ Competitive Programming](#%EF%B8%8F-competitive-programming)
 - [💻 Video/Playlist](#-videoplaylist)
     - [💡 Artificial Intelligence](#-artificial-intelligence)
     - [🔥 Backend Development](#-backend-development)
@@ -29,37 +30,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📑 Machine Learning](#-machine-learning)
     - [📄 Misc](#-misc)
     - [👩🏻‍💻 Programming](#-programming)
-
+    - [🖥️ Competitive Programming Tutorials](#%EF%B8%8F-competitive-programming-tutorials)
 <br/>
 
 # 📃 Documentations
 
 ## ⚡ Development Doc
 - Android Development : Doc - https://developer.android.com/courses
-
-
-
-
-🧟Websites for programming competitions
-
-
-
-https://clist.by/  💚
-
-https://www.topcoder.com/
-
-https://www.hackerrank.com/
-
-https://icpc.global/
-
-https://www.codechef.com/
-
-https://www.geeksforgeeks.org/
-
-https://leetcode.com/
-
-https://codeforces.com/
-
 
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
@@ -131,7 +108,29 @@ https://codeforces.com/
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
 
-<br/>
+## 🖥️ Competitive Programming
+- Websites For Programming Contests and Practice
+    - CList : https://clist.by/ 💚
+    - CodeForces : https://codeforces.com/
+    - CodeChef : https://www.codechef.com/
+    - TopCoder : https://www.topcoder.com/
+    - AtCoder : https://atcoder.jp/
+    - Hackerrank : https://www.hackerrank.com/
+    - HackerEarth : https://www.hackerearth.com/
+    - Google Kickstart : https://codingcompetitions.withgoogle.com/kickstart
+    - ICPC Global : https://icpc.global/
+    - LeetCode : https://leetcode.com/
+    - GeeksForGeeks : https://www.geeksforgeeks.org/
+    - A2OJ ladder (Practice) : https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
+- Resources For Competitive Programming
+    - CP Handbook (pdf) : https://cses.fi/book.pdf
+    - CP Algorithms : https://cp-algorithms.com/
+    - Usaco Guide : https://usaco.guide/
+    - GeeksForGeeks : https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/ , https://www.geeksforgeeks.org/data-structures/?ref=lbp , 
+    - CodeForces Edu : https://codeforces.com/edu/courses
+    - C++ Tips and Tricks : https://codeforces.com/blog/entry/74684
+    - Roadmap : https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg , https://www.geeksforgeeks.org/greedy-algorithms/ 
+    - List of other useful resources : https://codeforces.com/blog/entry/91363 , https://codeforces.com/blog/entry/57282 , https://codeforces.com/blog/entry/13529 
 <br/>
 <br/>
 
@@ -269,3 +268,12 @@ https://codeforces.com/
 | Python (Beginner)        | TechWorld with Nana   | [click here](https://www.youtube.com/watch?v=t8pPdKYpowI)                              |
 | Python (Advance)         | Python Engineer       | [click here](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |
 | Ruby (Beginner)          | ProgrammingKnowledge  | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbNBXZAeVbkkHEj9zsEbXQK) |
+
+## 🖥️ Competitive Programming Tutorials
+
+| TOPIC           | SOURCE NAME           | LINK                                                                                   |
+| --------------------- | ------------------------- | -------------------------------------------------------------------------------------- |
+| CP playlist (Hindi)   | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) |
+| Algorithms Playlist   | Errichto                  | [click here](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80) |
+| Streams               | William Lin , Geothermal  | [William Lin](https://www.youtube.com/c/WilliamLin168/playlists), [Geothermal](https://www.youtube.com/channel/UCpUTNKWxw9p4nOvekiIRWow) |
+| Beginner Topics For CP| COPS IIT-(BHU)            | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6) |

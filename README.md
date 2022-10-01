@@ -40,7 +40,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 # 📃 Documentations
 
 ## ⚡ Development Doc
-- Android Development : Doc - https://developer.android.com/courses
+- Android Development
+    - Doc - https://developer.android.com/courses
+    - Android Guids - https://github.com/codepath/android_guides/wiki
+    - Codelabs(by Google) - https://codelabs.developers.google.com/?cat=android&product=android
+    - Jetpack Compose - https://foso.github.io/Jetpack-Compose-Playground/
 
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css

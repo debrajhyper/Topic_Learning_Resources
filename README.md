@@ -25,6 +25,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📂 Database](#-database)
     - [📈 Data Science](#-data-science)
     - [🎓 DSA](#-dsa)
+    - [⟠  Ethereum Development](#-ethereum-development)
     - [🌊 Frontend Development](#-frontend-development)
     - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
     - [📑 Machine Learning](#-machine-learning)
@@ -103,6 +104,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
 - Chakra UI : Doc -  https://chakra-ui.com/getting-started
+- Ethers JS : Doc - https://docs.ethers.io/v5
 - Material UI : Doc -  https://mui.com
 - Next : Doc -  https://nextjs.org
 - React JS : Doc -  https://reactjs.org/docs/hello-world

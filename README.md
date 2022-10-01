@@ -49,6 +49,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - W3Schools - https://w3schools.com/css
     - WEB.DEV - https://web.dev/learn/css
 
+- Ethereum Development :
+    - Doc - https://ethereum.org/en/developers/docs
+    - Tutorial - https://www.freecodecamp.org/news/full-stack-ethereum-development
+
 - HTML :
     - Learn-HTML - https://www.w3schools.com/html/default.asp
     - Learn-HTML - https://learn-html.org
@@ -202,6 +206,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
 | Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)            |
 | Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)            |
+
+## ⟠ Ethereum Development
+
+| TOPIC                    | SOURCE NAME   | LINK                                                                                            |
+| ------------------------ | ------------- | ----------------------------------------------------------------------------------------------- |
+| Ethereum with JavaScript | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)           |
+| Ethereum with Python     | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)           |
+| Ethereum Complete Guide  | Udemy         | [click here](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) |
 
 ## 🌊 Frontend Development
 

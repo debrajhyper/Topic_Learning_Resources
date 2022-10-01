@@ -160,6 +160,13 @@ https://codeforces.com/
 | Python          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
 | Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
+| Node & Express JS | FreeCodeCamp        | [click here](https://youtu.be/Oe421EPjeBE)                                             |
+
+## 🦄 Full Stack
+
+| TOPIC           | SOURCE NAME           | LINK                                                                                   |
+| --------------- | --------------------- | -------------------------------------------------------------------------------------- |
+| Web Dev full course | Codedamn          | [click here](https://youtu.be/ZxKM3DCV2kE)                                             |
 
 ## 🌀 Backend Frameworks/Library
 
@@ -220,6 +227,7 @@ https://codeforces.com/
 | Responsive Images                  | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
 | Responsive Web Design Fundamentals | Udacity               | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
 | Tailwind CSS                       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| Frontend web developer Bootcamp course | FreeCodeCamp      | [click here](https://youtu.be/zJSY8tbf_ys)                                             |
 
 
 

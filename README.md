@@ -114,6 +114,7 @@ https://codeforces.com/
 - Svelte: Doc -  https://svelte.dev
 - TailwindCSS : Doc -  https://tailwindcss.com
 - Vue : Doc - https://vuejs.org
+- Angular for beginner : TekTutorialsHub - https://www.tektutorialshub.com/angular-tutorial/
  
 ## 📄 Misc Doc
 - DevTools :  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools

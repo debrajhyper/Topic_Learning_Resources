@@ -96,6 +96,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Python :
   - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
   - Python for everybody by Dr. Chuck - https://py4e.com
+  - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
 

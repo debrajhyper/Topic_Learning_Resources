@@ -104,9 +104,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Material UI : Doc -  https://mui.com
 - Next : Doc -  https://nextjs.org
 - React JS : Doc -  https://reactjs.org/docs/hello-world
-- Svelte: Doc -  https://svelte.dev
+- Svelte : Doc -  https://svelte.dev
 - TailwindCSS : Doc -  https://tailwindcss.com
 - Vue : Doc - https://vuejs.org
+- Django : Doc - https://docs.djangoproject.com/en/4.1/
+- FastAPI : Doc - https://fastapi.tiangolo.com/
  
 ## 📄 Misc Doc
 - DevTools :  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools

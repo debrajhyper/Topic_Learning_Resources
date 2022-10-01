@@ -25,7 +25,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📂 Database](#-database)
     - [📈 Data Science](#-data-science)
     - [🎓 DSA](#-dsa)
-    - [⟠  Ethereum Development](#-ethereum-development)
+    - [⟠   Ethereum Development](#-ethereum-development)
     - [🌊 Frontend Development](#-frontend-development)
     - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
     - [📑 Machine Learning](#-machine-learning)

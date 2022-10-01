@@ -163,7 +163,7 @@ https://codeforces.com/
 | Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
 | Python (FastAPI)| BitFumes              | [click here](https://www.youtube.com/watch?v=7t2alSnE2-I&t=4866s)                      |
-| Java Spring Boot| Telusko              | [click here](https://www.youtube.com/watch?v=Ch163VfHtvA&list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4|
+| Java Spring Boot| Telusko              | [click here](https://www.youtube.com/watch?v=Ch163VfHtvA&list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4)|
 
 ## 🌀 Backend Frameworks/Library
 

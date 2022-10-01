@@ -220,7 +220,7 @@ https://codeforces.com/
 | Responsive Images                  | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
 | Responsive Web Design Fundamentals | Udacity               | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
 | Tailwind CSS                       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
-
+| The Complete JavaScript Course 2022: From Zero to Expert! | Udemy | [click here](https://www.udemy.com/course/the-complete-javascript-course/) |
 
 
 ## ⚡ Frontend Frameworks/Library

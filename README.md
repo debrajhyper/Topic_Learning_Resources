@@ -249,6 +249,7 @@ https://codeforces.com/
 | TOPIC                    | SOURCE NAME           | LINK                                                                                   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
 | Cookies                  | Hussein Nasser        | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
+| Android Development      | Rahul Pandey          | [click here](https://www.youtube.com/c/RahulPandeyrkp)
 
 ## 👩🏻‍💻 Programming: 
 

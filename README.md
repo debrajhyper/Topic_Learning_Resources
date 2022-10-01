@@ -12,23 +12,25 @@ If you like this repo, be sure to ⭐ it.
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 ## Table of Contents
+- [Topic Learning Resources ![Awesome](https://github.com/debrajhyper)](#topic-learning-resources-)
+  - [Table of Contents](#table-of-contents)
 - [📃 Documentations](#-documentations)
-    - [⚡ Development Doc](#-development-doc)
-    - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
-    - [📄 Misc Doc](#-misc-doc)
-    - [👩🏻‍💻 Programming Doc](#-programming-doc)
+  - [⚡ Development Doc](#-development-doc)
+  - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
+  - [📄 Misc Doc](#-misc-doc)
+  - [👩🏻‍💻 Programming Doc](#-programming-doc)
 - [💻 Video/Playlist](#-videoplaylist)
-    - [💡 Artificial Intelligence](#-artificial-intelligence)
-    - [🔥 Backend Development](#-backend-development)
-    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-    - [📂 Database](#-database)
-    - [📈 Data Science](#-data-science)
-    - [🎓 DSA](#-dsa)
-    - [🌊 Frontend Development](#-frontend-development)
-    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-    - [📑 Machine Learning](#-machine-learning)
-    - [📄 Misc](#-misc)
-    - [👩🏻‍💻 Programming](#-programming)
+  - [💡 Artificial Intelligence](#-artificial-intelligence)
+  - [🔥 Backend Development:](#-backend-development)
+  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+  - [📂 Database](#-database)
+  - [📈 Data Science](#-data-science)
+  - [🎓 DSA](#-dsa)
+  - [🌊 Frontend Development](#-frontend-development)
+  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+  - [📑 Machine Learning](#-machine-learning)
+  - [📄 Misc](#-misc)
+  - [👩🏻‍💻 Programming:](#-programming)
 
 <br/>
 
@@ -160,6 +162,8 @@ https://codeforces.com/
 | Python          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
 | Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
+| Python (FastAPI)| BitFumes              | [click here](https://www.youtube.com/watch?v=7t2alSnE2-I&t=4866s)                      |
+| Java Spring Boot| Telusko              | [click here](https://www.youtube.com/watch?v=Ch163VfHtvA&list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4|
 
 ## 🌀 Backend Frameworks/Library
 

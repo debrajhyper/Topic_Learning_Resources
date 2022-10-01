@@ -233,6 +233,8 @@ https://codeforces.com/
 | React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |
 | React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
 | Vue JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
+| React JS (Intermediate)        | Scrimba           | [click here](https://scrimba.com/learn/learnreact)  
+                                         |
 
 ## 📑 Machine Learning
 

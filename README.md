@@ -166,7 +166,7 @@ https://codeforces.com/
 | TOPIC             | SOURCE NAME                | LINK                                                                                   |
 | ----------------- | -------------------------- | -------------------------------------------------------------------------------------- |
 | Laravel (Beginner)| ProgrammingKnowledge       | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi) |
-| Laravel           | Laracasts | [click here](https://laracasts.com/) |
+| Laravel           | Laracasts | [click here](https://laracasts.com) |
 | Pytest (Beginner) | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial)                   |
 
 ## 📂 Database

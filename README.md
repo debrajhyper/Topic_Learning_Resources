@@ -12,15 +12,12 @@ If you like this repo, be sure to ⭐ it.
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 ## Table of Contents
-- [Topic Learning Resources ![Awesome](https://github.com/debrajhyper)](#topic-learning-resources-)
-  - [Table of Contents](#table-of-contents)
-- [📃 Documentations](#-documentations)
+- [📃 Documentations Resources](#-documentations)
   - [⚡ Development Doc](#-development-doc)
   - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
   - [📄 Misc Doc](#-misc-doc)
   - [👩🏻‍💻 Programming Doc](#-programming-doc)
-- [🧟 Websites for programming competitions](#-websites-for-programming-competitions)
-- [💻 Video/Playlist](#-videoplaylist)
+- [💻 Video/Playlist Resources](#-videoplaylist)
     - [🧩 Block Programming](#-block-programming)
     - [💡 Artificial Intelligence](#-artificial-intelligence)
     - [🔥 Backend Development](#-backend-development)
@@ -40,12 +37,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 # 📃 Documentations
 
 ## ⚡ Development Doc
-- Android Development
-    - Doc - https://developer.android.com/courses
-    - Android Guids - https://github.com/codepath/android_guides/wiki
-    - Codelabs(by Google) - https://codelabs.developers.google.com/?cat=android&product=android
-    - Jetpack Compose - https://foso.github.io/Jetpack-Compose-Playground/
-
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
     - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet
@@ -78,9 +69,17 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Doc -  https://sass-lang.com/documentation
     - W3Schools -  https://w3schools.com/sass
 
-- TypeScript : Official Handbook -  https://www.typescriptlang.org/docs/handbook/2/basic-types.html
+- TypeScript : 
+    - Official Handbook -  https://www.typescriptlang.org/docs/handbook/2/basic-types.html
 
-- Webpack : Doc - https://webpack.js.org
+- Webpack : 
+    - Doc - https://webpack.js.org
+    
+- Android Development
+    - Doc - https://developer.android.com/courses
+    - Android Guids - https://github.com/codepath/android_guides/wiki
+    - Codelabs(by Google) - https://codelabs.developers.google.com/?cat=android&product=android
+    - Jetpack Compose - https://foso.github.io/Jetpack-Compose-Playground
 
 - Flutter :
     - Freecodecamp Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial - https://www.freecodecamp.org/news/learn-flutter-full-course
@@ -116,35 +115,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - W3Schools - https://www.w3schools.com/php
     - Official Doc - https://www.php.net/manual/en/index.php
 - Python :
-  - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
-  - Python for everybody by Dr. Chuck - https://py4e.com
-  - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
+    - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
+    - Python for everybody by Dr. Chuck - https://py4e.com
+    - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
 
 <br/>
 <br/>
 <br/>
-
-# 🧟 Websites for programming competitions
-
-
-
-https://clist.by/  💚
-
-https://www.topcoder.com/
-
-https://www.hackerrank.com/
-
-https://icpc.global/
-
-https://www.codechef.com/
-
-https://www.geeksforgeeks.org/
-
-https://leetcode.com/
-
-https://codeforces.com/
 
 # 💻 Video/Playlist
 
@@ -159,7 +138,7 @@ https://codeforces.com/
 
 | TOPIC                                                | SOURCE NAME                | LINK                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AI Basics                                            | CS50                       | [click here](https://youtu.be/eey91kzfOZs)                                                                           |
+| AI Basics                                            | CS50                       | [click here](https://youtu.be/eey91kzfOZs)                                                                                                                                                                                                                                                   |
 | AI Engineering                                       | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/ai-engineer)                                                                                                                                                                                                                 |
 | Applied AI                                           | IBM - Coursera             | [click here](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)                                                                                                                                                                                |
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |

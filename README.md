@@ -308,6 +308,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC           | SOURCE NAME           | LINK                                                                                   |
 | --------------------- | ------------------------- | -------------------------------------------------------------------------------------- |
 | CP playlist (Hindi)   | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) |
+| CP playlist (English) | ProgrammingWithHarry      | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE) |
+| JavaScript Playlist   | ProgrammingWithHarry      | [click here](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) |
 | Algorithms Playlist   | Errichto                  | [click here](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80) |
 | Streams               | William Lin , Geothermal  | [William Lin](https://www.youtube.com/c/WilliamLin168/playlists), [Geothermal](https://www.youtube.com/channel/UCpUTNKWxw9p4nOvekiIRWow) |
 | Beginner Topics For CP| COPS IIT-(BHU)            | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6) |

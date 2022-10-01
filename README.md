@@ -50,6 +50,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - WEB.DEV - https://web.dev/learn/css
 
 - HTML :
+    - Learn-HTML - https://www.w3schools.com/html/default.asp
     - Learn-HTML - https://learn-html.org
     - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
 
@@ -118,6 +119,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
     - Python for everybody by Dr. Chuck - https://py4e.com
     - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
+    - Python Blog Series by Real Python - https://realpython.com/python-basics/
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
 

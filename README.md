@@ -154,7 +154,7 @@ https://codeforces.com/
 | TOPIC           | SOURCE NAME           | LINK                                                                                             |
 | --------------- | --------------------- | --------------------------------------------------------------------------------------           |
 | Node JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8)           |
-| Node JS         | Net Ninjas            | {click here}(https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)|
+| Node JS         | Net Ninjas            | [click here](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)|
 | PHP (MongoDB)   | AmigosCode            | [click here](https://www.youtube.com/watch?v=Www6cTUymCY)                                        |
 | PHP(PostgreSQL) | AmigosCode            | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                                        |
 | PHP (Rest API)  | ProgrammingKnowledge  | [click here](https://www.youtube.com/watch?v=dlGtSoigdB0)                                        |

@@ -72,6 +72,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 - Webpack : Doc - https://webpack.js.org
 
+- Flutter :
+    - Freecodecamp Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial - https://www.freecodecamp.org/news/learn-flutter-full-course
+    - Flutter Basics - https://flutter.dev/
+    - Angela Yu Flutter Course - https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart-13
+    - Johannes Milke Flutter essentials - https://www.youtube.com/JohannesMilke
+
 ## 🎯 Frameworks/Library Doc
 - Angular : Doc -  https://angular.io
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4

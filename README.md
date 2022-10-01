@@ -37,6 +37,30 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## ⚡ Development Doc
 - Android Development : Doc - https://developer.android.com/courses
 
+
+
+
+🧟Websites for programming competitions
+
+
+
+https://clist.by/  💚
+
+https://www.topcoder.com/
+
+https://www.hackerrank.com/
+
+https://icpc.global/
+
+https://www.codechef.com/
+
+https://www.geeksforgeeks.org/
+
+https://leetcode.com/
+
+https://codeforces.com/
+
+
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
     - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet

@@ -60,6 +60,8 @@ https://leetcode.com/
 
 https://codeforces.com/
 
+http://www.spoj.com/
+
 
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css

@@ -33,9 +33,9 @@ We love your input! We want to make contributing to this project as easy and tra
 | Python Basics (Beginner)       | FreeCodeCamp         | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw) |
 | Java Tutorial(Beginner)        | Programming with Mosh| [click here](https://youtu.be/eIrMbAQSU34)                |
 | React JS (Beginner to Advance) | Clever Programmer    | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) |
-| Python Tutorial(Beginner)      | Great Learning       | [click here] ( https://youtu.be/RJWlUyfOy1o )             |
-| Excel Tutorial (Beginner)      | Teacher's Tech       | [click here] ( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw )|
-| Angular Tutorial(Beginner)     | FreeCodeCamp         | [click here] (https://youtu.be/2OHbjep_WjQ )              |
+| Python Tutorial(Beginner)      | Great Learning       | [click here]( https://youtu.be/RJWlUyfOy1o )             |
+| Excel Tutorial (Beginner)      | Teacher's Tech       | [click here]( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw )|
+| Angular Tutorial(Beginner)     | FreeCodeCamp         | [click here](https://youtu.be/2OHbjep_WjQ )              |
 
 
 

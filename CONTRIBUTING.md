@@ -19,21 +19,24 @@ We love your input! We want to make contributing to this project as easy and tra
     - https:// at the starting.
     - No / at the end.
 #### Documentations
-- TOPIC  : SOURCE NAME - LINK
-- SASS   : w3schools   - https://www.w3schools.com/sass
-- Next   : Docs        - https://nextjs.org
-- Angular: Docs        - https://angular.io/docs
+
+- TOPIC  : SOURCE NAME   - LINK
+- SASS   : w3schools     - https://www.w3schools.com/sass
+- Next   : Docs          - https://nextjs.org
+- Groovy : Apache Groovy - https://groovy-lang.org/documentation.html
+- Angular: Docs          - https://angular.io/docs
+
 
 #### Video/Playlist
 | TOPIC                          | SOURCE NAME          | LINK                                                      |
-| ------------------------------ | -----------------    | --------------------------------------------------------- |
 | HTML                           | FreeCodeCamp         | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg) |
 | C Language (Beginners)         | ProgrammingWithHarry | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE) |
 | Python Basics (Beginner)       | FreeCodeCamp         | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw) |
 | React JS (Beginner to Advance) | Clever Programmer    | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) |
-| Python Tutorial(Beginner)      | Great Learning       | [click here]( https://youtu.be/RJWlUyfOy1o )             |
+| Python Tutorial(Beginner)      | Great Learning       | [click here]( https://youtu.be/RJWlUyfOy1o )              |
 | Excel Tutorial (Beginner)      | Teacher's Tech       | [click here]( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw )|
 | Angular Tutorial(Beginner)     | FreeCodeCamp         | [click here](https://youtu.be/2OHbjep_WjQ )              |
+
 
 
 

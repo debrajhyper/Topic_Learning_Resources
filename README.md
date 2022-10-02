@@ -42,6 +42,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
     - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet
+    - CSS Flexbox - https://flexbox.malven.co/
     - CSS Grid - https://grid.malven.co
     - CSS Tricks - https://css-tricks.com
     - FreeCodeCamp - https://freecodecamp.org
@@ -50,11 +51,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - SoloLearn - https://sololearn.com
     - W3Schools - https://w3schools.com/css
     - WEB.DEV - https://web.dev/learn/css
+    - Loading Animation - https://loading.io/
+    - Css Visual Guide - https://cssreference.io/
 
 - HTML :
     - Learn-HTML - https://www.w3schools.com/html/default.asp
     - Learn-HTML - https://learn-html.org
     - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
+    - HTML Cheat Sheet - https://htmlcheatsheet.com/
 
 - HTML/CSS :
     - FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
@@ -141,6 +145,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - LeetCode : https://leetcode.com/
     - GeeksForGeeks : https://www.geeksforgeeks.org/
     - A2OJ ladder (Practice) : https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
+    - Work@Tech : https://workat.tech/problem-solving/practice
+    - Tech Interview Handbook : https://www.techinterviewhandbook.org/grind75
 - Resources For Competitive Programming
     - CP Handbook (pdf) : https://cses.fi/book.pdf
     - CP Algorithms : https://cp-algorithms.com/

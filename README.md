@@ -150,6 +150,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - A2OJ ladder (Practice) : https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
     - Work@Tech : https://workat.tech/problem-solving/practice
     - Tech Interview Handbook : https://www.techinterviewhandbook.org/grind75
+    - LintCode : https://www.lintcode.com/problem/?typeId=4
 - Resources For Competitive Programming
     - CP Handbook (pdf) : https://cses.fi/book.pdf
     - CP Algorithms : https://cp-algorithms.com/

@@ -108,6 +108,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
 - Chakra UI : Doc -  https://chakra-ui.com/getting-started
+- Flask : Doc - https://flask.palletsprojects.com
+- Jinja : Doc - https://jinja.palletsprojects.com
 - Material UI : Doc -  https://mui.com
 - Next : Doc -  https://nextjs.org
 - React JS : Doc -  https://reactjs.org/docs/hello-world
@@ -131,6 +133,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Python for everybody by Dr. Chuck - https://py4e.com
     - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
     - Python Blog Series by Real Python - https://realpython.com/python-basics/
+  - Python Flask tutorial for a marketplace website - https://youtu.be/Qr4QMBUPxWo
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
 

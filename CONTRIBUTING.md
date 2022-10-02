@@ -23,7 +23,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - SASS  : w3schools     - https://www.w3schools.com/sass
 - Next  : Docs          - https://nextjs.org
 - Groovy: Apache Groovy - https://groovy-lang.org/documentation.html
-
+- Sql   : w3schools     - https://www.w3schools.com/sql/
 
 #### Video/Playlist
 | TOPIC                          | SOURCE NAME          | LINK                                                      |
@@ -44,6 +44,7 @@ We love your input! We want to make contributing to this project as easy and tra
 | FlexBox                        | Flexbox Froggy    | [click here](http://flexboxfroggy.com/)                   |
 | WebDev                         | codingFantasy     | [click here](https://codingfantasy.com/) |
 | Css                            | Css Diner         | [click here](https://flukeout.github.io/)|
+
 
 
 

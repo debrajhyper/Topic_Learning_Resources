@@ -70,6 +70,7 @@ https://codeforces.com/
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
     - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet
+    - CSS Flexbox - https://flexbox.malven.co/
     - CSS Grid - https://grid.malven.co
     - CSS Tricks - https://css-tricks.com
     - FreeCodeCamp - https://freecodecamp.org
@@ -78,16 +79,20 @@ https://codeforces.com/
     - SoloLearn - https://sololearn.com
     - W3Schools - https://w3schools.com/css
     - WEB.DEV - https://web.dev/learn/css
+    - Loading Animation - https://loading.io/
+    - Css Visual Guide - https://cssreference.io/
 
 - HTML :
     - Learn-HTML - https://www.w3schools.com/html/default.asp
     - Learn-HTML - https://learn-html.org
     - W3Schools - https://www.w3schools.com/html
     - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
+    - HTML Cheat Sheet - https://htmlcheatsheet.com/
 
 - HTML/CSS :
     - FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
     - Udemy Course - https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
+    - CodeWithHarry (Hindi) - https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
 
 - JavaScript :
     - FreecodeCamp JavaScript Algorithms and Data Structures certification - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
@@ -97,6 +102,7 @@ https://codeforces.com/
     - JavaScript Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
     - JavaScript Info - https://javascript.info
     - Javascript Tutorail From Scrimba - https://scrimba.com/learn/learnjavascript
+    - Javascript full course (FreeCodeCamp) - https://www.youtube.com/watch?v=jS4aFq5-91M
 - SASS :
     - Doc -  https://sass-lang.com/documentation
     - W3Schools -  https://w3schools.com/sass
@@ -123,6 +129,7 @@ https://codeforces.com/
     - Git Cheatsheet - https://education.github.com/git-cheat-sheet-education.pdf
     - Git and GitHub Crash Course :FreeCodeCamp - https://www.youtube.com/watch?v=RGOj5yH7evk
     - Git Branching Game - https://learngitbranching.js.org/
+    - Git and GitHub Overview :Love Babbar - https://www.youtube.com/watch?v=uj4fy4kpaOA
     
 
 ## 🎯 Frameworks/Library Doc
@@ -170,6 +177,8 @@ https://codeforces.com/
     - LeetCode : https://leetcode.com/
     - GeeksForGeeks : https://www.geeksforgeeks.org/
     - A2OJ ladder (Practice) : https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
+    - Work@Tech : https://workat.tech/problem-solving/practice
+    - Tech Interview Handbook : https://www.techinterviewhandbook.org/grind75
 - Resources For Competitive Programming
     - CP Handbook (pdf) : https://cses.fi/book.pdf
     - CP Algorithms : https://cp-algorithms.com/
@@ -216,6 +225,8 @@ https://codeforces.com/
 | Python          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
 | Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
+| Node JS         | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLobAq7hWqZWGTfhj4jNQAVzJd_y6iTErQ) |
+
 
 ## 🌀 Backend Frameworks/Library
 
@@ -258,6 +269,14 @@ https://codeforces.com/
 | Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
 | Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)            |
 | Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)            |
+| Algorithms                                          | Abdul Bari     | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)              |                |
+| DSA in Java                                         | Dinesh Varyani | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)              |                |
+| Dynamic Programming                                 | Aditya Verma   | [click here](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)              |                | 
+| Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha | [click here](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)              |                |
+| Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)              |                |
+| Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)              |                |
+| Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)              |                |
+| Data Structures                                     | mycodeschool   | [click here](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)              |                |
 
 ## 🌊 Frontend Development
 
@@ -278,6 +297,7 @@ https://codeforces.com/
 | Responsive Images                  | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
 | Responsive Web Design Fundamentals | Udacity               | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
 | Tailwind CSS                       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| HTML/CSS/Javascript (Beginners)    | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)     |
 
 
 
@@ -317,8 +337,9 @@ https://codeforces.com/
 | C                        | CS50                  | [click here](https://youtu.be/zYierUhIFNQ)                                             |
 | C++                      | Apna College          | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) |
 | C++ (Beginner)           | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)     |
+| C++ (complete DSA)       | Code Help - by Babbar | [click here](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)     |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
-| C#  (Full Course)        | FreeCodeCamo          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
+| C#  (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 | Core JAVA                | Smart Programming     | [click here](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) |
 | Flask                    | CS50                  | [click here](https://youtu.be/x_c8pTW8ZUc)                                             |
 | Flutter (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
@@ -338,6 +359,9 @@ https://codeforces.com/
 | TOPIC           | SOURCE NAME           | LINK                                                                                   |
 | --------------------- | ------------------------- | -------------------------------------------------------------------------------------- |
 | CP playlist (Hindi)   | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) |
+| CP playlist (English) | ProgrammingWithHarry      | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE) |
+| JavaScript Playlist   | ProgrammingWithHarry      | [click here](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) |
 | Algorithms Playlist   | Errichto                  | [click here](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80) |
-| Streams               | William Lin , Geothermal  | [William Lin](https://www.youtube.com/c/WilliamLin168/playlists), [Geothermal](https://www.youtube.com/channel/UCpUTNKWxw9p4nOvekiIRWow) |
+| Streams               | William Lin , Geothermal  | [William Lin](https://www.youtube.com/c/WilliamLin168/playlists), [Geothermal](https://www.youtube.com/channel/UCpUTNKWxw9p4nOvekiIRWow)                           |                                                                                        |
 | Beginner Topics For CP| COPS IIT-(BHU)            | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6) |
+| C++ STL               | Utkatsh Gupta             | [click here](https://youtu.be/PZogbfU4X5E)                                             |

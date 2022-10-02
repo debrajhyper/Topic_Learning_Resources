@@ -27,14 +27,13 @@ We love your input! We want to make contributing to this project as easy and tra
 
 #### Video/Playlist
 | TOPIC                          | SOURCE NAME          | LINK                                                      |
-| ------------------------------ | -----------------    | --------------------------------------------------------- |
 | HTML                           | FreeCodeCamp         | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg) |
 | C Language (Beginners)         | ProgrammingWithHarry | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE) |
 | Python Basics (Beginner)       | FreeCodeCamp         | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw) |
 | React JS (Beginner to Advance) | Clever Programmer    | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) |
 | Python Tutorial(Beginner)      | Great Learning       | [click here] ( https://youtu.be/RJWlUyfOy1o )             |
-| Excel Tutorial (Beginner)      | Teacher's Tech       | [click here] ( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw )                                                                                                       |
-
+| Excel Tutorial (Beginner)      | Teacher's Tech       | [click here] ( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw ) 
+| Java Tutorial  (Beginner)      | Programming with Mosh| [click here] (https://www.youtube.com/watch?v=eIrMbAQSU34)|
 
 
 

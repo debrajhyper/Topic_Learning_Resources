@@ -19,9 +19,11 @@ We love your input! We want to make contributing to this project as easy and tra
     - https:// at the starting.
     - No / at the end.
 #### Documentations
-- TOPIC : SOURCE NAME - LINK
-- SASS  : w3schools   - https://www.w3schools.com/sass
-- Next  : Docs        - https://nextjs.org
+- TOPIC : SOURCE NAME   - LINK
+- SASS  : w3schools     - https://www.w3schools.com/sass
+- Next  : Docs          - https://nextjs.org
+- Groovy: Apache Groovy - https://groovy-lang.org/documentation.html
+
 
 #### Video/Playlist
 | TOPIC                          | SOURCE NAME       | LINK                                                      |

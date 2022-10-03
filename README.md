@@ -122,6 +122,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Svelte : Doc -  https://svelte.dev
 - TailwindCSS : Doc -  https://tailwindcss.com
 - Vue : Doc - https://vuejs.org
+- Angular for beginner : TekTutorialsHub - https://www.tektutorialshub.com/angular-tutorial/
 - Django : Doc - https://docs.djangoproject.com/en/4.1/
 - FastAPI : Doc - https://fastapi.tiangolo.com/
  

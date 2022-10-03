@@ -220,6 +220,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ----------------- | -------------------------- | -------------------------------------------------------------------------------------- |
 | Laravel (Beginner)| ProgrammingKnowledge       | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi) |
 | Pytest (Beginner) | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial)                   |
+| GO, JS (Beginner) | gRPC Cross Language        | [click here](https://github.com/rizkyian78/grpc_cross_language)                        |
 
 ## 📂 Database
 

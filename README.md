@@ -34,6 +34,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [👩🏻‍💻 Programming](#-programming)
 
     - [🖥️ Competitive Programming Tutorials](#%EF%B8%8F-competitive-programming-tutorials)
+    - [👩🏻‍💻 Learn SQL](#-Learn SQL)
 <br/>
 
 # 📃 Documentations
@@ -174,6 +175,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Roadmap : https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg , https://www.geeksforgeeks.org/greedy-algorithms/ 
     - List of other useful resources : https://codeforces.com/blog/entry/91363 , https://codeforces.com/blog/entry/57282 , https://codeforces.com/blog/entry/13529 
 <br/>
+## 🏦🎲 Learn SQL
+- List of useful websites do learn/practice SQL.
+    - Tutorials and How to... examples : https://sqlzoo.net/wiki/SQL_Tutorial
+    - Material to learn and Sql with places to test the code: https://www.sql-easy.com/
+    - Exercises to practice : https://sqlbolt.com/
+    - Discover who is the murder with SQL : https://mystery.knightlab.com/
+
+
 <br/>
 
 # 💻 Video/Playlist

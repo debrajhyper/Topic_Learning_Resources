@@ -145,6 +145,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
   - Python Flask tutorial for a marketplace website - https://youtu.be/Qr4QMBUPxWo
 - Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
 - Rust : Doc - https://rust-lang.org/learn
+- Perl : Doc - https://perldoc.perl.org/
 
 ## 🖥️ Competitive Programming
 - Websites For Programming Contests and Practice

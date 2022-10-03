@@ -19,19 +19,21 @@ We love your input! We want to make contributing to this project as easy and tra
     - https:// at the starting.
     - No / at the end.
 #### Documentations
-- TOPIC : SOURCE NAME - LINK
-- SASS  : w3schools   - https://www.w3schools.com/sass
-- Next  : Docs        - https://nextjs.org
+- TOPIC : SOURCE NAME   - LINK
+- SASS  : w3schools     - https://www.w3schools.com/sass
+- Next  : Docs          - https://nextjs.org
+- Groovy: Apache Groovy - https://groovy-lang.org/documentation.html
+- Sql   : w3schools     - https://www.w3schools.com/sql/
 
 #### Video/Playlist
-| TOPIC                          | SOURCE NAME       | LINK                                                      |
-| ------------------------------ | ----------------- | --------------------------------------------------------- |
-| HTML                           | FreeCodeCamp      | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg) |
-| Python Basics (Beginner)       | FreeCodeCamp      | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw) |
-| React JS (Beginner to Advance) | Clever Programmer | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) |
-| Python Tutorial(Beginner)      | Great Learning    | [click here] ( https://youtu.be/RJWlUyfOy1o )             |
-| Excel Tutorial (Beginner)      | Teacher's Tech    | [click here] ( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw )                                                                                                       |
-
+| TOPIC                          | SOURCE NAME          | LINK                                                      |
+| HTML                           | FreeCodeCamp         | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg) |
+| C Language (Beginners)         | ProgrammingWithHarry | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE) |
+| Python Basics (Beginner)       | FreeCodeCamp         | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw) |
+| React JS (Beginner to Advance) | Clever Programmer    | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) |
+| Python Tutorial(Beginner)      | Great Learning       | [click here] ( https://youtu.be/RJWlUyfOy1o )             |
+| Excel Tutorial (Beginner)      | Teacher's Tech       | [click here] ( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw ) 
+| Java Tutorial  (Beginner)      | Programming with Mosh| [click here] (https://www.youtube.com/watch?v=eIrMbAQSU34)|
 
 
 
@@ -41,6 +43,9 @@ We love your input! We want to make contributing to this project as easy and tra
 | ------------------------------ | ----------------- | --------------------------------------------------------- |
 | FlexBox                        | Flexbox Froggy    | [click here](http://flexboxfroggy.com/)                   |
 | WebDev                         | codingFantasy     | [click here](https://codingfantasy.com/) |
+| Css                            | Css Diner         | [click here](https://flukeout.github.io/)|
+
+
 
 
 ## Steps For Contribution

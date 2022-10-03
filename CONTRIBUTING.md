@@ -23,7 +23,8 @@ We love your input! We want to make contributing to this project as easy and tra
 - SASS  : w3schools     - https://www.w3schools.com/sass
 - Next  : Docs          - https://nextjs.org
 - Groovy: Apache Groovy - https://groovy-lang.org/documentation.html
-- Sql   : w3schools     - https://www.w3schools.com/sql/
+- Sql   : w3schools     - https://www.w3schools.com/sql/ 
+- Angular: Docs        - https://angular.io/docs
 
 #### Video/Playlist
 | TOPIC                          | SOURCE NAME          | LINK                                                      |
@@ -34,6 +35,7 @@ We love your input! We want to make contributing to this project as easy and tra
 | Python Tutorial(Beginner)      | Great Learning       | [click here] ( https://youtu.be/RJWlUyfOy1o )             |
 | Excel Tutorial (Beginner)      | Teacher's Tech       | [click here] ( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw ) 
 | Java Tutorial  (Beginner)      | Programming with Mosh| [click here] (https://www.youtube.com/watch?v=eIrMbAQSU34)|
+| Angular Tutorial(Beginner)     | FreeCodeCamp         | [click here](https://youtu.be/2OHbjep_WjQ )              |
 
 
 

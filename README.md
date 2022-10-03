@@ -130,6 +130,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - PWA :  https://developers.google.com/web/progressive-web-apps
 
 ## 👩🏻‍💻 Programming Doc
+- GoLang :
+    - Go by Example (Hands-on introduction to Go) - https://gobyexample.com
+    - Official Doc - https://go.dev/doc
 - PHP :
     - The Right Way - https://phptherightway.com          
     - W3Schools - https://www.w3schools.com/php

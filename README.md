@@ -200,6 +200,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
 | Node JS         | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLobAq7hWqZWGTfhj4jNQAVzJd_y6iTErQ) |
+| Python (Django) | CodeWithHarry         | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
 
 
 ## 🌀 Backend Frameworks/Library
@@ -217,6 +218,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | MongoDB           | WebDevSimplied | [click here](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9) |
 | SQL (CrashCourse) | CS50           | [click here](https://youtu.be/Wb0DM9I8RDo)                                             |
 | SQL (Beginner)    | Amigoscode     | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
+| DBMS Course       | Neso Academy   | [click here](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ) |
+
 
 ## 📈 Data Science
 
@@ -243,6 +246,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)              |                |
 | Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)              |                |
 | Data Structures                                     | mycodeschool   | [click here](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)              |                |
+| Data Structures (in Hindi)                          | Anuj Bhaiya    | [click here](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) |
+
 
 ## 🌊 Frontend Development
 
@@ -277,6 +282,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |
 | React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
 | Vue JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
+| Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
+
 
 ## 📑 Machine Learning
 
@@ -295,6 +302,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Cookies                  | Hussein Nasser        | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
 | Ethics                   | CS50                  | [click here](https://youtu.be/eNxMn7slmwI)                                             |
 | Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
+| Git and Github           | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=RGOj5yH7evk)                              |
 
 ## 👩🏻‍💻 Programming: 
 
@@ -319,6 +327,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Python (Beginner)        | TechWorld with Nana   | [click here](https://www.youtube.com/watch?v=t8pPdKYpowI)                              |
 | Python (Advance)         | Python Engineer       | [click here](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |
 | Ruby (Beginner)          | ProgrammingKnowledge  | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbNBXZAeVbkkHEj9zsEbXQK) |
+| Python (OOPS)            | Telusko               | [click here](https://www.youtube.com/watch?v=qiSCMNBIP2g)                              | 
+| JavaScript(OOPS)         | Apna College          | [click here](https://www.youtube.com/watch?v=bSrm9RXwBaI)                              |
 
 ## 🖥️ Competitive Programming Tutorials
 
@@ -331,3 +341,4 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Streams               | William Lin , Geothermal  | [William Lin](https://www.youtube.com/c/WilliamLin168/playlists), [Geothermal](https://www.youtube.com/channel/UCpUTNKWxw9p4nOvekiIRWow)                           |                                                                                        |
 | Beginner Topics For CP| COPS IIT-(BHU)            | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6) |
 | C++ STL               | Utkatsh Gupta             | [click here](https://youtu.be/PZogbfU4X5E)                                             |
+| C++ STL(Full Course)  | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) |

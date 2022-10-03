@@ -25,6 +25,8 @@ We love your input! We want to make contributing to this project as easy and tra
 - Groovy: Apache Groovy - https://groovy-lang.org/documentation.html
 - Sql   : w3schools     - https://www.w3schools.com/sql/ 
 - Angular: Docs        - https://angular.io/docs
+- Taliwand CSS: Docs   - https://tailwindcss.com/docs/installation
+- Bootstrap: Docs      - https://getbootstrap.com/docs/5.2/getting-started/introduction
 
 #### Video/Playlist
 | TOPIC                          | SOURCE NAME          | LINK                                                      |
@@ -32,10 +34,12 @@ We love your input! We want to make contributing to this project as easy and tra
 | C Language (Beginners)         | ProgrammingWithHarry | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE) |
 | Python Basics (Beginner)       | FreeCodeCamp         | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw) |
 | React JS (Beginner to Advance) | Clever Programmer    | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) |
-| Python Tutorial(Beginner)      | Great Learning       | [click here] ( https://youtu.be/RJWlUyfOy1o )             |
-| Excel Tutorial (Beginner)      | Teacher's Tech       | [click here] ( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw ) 
-| Java Tutorial  (Beginner)      | Programming with Mosh| [click here] (https://www.youtube.com/watch?v=eIrMbAQSU34)|
+| Python Tutorial(Beginner)      | Great Learning       | [click here]( https://youtu.be/RJWlUyfOy1o )             |
+| Excel Tutorial (Beginner)      | Teacher's Tech       | [click here]( https://youtube.com/playlist?list=PLmkaw6oRnRv8lAKbKbflJRqS-9wuYNWUw ) 
+| Java Tutorial  (Beginner)      | Programming with Mosh| [click here](https://www.youtube.com/watch?v=eIrMbAQSU34)|
 | Angular Tutorial(Beginner)     | FreeCodeCamp         | [click here](https://youtu.be/2OHbjep_WjQ )              |
+| Taliwand CSS(Beginner)         | Traversary Media     | [click here](https://youtu.be/dFgzHOX84xQ)               |
+| Bootstrap ( Beginner)          | FreeCodeCamp         | [click here](https://youtu.be/-qfEOE4vtxE)               |
 
 
 

@@ -74,6 +74,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - JavaScript Info - https://javascript.info
     - Javascript Tutorail From Scrimba - https://scrimba.com/learn/learnjavascript
     - Javascript full course (FreeCodeCamp) - https://www.youtube.com/watch?v=jS4aFq5-91M
+- Java :
+    - w3 schools Java Info - https://www.w3schools.com/java/default.asp
+    - w3 schools Java Examples(Beginners & Intermediates) - https://www.w3schools.com/java/java_examples.asp
+    - Java-Projects-For-Beginners - https://github.com/KrishGaur1354/Java-Projects-for-Beginners
+    - GeeksForGeeks Java documentation - https://www.geeksforgeeks.org/java/
+    - Java Bootcamp by Kunal Kushwaha on Github - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
 - SASS :
     - Doc -  https://sass-lang.com/documentation
     - W3Schools -  https://w3schools.com/sass

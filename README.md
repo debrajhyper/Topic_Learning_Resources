@@ -60,6 +60,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Learn-HTML - https://learn-html.org
     - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
     - HTML Cheat Sheet - https://htmlcheatsheet.com/
+    - Learn-HTML - https://www.freecodecamp.org/news/learn-html-beginners-course/
 
 - HTML/CSS :
     - FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design

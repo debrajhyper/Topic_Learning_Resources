@@ -136,6 +136,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - GoLang :
     - Go by Example (Hands-on introduction to Go) - https://gobyexample.com
     - Official Doc - https://go.dev/doc
+    - Learn Go - https://www.learn-golang.org/
 - PHP :
     - The Right Way - https://phptherightway.com          
     - W3Schools - https://www.w3schools.com/php

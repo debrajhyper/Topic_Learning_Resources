@@ -369,3 +369,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Beginner Topics For CP| COPS IIT-(BHU)            | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6) |
 | C++ STL               | Utkatsh Gupta             | [click here](https://youtu.be/PZogbfU4X5E)                                             |
 | C++ STL(Full Course)  | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) |
+
+
+## 📣 Digital Marketing
+
+| TOPIC           | SOURCE NAME           | LINK                                                                                   |
+| --------------------- | ------------------------- | -------------------------------------------------------------------------------------- |
+| Learn Digital Marketing   | Senator We Run Ads                       | [click here](https://www.youtube.com/watch?v=aUerDG2SNTA&t=5s&ab_channel=SenatorWeRunAds) |
+| SEO Course (Hindi) | WsCube Tech      | [click here](https://www.youtube.com/watch?v=CjxQTvq_kRo&t=10s&ab_channel=WsCubeTech) |
+| Facebook Ads Playlist (Hindi)   | Umar Tazkeer      | [click here](https://www.youtube.com/playlist?list=PLNfnAKZ4ZsapkYR9gPnQH1WZcXeiIlYsa) |
+| Google Ads Playlist   | Senator We Run Ads                  | [click here](https://www.youtube.com/watch?v=DLQ-_tYWMMU&list=PLv6KfiLx9P_3UZl0arCYwPtYIZRaQHfa4&ab_channel=SenatorWeRunAds) |
+| Freelancing               | H-EDUCATE  | [click here](https://www.youtube.com/watch?v=Mnk8Ja2AtD8&list=PLaWSKUwEzmok73McNJkGCTUFBxS4A686U&ab_channel=H-EDUCATE)

@@ -40,7 +40,8 @@ We love your input! We want to make contributing to this project as easy and tra
 | Angular Tutorial(Beginner)     | FreeCodeCamp         | [click here](https://youtu.be/2OHbjep_WjQ )              |
 | Taliwand CSS(Beginner)         | Traversary Media     | [click here](https://youtu.be/dFgzHOX84xQ)               |
 | Bootstrap ( Beginner)          | FreeCodeCamp         | [click here](https://youtu.be/-qfEOE4vtxE)               |
-
+| Data Science                   | Krish Naik           | [click here](https://www.youtube.com/playlist?    list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)                                                                           |
+| 100 days of Machine Learning   | CampusX              | [click here](https://www.youtube.com/playlist?                list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr)                                                                           |
 
 
 
@@ -50,7 +51,6 @@ We love your input! We want to make contributing to this project as easy and tra
 | FlexBox                        | Flexbox Froggy    | [click here](http://flexboxfroggy.com/)                   |
 | WebDev                         | codingFantasy     | [click here](https://codingfantasy.com/) |
 | Css                            | Css Diner         | [click here](https://flukeout.github.io/)|
-
 
 
 

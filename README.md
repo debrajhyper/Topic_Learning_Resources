@@ -35,6 +35,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
     - [🖥️ Competitive Programming Tutorials](#%EF%B8%8F-competitive-programming-tutorials)
     - [💻 Learn SQL](#-Learn-SQL) 
+    - [📣 Digital Marketing](#-digital-marketing)
 <br/>
 
 # 📃 Documentations

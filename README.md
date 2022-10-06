@@ -133,6 +133,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - PWA :  https://developers.google.com/web/progressive-web-apps
 
 ## 👩🏻‍💻 Programming Doc
+- C# :
+    - Official Doc - https://learn.microsoft.com/en-us/dotnet/csharp
 - GoLang :
     - Go by Example (Hands-on introduction to Go) - https://gobyexample.com
     - Official Doc - https://go.dev/doc

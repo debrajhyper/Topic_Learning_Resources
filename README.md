@@ -13,25 +13,30 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Table of Contents
 
-- [📃 Documentations Resources](#-documentations)
+- [Topic Learning Resources ![Awesome](https://github.com/debrajhyper)](#topic-learning-resources-)
+  - [Table of Contents](#table-of-contents)
+- [📃 Documentations](#-documentations)
   - [⚡ Development Doc](#-development-doc)
   - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
   - [📄 Misc Doc](#-misc-doc)
   - [👩🏻‍💻 Programming Doc](#-programming-doc)
-  - [🖥️ Competitive Programming](#%EF%B8%8F-competitive-programming)
-- [💻 Video/Playlist Resources](#-videoplaylist)
-    - [🧩 Block Programming](#-block-programming)
-    - [💡 Artificial Intelligence](#-artificial-intelligence)
-    - [🔥 Backend Development](#-backend-development)
-    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-    - [📂 Database](#-database)
-    - [📈 Data Science](#-data-science)
-    - [🎓 DSA](#-dsa)
-    - [🌊 Frontend Development](#-frontend-development)
-    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-    - [📑 Machine Learning](#-machine-learning)
-    - [📄 Misc](#-misc)
-    - [👩🏻‍💻 Programming](#-programming)
+  - [🖥️ Competitive Programming](#️-competitive-programming)
+  - [Learn SQL](#learn-sql)
+- [💻 Video/Playlist](#-videoplaylist)
+  - [🧩Block Programming](#block-programming)
+  - [💡 Artificial Intelligence](#-artificial-intelligence)
+  - [🔥 Backend Development:](#-backend-development)
+  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+  - [📂 Database](#-database)
+  - [📈 Data Science](#-data-science)
+  - [🎓 DSA](#-dsa)
+  - [🌊 Frontend Development](#-frontend-development)
+  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+  - [📑 Machine Learning](#-machine-learning)
+  - [📄 Misc](#-misc)
+  - [👩🏻‍💻 Programming:](#-programming)
+  - [🖥️ Competitive Programming Tutorials](#️-competitive-programming-tutorials)
+- [E-Books](#e-books)
 
     - [🖥️ Competitive Programming Tutorials](#%EF%B8%8F-competitive-programming-tutorials)
     - [💻 Learn SQL](#-Learn-SQL) 
@@ -371,3 +376,29 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Beginner Topics For CP| COPS IIT-(BHU)            | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6) |
 | C++ STL               | Utkatsh Gupta             | [click here](https://youtu.be/PZogbfU4X5E)                                             |
 | C++ STL(Full Course)  | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) |
+
+<br/>
+
+# 📙 E-Books
+
+## 📈 Data Science
+
+| TOPIC                                                     | SOURCE NAME | LINK                                                                                                                                                                                                                                                                                         |
+| --------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Advanced Analytics with Spark                                     | O'Reilly     | [click here](https://drive.google.com/file/d/1kGATl69MKe8hMEY4vBMSSfgppZT1o13S/view?usp=sharing)                                                        |
+| An Introduction to Data Science                  | Syracuse University    | [click here](https://drive.google.com/file/d/1n8JFhmr8sZfrhN7R_pCii0DuM4G8ucje/view?usp=sharing)                                                                                                                                                                                                           |
+| Data Mining and Analysis_ Fundamental Concepts and Algorithms | Cambridge University Press    | [click here](https://drive.google.com/file/d/1oo6vg37ZJ5P9R0NQb17unkB-q5bc7pk9/view?usp=sharing) |
+| Data Mining_ Practical Machine Learning Tools and Techniques        | Morgan Kaufmann Publishers    | [click here](https://drive.google.com/file/d/1CH0XET-JxcIvsp4b4-YVy_l4FPOFAqDC/view?usp=sharing)                    |
+| Data-Intensive Text Processing with MapReduce                     | University of Maryland    | [click here](https://drive.google.com/file/d/1jG57VS2AXJW7Ld2ZmlIgenGe-CQSNMbC/view?usp=sharing)                         |
+| Mining of Massive Datasets              | Anand Rajaraman, Jure Leskovec, Jeffrey D. Ullman    | [click here](https://drive.google.com/file/d/1YcjVcuuH97YcsaqvYyvnTiH0jU1vvJRo/view?usp=sharing)  
+
+
+## 📑 Machine Learning
+
+| TOPIC                                                     | SOURCE NAME                   | LINK                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fundamentals of Deep Learning | O'Reilly                         | [click here](https://drive.google.com/file/d/1IdZUUITdxpWhRp7apimdx5HY7RwvICji/view?usp=sharing)                        |
+| Introduction to Machine Learning                             | Amnon Shashua            | [click here](https://drive.google.com/file/d/1q10AQ5l7f1iIM3J63qSQjrK7aKKAHnCo/view?usp=sharing)                                           |
+| Machine Learning For Dummies                                         | John Wiley & Sons, Inc           | [click here](https://drive.google.com/file/d/1rat6Ud7LGlwI4IJFAcFmtO0cPxJpkKGh/view?usp=sharing) |
+| Practical Machine Learning with Python                             | Dipanjan Sarkar, Raghav Bali and Tushar Sharma | [click here](https://drive.google.com/file/d/13tM8AJ5EAJ_CGVZ_AFlk3DRIg_TpP6PH/view?usp=sharing)                                                                                                                                                                                     |
+

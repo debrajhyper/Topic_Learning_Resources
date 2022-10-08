@@ -259,6 +259,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Deep Learning Specialization                         | DeepLearning.AI - Coursera | [click here](https://www.coursera.org/specializations/deep-learning)                                                                                                                                                                                                                         |
 | Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) 
 | AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)
+| Deep Learning With Tensorflow 2.0, Keras and Python | codebasics | [click here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)|
 
 ## 🔥 Backend Development:
 
@@ -272,9 +273,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Python          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
 | Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
-| Node JS         | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLobAq7hWqZWGTfhj4jNQAVzJd_y6iTErQ) |
+| Node JS         | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLobAq7hWqZWGTfhj4jNQAVzJd_y6iTErQ)     |
 | Python (Django) | CodeWithHarry         | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
-
+| Python(Django)  | Telusko               | [click here](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau) |
+| Python(Django)  | WsCube Tech           | [click here](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcyt3m6rt21nfjhYSWP_Ue_) |
+| Python(Django)  | w3schools             | [click here](https://www.w3schools.com/django/)                                        |
 
 ## 🌀 Backend Frameworks/Library
 
@@ -293,7 +296,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | SQL (CrashCourse) | CS50           | [click here](https://youtu.be/Wb0DM9I8RDo)                                             |
 | SQL (Beginner)    | Amigoscode     | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
 | DBMS Course       | Neso Academy   | [click here](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ) |
-
+| DBMS              | Gate Smashers  | [click here](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) |
+| MySQL             | w3schools      | [click here](https://www.w3schools.com/mysql/mysql_sql.asp)                            |
 
 ## 📈 Data Science
 
@@ -321,6 +325,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)              |                |
 | Data Structures                                     | mycodeschool   | [click here](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)              |                |
 | Data Structures (in Hindi)                          | Anuj Bhaiya    | [click here](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) |
+| Complete C++ Placement DSA Course                   | CodeHelp- by Babbar | [click here](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) |
 
 
 ## 🌊 Frontend Development
@@ -370,6 +375,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Machine Learning                                          | Stanford - Coursera           | [click here](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&siteID=Vrr1tRSwXGM-MPCMRv8a9L4GHhfpQG8_7A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM) |
 | Machine Learning Crash Course                             | Google Developer Student Club | [click here](https://developers.google.com/machine-learning/crash-course/ml-intro)                                                                                                                                                                                     |
 | Python Crash Course for Data Science and Machine Learning | Udemy                         | [click here](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-FHQDALViz5JD74D6YRr0Rw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads)                   |
+| Machine Learning Tutorial Python | Machine Learning For Beginners| codebasics | [click here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)|
 
 ## 📄 Misc
 

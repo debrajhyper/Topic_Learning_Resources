@@ -54,6 +54,34 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 # 📃 Documentations
 
 ## ⚡ Development Doc
+- Android Development : Doc - https://developer.android.com/courses
+
+
+
+
+🧟Websites for programming competitions
+
+
+
+https://clist.by/  💚
+
+https://www.topcoder.com/
+
+https://www.hackerrank.com/
+
+https://www.hackerearth.com/
+
+https://icpc.global/
+
+https://www.codechef.com/
+
+https://www.geeksforgeeks.org/
+
+https://leetcode.com/
+
+https://codeforces.com/
+
+
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
     - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet
@@ -78,6 +106,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - HTML :
     - Learn-HTML - https://www.w3schools.com/html/default.asp
     - Learn-HTML - https://learn-html.org
+    - W3Schools - https://www.w3schools.com/html
     - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
     - HTML Cheat Sheet - https://htmlcheatsheet.com/
     - Learn-HTML - https://www.freecodecamp.org/news/learn-html-beginners-course/
@@ -332,6 +361,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 | TOPIC                                               | SOURCE NAME    | LINK                                                                                              |
 | --------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------- |
+| Algorithms                                          | Abdul Bari     | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)            |
+| DSA in Java                                         | Dinesh Varyani | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)            |
+| Java Complete Course - Placement Series             | Apna College   | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)            |
+| Dynamic Programming                                 | Aditya Verma   | [click here](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) |
+| Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha | [click here](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)                |
+| Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
+| Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)            |
+| Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)            |
 | Algorithms                                          | Abdul Bari     | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)              |                |
 | DSA in Java                                         | Dinesh Varyani | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)              |                |
 | Dynamic Programming                                 | Aditya Verma   | [click here](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)              |                | 

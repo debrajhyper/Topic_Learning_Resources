@@ -42,6 +42,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🎓 DSA](#-dsa)
     - [👀 Ethereum Development](#-ethereum-development)
     - [🌊 Frontend Development](#-frontend-development)
+    - [✒️ ui/ux development](#-frontend-development)
     - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
     - [📑 Machine Learning](#-machine-learning)
     - [📄 Misc](#-misc)
@@ -411,6 +412,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | CSS (Beginner)                     | Traversy Media        | [click here](https://www.youtube.com/watch?v=yfoY53QXEnI)                              |
 | HTML/CSS/Javascript (Beginners)    | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)     |
 
+
+## ✒️ ui/ux development
+
+| TOPIC                          | SOURCE NAME       | LINK                                                                                   |
+| ------------------------------ | ----------------- | -------------------------------------------------------------------------------------- |
+| Adobe XD (Beginner to Advance  | Pelfizz Studio    | [click here](https://youtube.com/playlist?list=PLuRPummNMvIN43IBo1EltezV2ngqYz5T6)     |
+| Figma (Beginner to Advance)    | Pelfizz Studio    | [click here](https://youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq)     |
+| Adobe Illustrator (Beginner)   | GFXMentor         | [click here](https://youtube.com/playlist?list=PLW-zSkCnZ-gCq0DjkzY-YapCBEk0lA6lR)     |
+| React Material UI (Beginner)   | Codevolution      | [click here](https://youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO)     |
 
 
 ## ⚡ Frontend Frameworks/Library

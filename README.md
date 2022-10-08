@@ -62,6 +62,7 @@ https://codeforces.com/
 
 https://www.hackerearth.com/
 
+https://www.codewars.com/
 
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css

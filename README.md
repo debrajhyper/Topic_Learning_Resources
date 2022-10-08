@@ -54,6 +54,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - WEB.DEV - https://web.dev/learn/css
     - Loading Animation - https://loading.io/
     - Css Visual Guide - https://cssreference.io/
+    - CSS flexbox through game - https://flexboxfroggy.com/
+    - CSS grid through game - https://cssgridgarden.com/
 
 - HTML :
     - Learn-HTML - https://www.w3schools.com/html/default.asp

@@ -188,6 +188,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Material to learn and Sql with places to test the code: https://www.sql-easy.com/,
     - Exercises to practice : https://sqlbolt.com/,
     - Discover who is the murder with SQL : https://mystery.knightlab.com/,
+    - SQL Tutorial for Beginners : https://www.programiz.com/sql,
+
 
 
 <br/>

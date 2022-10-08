@@ -85,6 +85,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - SASS :
     - Doc -  https://sass-lang.com/documentation
     - W3Schools -  https://w3schools.com/sass
+    - javatpoint - https://www.javatpoint.com/sass-tutorial
 
 - TypeScript : 
     - Official Handbook -  https://www.typescriptlang.org/docs/handbook/2/basic-types.html

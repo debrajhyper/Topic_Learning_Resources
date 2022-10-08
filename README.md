@@ -324,9 +324,16 @@ https://codeforces.com/
 | Python          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
 | Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
+| Node & Express JS | FreeCodeCamp        | [click here](https://youtu.be/Oe421EPjeBE)                                             |
 | ROR             | APPSIMPACT Academy    | [click here](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPP)  |
 | Node JS         | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLobAq7hWqZWGTfhj4jNQAVzJd_y6iTErQ) |
 | Python (Django) | CodeWithHarry         | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
+
+## 🦄 Full Stack
+
+| TOPIC           | SOURCE NAME           | LINK                                                                                   |
+| --------------- | --------------------- | -------------------------------------------------------------------------------------- |
+| Web Dev full course | Codedamn          | [click here](https://youtu.be/ZxKM3DCV2kE)                                             |
 
 ## 🌀 Backend Frameworks/Library
 
@@ -411,9 +418,9 @@ https://codeforces.com/
 | Responsive Images                  | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
 | Responsive Web Design Fundamentals | Udacity               | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
 | Tailwind CSS                       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| Frontend web developer Bootcamp course | FreeCodeCamp      | [click here](https://youtu.be/zJSY8tbf_ys)                                             |
 | CSS (Beginner)                     | Traversy Media        | [click here](https://www.youtube.com/watch?v=yfoY53QXEnI)                              |
 | HTML/CSS/Javascript (Beginners)    | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)     |
-
 
 
 

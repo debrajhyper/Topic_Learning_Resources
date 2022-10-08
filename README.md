@@ -27,11 +27,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## Table of Contents
 
 - [📃 Documentations Resources](#-documentations)
-  - [⚡ Development Doc](#-development-doc)
-  - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
-  - [📄 Misc Doc](#-misc-doc)
-  - [👩🏻‍💻 Programming Doc](#-programming-doc)
-  - [🖥️ Competitive Programming](#%EF%B8%8F-competitive-programming)
+    - [⚡ Development Doc](#-development-doc)
+    - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
+    - [📄 Misc Doc](#-misc-doc)
+    - [👩🏻‍💻 Programming Doc](#-programming-doc)
+    - [🖥️ Competitive Programming](#%EF%B8%8F-competitive-programming)
 - [💻 Video/Playlist Resources](#-videoplaylist)
     - [🧩 Block Programming](#-block-programming)
     - [💡 Artificial Intelligence](#-artificial-intelligence)
@@ -40,15 +40,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📂 Database](#-database)
     - [📈 Data Science](#-data-science)
     - [🎓 DSA](#-dsa)
-    - [⟠   Ethereum Development](#-ethereum-development)
+    - [👀 Ethereum Development](#-ethereum-development)
     - [🌊 Frontend Development](#-frontend-development)
     - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
     - [📑 Machine Learning](#-machine-learning)
     - [📄 Misc](#-misc)
     - [👩🏻‍💻 Programming](#-programming)
-
     - [🖥️ Competitive Programming Tutorials](#%EF%B8%8F-competitive-programming-tutorials)
-    - [💻 Learn SQL](#-Learn-SQL) 
 <br/>
 
 # 📃 Documentations
@@ -292,7 +290,7 @@ https://codeforces.com/
 
 # 💻 Video/Playlist
 
-## 🧩Block Programming
+## 🧩 Block Programming
 
 | TOPIC           | SOURCE NAME           | LINK                                                                                   |
 |-----------------|-----------------------|----------------------------------------------------------------------------------------|

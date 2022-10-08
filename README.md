@@ -162,7 +162,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Official Doc - https://go.dev/doc
     - Learn Go - https://www.learn-golang.org/
 - PHP :
-    - The Right Way - https://phptherightway.com          
+    - The Right Way - https://phptherightway.com
     - W3Schools - https://www.w3schools.com/php
     - Official Doc - https://www.php.net/manual/en/index.php
 - Python :
@@ -276,7 +276,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |
 | Convolutional Neural Networks for Visual Recognition | Stanford - YouTube         | [click here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                                                                                                                                                                                                       |
 | Deep Learning Specialization                         | DeepLearning.AI - Coursera | [click here](https://www.coursera.org/specializations/deep-learning)                                                                                                                                                                                                                         |
-| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) 
+| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)
 | AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)
 
 ## 🔥 Backend Development:
@@ -300,6 +300,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC             | SOURCE NAME                | LINK                                                                                   |
 | ----------------- | -------------------------- | -------------------------------------------------------------------------------------- |
 | Laravel (Beginner)| ProgrammingKnowledge       | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi) |
+| Laravel           | Laracasts | [click here](https://laracasts.com) |
 | Pytest (Beginner) | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial)                   |
 | GO, JS (Beginner) | gRPC Cross Language        | [click here](https://github.com/rizkyian78/grpc_cross_language)                        |
 
@@ -408,13 +409,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
 | Git and Github           | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=RGOj5yH7evk)                              |
 
-## 👩🏻‍💻 Programming: 
+## 👩🏻‍💻 Programming:
 
 | TOPIC                    | SOURCE NAME           | LINK                                                                                   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
 | C                        | CS50                  | [click here](https://youtu.be/zYierUhIFNQ)                                             |
 | C++                      | Apna College          | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) |
 | C++ (Beginner)           | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)     |
+| C++ (Full course)        | Caleb Curry           | [click here](https://www.youtube.com/watch?v=_bYFu9mBnr4)                   |
 | C++ (complete DSA)       | Code Help - by Babbar | [click here](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)     |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |

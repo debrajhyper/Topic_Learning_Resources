@@ -40,6 +40,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📂 Database](#-database)
     - [📈 Data Science](#-data-science)
     - [🎓 DSA](#-dsa)
+    - [⟠   Ethereum Development](#-ethereum-development)
     - [🌊 Frontend Development](#-frontend-development)
     - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
     - [📑 Machine Learning](#-machine-learning)
@@ -69,6 +70,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Css Visual Guide - https://cssreference.io/
     - CSS flexbox through game - https://flexboxfroggy.com/
     - CSS grid through game - https://cssgridgarden.com/
+
+- Ethereum Development :
+    - Doc - https://ethereum.org/en/developers/docs
+    - Tutorial - https://www.freecodecamp.org/news/full-stack-ethereum-development
 
 - HTML :
     - Learn-HTML - https://www.w3schools.com/html/default.asp
@@ -132,6 +137,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
 - Chakra UI : Doc -  https://chakra-ui.com/getting-started
+- Ethers JS : Doc - https://docs.ethers.io/v5
 - Flask : Doc - https://flask.palletsprojects.com
 - Jinja : Doc - https://jinja.palletsprojects.com
 - Material UI : Doc -  https://mui.com
@@ -335,6 +341,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Data Structures                                     | mycodeschool   | [click here](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)              |                |
 | Data Structures (in Hindi)                          | Anuj Bhaiya    | [click here](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) |
 
+
+## ⟠ Ethereum Development
+
+| TOPIC                    | SOURCE NAME   | LINK                                                                                            |
+| ------------------------ | ------------- | ----------------------------------------------------------------------------------------------- |
+| Ethereum with JavaScript | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)           |
+| Ethereum with Python     | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)           |
+| Ethereum Complete Guide  | Udemy         | [click here](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) |
 
 ## 🌊 Frontend Development
 

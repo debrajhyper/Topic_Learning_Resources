@@ -1,5 +1,18 @@
 [![](./.github/TLR.svg)](https://github.com/debrajhyper)
+<div align="center">
+
 # Topic Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/debrajhyper)
+
+</div>
+<div align="center">
+
+![Issues](https://img.shields.io/github/issues/debrajhyper/Topic_Learning_Resources?color=brightgreen)
+![Pull requests](https://img.shields.io/github/issues-pr/debrajhyper/Topic_Learning_Resources?color=brigthgreen)
+![forks](https://img.shields.io/github/forks/debrajhyper/Topic_Learning_Resources)
+![stars](https://img.shields.io/github/stars/debrajhyper/Topic_Learning_Resources)
+![license](https://img.shields.io/github/license/debrajhyper/Topic_Learning_Resources?color=orange)
+
+</div>
 
 This is an awesome project about various Learning resources. 📚
 
@@ -13,37 +26,55 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Table of Contents
 
-- [Topic Learning Resources ![Awesome](https://github.com/debrajhyper)](#topic-learning-resources-)
-  - [Table of Contents](#table-of-contents)
-- [📃 Documentations](#-documentations)
-  - [⚡ Development Doc](#-development-doc)
-  - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
-  - [📄 Misc Doc](#-misc-doc)
-  - [👩🏻‍💻 Programming Doc](#-programming-doc)
-  - [🖥️ Competitive Programming](#️-competitive-programming)
-  - [Learn SQL](#learn-sql)
-- [💻 Video/Playlist](#-videoplaylist)
-  - [🧩Block Programming](#block-programming)
-  - [💡 Artificial Intelligence](#-artificial-intelligence)
-  - [🔥 Backend Development:](#-backend-development)
-  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-  - [📂 Database](#-database)
-  - [📈 Data Science](#-data-science)
-  - [🎓 DSA](#-dsa)
-  - [🌊 Frontend Development](#-frontend-development)
-  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-  - [📑 Machine Learning](#-machine-learning)
-  - [📄 Misc](#-misc)
-  - [👩🏻‍💻 Programming:](#-programming)
-  - [🖥️ Competitive Programming Tutorials](#️-competitive-programming-tutorials)
-
+- [📃 Documentations Resources](#-documentations)
+    - [⚡ Development Doc](#-development-doc)
+    - [🎯 Frameworks/Library Doc](#-frameworkslibrary-doc)
+    - [📄 Misc Doc](#-misc-doc)
+    - [👩🏻‍💻 Programming Doc](#-programming-doc)
+    - [🖥️ Competitive Programming](#%EF%B8%8F-competitive-programming)
+- [💻 Video/Playlist Resources](#-videoplaylist)
+    - [🧩 Block Programming](#-block-programming)
+    - [💡 Artificial Intelligence](#-artificial-intelligence)
+    - [🔥 Backend Development](#-backend-development)
+    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+    - [📂 Database](#-database)
+    - [📈 Data Science](#-data-science)
+    - [🎓 DSA](#-dsa)
+    - [👀 Ethereum Development](#-ethereum-development)
+    - [🌊 Frontend Development](#-frontend-development)
+    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+    - [📑 Machine Learning](#-machine-learning)
+    - [📄 Misc](#-misc)
+    - [👩🏻‍💻 Programming](#-programming)
     - [🖥️ Competitive Programming Tutorials](#%EF%B8%8F-competitive-programming-tutorials)
-    - [💻 Learn SQL](#-Learn-SQL) 
 <br/>
 
 # 📃 Documentations
 
 ## ⚡ Development Doc
+- Android Development : Doc - https://developer.android.com/courses
+
+
+
+
+🧟Websites for programming competitions
+    - https://clist.by
+    - https://www.topcoder.com
+    - https://www.hackerrank.com
+    - https://www.hackerearth.com
+    - https://icpc.global
+    - https://www.codechef.com
+    - https://www.geeksforgeeks.org
+    - https://leetcode.com
+    - https://codeforces.com
+    - https://www.hackerearth.com
+    - https://www.codewars.com
+
+- Android (Native) 🙌 :
+    - FreeCodecamp Android Development in Java for Beginners - https://www.youtube.com/watch?v=fis26HvvDII
+    - Udacity Free Android Developement using Kotlin - https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+    - Android Development Guide - https://developer.android.com/guide 
+    
 - CSS :
     - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
     - CSS Flexbox - https://darekkay.com/dev/flexbox-cheatsheet
@@ -58,12 +89,20 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - WEB.DEV - https://web.dev/learn/css
     - Loading Animation - https://loading.io/
     - Css Visual Guide - https://cssreference.io/
+    - CSS flexbox through game - https://flexboxfroggy.com/
+    - CSS grid through game - https://cssgridgarden.com/
+
+- Ethereum Development :
+    - Doc - https://ethereum.org/en/developers/docs
+    - Tutorial - https://www.freecodecamp.org/news/full-stack-ethereum-development
 
 - HTML :
     - Learn-HTML - https://www.w3schools.com/html/default.asp
     - Learn-HTML - https://learn-html.org
+    - W3Schools - https://www.w3schools.com/html
     - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
     - HTML Cheat Sheet - https://htmlcheatsheet.com/
+    - Learn-HTML - https://www.freecodecamp.org/news/learn-html-beginners-course/
 
 - HTML/CSS :
     - FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
@@ -91,6 +130,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - SASS :
     - Doc -  https://sass-lang.com/documentation
     - W3Schools -  https://w3schools.com/sass
+    - javatpoint - https://www.javatpoint.com/sass-tutorial
 
 - TypeScript : 
     - Official Handbook -  https://www.typescriptlang.org/docs/handbook/2/basic-types.html
@@ -123,6 +163,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
 - Bulma : openbase -  https://openbase.io/js/bulma/tutorials
 - Chakra UI : Doc -  https://chakra-ui.com/getting-started
+- Ethers JS : Doc - https://docs.ethers.io/v5
 - Flask : Doc - https://flask.palletsprojects.com
 - Jinja : Doc - https://jinja.palletsprojects.com
 - Material UI : Doc -  https://mui.com
@@ -140,11 +181,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - PWA :  https://developers.google.com/web/progressive-web-apps
 
 ## 👩🏻‍💻 Programming Doc
+- C# :
+    - Official Doc - https://learn.microsoft.com/en-us/dotnet/csharp
 - GoLang :
     - Go by Example (Hands-on introduction to Go) - https://gobyexample.com
     - Official Doc - https://go.dev/doc
+    - Learn Go - https://www.learn-golang.org/
 - PHP :
-    - The Right Way - https://phptherightway.com          
+    - The Right Way - https://phptherightway.com
     - W3Schools - https://www.w3schools.com/php
     - Official Doc - https://www.php.net/manual/en/index.php
 - Python :
@@ -193,13 +237,56 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Material to learn and Sql with places to test the code: https://www.sql-easy.com/,
     - Exercises to practice : https://sqlbolt.com/,
     - Discover who is the murder with SQL : https://mystery.knightlab.com/,
+    - SQL Tutorial for Beginners : https://www.programiz.com/sql,
 
+
+
+<br/>
+
+## ⛓ Blockchain Development Doc
+- Learn the basics
+    - Start by learning Ethereum here - https://ethereum.org/en/
+    - Mastering Ethereum - https://github.com/ethereumbook/ethereumbook (must read)
+    - Build by participating at Ethereum hackathons - https://ethglobal.com/
+    - Contribute to Gitcoin projects - https://gitcoin.co/
+    - Stay up to date with the latest Ethereum development - https://weekinethereumnews.com/
+- Ethereum
+    - Collection of resources about all things related to Ethereum - https://github.com/Scanate/EthList (this list is awesome but a little overwhelming)
+    - Paradigm blog posts - https://www.paradigm.xyz/
+    - Paradigm blog posts - https://www.paradigm.xyz/
+    - Yellow paper - https://ethereum.github.io/yellowpaper/paper.pdf (understand the white paper before attempting to read the yellow paper).
+- Defi
+    - DeFi Roadmap - https://github.com/OffcierCia/DeFi-Developer-Road-Map 
+- Learning about DeFi Protocols
+  - Uniswap whitepaper - https://hackmd.io/@HaydenAdams/HJ9jLsfTz?type=view
+  - Uniswap V1 - https://docs.uniswap.org/protocol/V1/introduction
+  - Uniswap V2 - https://uniswap.org/whitepaper.pdf
+  - Uniswap V3 - https://uniswap.org/whitepaper-v3.pdf
+  - Compound - https://compound.finance/docs
+  - Aave - https://docs.aave.com/developers/
+- Smart Contracts Development (must read)
+  - Cryptozombies - https://cryptozombies.io/
+  - OpenZeppelin contracts - https://docs.openzeppelin.com/contracts/4.x/
+  - Solidity - https://docs.soliditylang.org/en/v0.8.9/
+- Cairo
+  - The most complete Cairo reference with tutorials and exercises - https://www.cairo-lang.org/docs/ 
+  - Practical approach to Cairo - https://perama-v.github.io/cairo/by-example/
+  - White paper - https://eprint.iacr.org/2021/1063.pdf (optional, but gives deeper understanding)
+  - OpenZeppelin contracts - https://github.com/OpenZeppelin/cairo-contracts/
+- MEV
+  - Flash Boys 2.0 - https://arxiv.org/abs/1904.05234
+  - Flashbots - https://github.com/flashbots/pm
+  - Ethereum is a Dark Forest -  https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff
+- Build Blockchain Based Projects
+  - Buildspace - https://buildspace.so/
+  - LearnWeb3 - https://learnweb3.io/
+  
 
 <br/>
 
 # 💻 Video/Playlist
 
-## 🧩Block Programming
+## 🧩 Block Programming
 
 | TOPIC           | SOURCE NAME           | LINK                                                                                   |
 |-----------------|-----------------------|----------------------------------------------------------------------------------------|
@@ -216,7 +303,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |
 | Convolutional Neural Networks for Visual Recognition | Stanford - YouTube         | [click here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                                                                                                                                                                                                       |
 | Deep Learning Specialization                         | DeepLearning.AI - Coursera | [click here](https://www.coursera.org/specializations/deep-learning)                                                                                                                                                                                                                         |
-| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) 
+| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)
 | AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)
 
 ## 🔥 Backend Development:
@@ -231,15 +318,23 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Python          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
 | Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
+| Node & Express JS | FreeCodeCamp        | [click here](https://youtu.be/Oe421EPjeBE)                                             |
+| ROR             | APPSIMPACT Academy    | [click here](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPP)  |
 | Node JS         | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLobAq7hWqZWGTfhj4jNQAVzJd_y6iTErQ) |
 | Python (Django) | CodeWithHarry         | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
 
+## 🦄 Full Stack
+
+| TOPIC           | SOURCE NAME           | LINK                                                                                   |
+| --------------- | --------------------- | -------------------------------------------------------------------------------------- |
+| Web Dev full course | Codedamn          | [click here](https://youtu.be/ZxKM3DCV2kE)                                             |
 
 ## 🌀 Backend Frameworks/Library
 
 | TOPIC             | SOURCE NAME                | LINK                                                                                   |
 | ----------------- | -------------------------- | -------------------------------------------------------------------------------------- |
 | Laravel (Beginner)| ProgrammingKnowledge       | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi) |
+| Laravel           | Laracasts | [click here](https://laracasts.com) |
 | Pytest (Beginner) | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial)                   |
 | GO, JS (Beginner) | gRPC Cross Language        | [click here](https://github.com/rizkyian78/grpc_cross_language)                        |
 
@@ -271,6 +366,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 | TOPIC                                               | SOURCE NAME    | LINK                                                                                              |
 | --------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------- |
+| Algorithms                                          | Abdul Bari     | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)            |
+| DSA in Java                                         | Dinesh Varyani | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)            |
+| Java Complete Course - Placement Series             | Apna College   | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)            |
+| Dynamic Programming                                 | Aditya Verma   | [click here](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) |
+| Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha | [click here](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)                |
+| Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
+| Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)            |
+| Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)            |
 | Algorithms                                          | Abdul Bari     | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)              |                |
 | DSA in Java                                         | Dinesh Varyani | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)              |                |
 | Dynamic Programming                                 | Aditya Verma   | [click here](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)              |                | 
@@ -281,6 +384,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Data Structures                                     | mycodeschool   | [click here](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)              |                |
 | Data Structures (in Hindi)                          | Anuj Bhaiya    | [click here](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) |
 
+
+## ⟠ Ethereum Development
+
+| TOPIC                    | SOURCE NAME   | LINK                                                                                            |
+| ------------------------ | ------------- | ----------------------------------------------------------------------------------------------- |
+| Ethereum with JavaScript | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)           |
+| Ethereum with Python     | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)           |
+| Ethereum Complete Guide  | Udemy         | [click here](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) |
 
 ## 🌊 Frontend Development
 
@@ -301,9 +412,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Responsive Images                  | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
 | Responsive Web Design Fundamentals | Udacity               | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
 | Tailwind CSS                       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| Frontend web developer Bootcamp course | FreeCodeCamp      | [click here](https://youtu.be/zJSY8tbf_ys)                                             |
 | CSS (Beginner)                     | Traversy Media        | [click here](https://www.youtube.com/watch?v=yfoY53QXEnI)                              |
 | HTML/CSS/Javascript (Beginners)    | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)     |
-
 
 
 
@@ -317,7 +428,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |
 | React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
 | Vue JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
+| React JS (Intermediate)        | Scrimba           | [click here](https://scrimba.com/learn/learnreact)                                     |
 | Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
+
 
 
 ## 📑 Machine Learning
@@ -340,13 +453,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
 | Git and Github           | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=RGOj5yH7evk)                              |
 
-## 👩🏻‍💻 Programming: 
+## 👩🏻‍💻 Programming:
 
 | TOPIC                    | SOURCE NAME           | LINK                                                                                   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
 | C                        | CS50                  | [click here](https://youtu.be/zYierUhIFNQ)                                             |
 | C++                      | Apna College          | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) |
 | C++ (Beginner)           | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)     |
+| C++ (Full course)        | Caleb Curry           | [click here](https://www.youtube.com/watch?v=_bYFu9mBnr4)                   |
 | C++ (complete DSA)       | Code Help - by Babbar | [click here](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)     |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
 | C#  (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
@@ -378,3 +492,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Beginner Topics For CP| COPS IIT-(BHU)            | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6) |
 | C++ STL               | Utkatsh Gupta             | [click here](https://youtu.be/PZogbfU4X5E)                                             |
 | C++ STL(Full Course)  | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) |
+
+
+
+## Thanks to all Contributors
+
+Thanks a lot for spending your time helping Topic Learning Resources.
+
+[![Contributors](https://contrib.rocks/image?repo=debrajhyper/Topic_Learning_Resources)](https://github.com/debrajhyper/Topic_Learning_Resources/graphs/contributors)
+
+## License
+
+This repository is under The MIT License. Read the [LICENSE](https://github.com/debrajhyper/Topic_Learning_Resources/blob/master/LICENSE) file for more information.

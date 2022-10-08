@@ -1,5 +1,18 @@
 [![](./.github/TLR.svg)](https://github.com/debrajhyper)
+<div align="center">
+
 # Topic Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/debrajhyper)
+
+</div>
+<div align="center">
+
+![Issues](https://img.shields.io/github/issues/debrajhyper/Topic_Learning_Resources?color=brightgreen)
+![Pull requests](https://img.shields.io/github/issues-pr/debrajhyper/Topic_Learning_Resources?color=brigthgreen)
+![forks](https://img.shields.io/github/forks/debrajhyper/Topic_Learning_Resources)
+![stars](https://img.shields.io/github/stars/debrajhyper/Topic_Learning_Resources)
+![license](https://img.shields.io/github/license/debrajhyper/Topic_Learning_Resources?color=orange)
+
+</div>
 
 This is an awesome project about various Learning resources. 📚
 
@@ -419,3 +432,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Beginner Topics For CP| COPS IIT-(BHU)            | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6) |
 | C++ STL               | Utkatsh Gupta             | [click here](https://youtu.be/PZogbfU4X5E)                                             |
 | C++ STL(Full Course)  | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) |
+
+
+
+## Thanks to all Contributors
+
+Thanks a lot for spending your time helping Topic Learning Resources.
+
+[![Contributors](https://contrib.rocks/image?repo=debrajhyper/Topic_Learning_Resources)](https://github.com/debrajhyper/Topic_Learning_Resources/graphs/contributors)
+
+## License
+
+This repository is under The MIT License. Read the [LICENSE](https://github.com/debrajhyper/Topic_Learning_Resources/blob/master/LICENSE) file for more information.

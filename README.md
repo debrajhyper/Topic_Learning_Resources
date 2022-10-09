@@ -119,12 +119,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - JavaScript Info - https://javascript.info
     - Javascript Tutorail From Scrimba - https://scrimba.com/learn/learnjavascript
     - Javascript full course (FreeCodeCamp) - https://www.youtube.com/watch?v=jS4aFq5-91M
+    - The odin project - https://www.theodinproject.com
+    - 30 Day Vanilla JS Coding Challenge - https://javascript30.com
 - Java :
     - w3 schools Java Info - https://www.w3schools.com/java/default.asp
     - w3 schools Java Examples(Beginners & Intermediates) - https://www.w3schools.com/java/java_examples.asp
     - Java-Projects-For-Beginners - https://github.com/KrishGaur1354/Java-Projects-for-Beginners
     - GeeksForGeeks Java documentation - https://www.geeksforgeeks.org/java/
     - Java Bootcamp by Kunal Kushwaha on Github - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+    - JavaTpoint - https://www.javatpoint.com/java-tutorial
 - SASS :
     - Doc -  https://sass-lang.com/documentation
     - W3Schools -  https://w3schools.com/sass
@@ -135,6 +138,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 - Webpack : 
     - Doc - https://webpack.js.org
+    - Codeinwp - https://www.codeinwp.com/blog/webpack-tutorial-for-beginners
     
 - Android Development
     - Doc - https://developer.android.com/courses
@@ -177,13 +181,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - DevTools :  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
 - PWA :  https://developers.google.com/web/progressive-web-apps
 
-## 👩🏻‍💻 Programming Doc
+## 👩🏻‍💻 Programming Doc 
 - C# :
     - Official Doc - https://learn.microsoft.com/en-us/dotnet/csharp
 - GoLang :
     - Go by Example (Hands-on introduction to Go) - https://gobyexample.com
     - Official Doc - https://go.dev/doc
     - Learn Go - https://www.learn-golang.org/
+- Kotlin :
+    - Official Doc - (https://kotlinlang.org/docs/home.html) 
 - PHP :
     - The Right Way - https://phptherightway.com
     - W3Schools - https://www.w3schools.com/php
@@ -208,6 +214,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Hackerrank : https://www.hackerrank.com/
     - HackerEarth : https://www.hackerearth.com/
     - Google Kickstart : https://codingcompetitions.withgoogle.com/kickstart
+    - Google Code Jam - https://codingcompetitions.withgoogle.com/codejam
     - ICPC Global : https://icpc.global/
     - LeetCode : https://leetcode.com/
     - GeeksForGeeks : https://www.geeksforgeeks.org/

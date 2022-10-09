@@ -400,10 +400,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 | TOPIC                              | SOURCE NAME           | LINK                                                                                   |
 | ---------------------------------- | --------------------- | -------------------------------------------------------------------------------------- |
+| CSS (Beginner)                     | Traversy Media        | [click here](https://www.youtube.com/watch?v=yfoY53QXEnI)                              |
+| Frontend web developer Bootcamp course | FreeCodeCamp      | [click here](https://youtu.be/zJSY8tbf_ys)                                             |
 | HTML                               | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg)                              |
 | HTML (Beginner)                    | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s)                       |
 | HTML Canvas                        | Udacity               | [click here](https://www.udacity.com/course/html5-canvas--ud292)                       |
 | HTML/CSS From scratch              | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)                              |
+| HTML/CSS/Javascript (Beginners)    | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)     |
 | Intro to AJAX                      | Udacity               | [click here](https://www.udacity.com/course/intro-to-ajax--ud110)                      |
 | Intro to HTML & CSS                | Udacity               | [click here](https://www.udacity.com/course/intro-to-html-and-css--ud001)              |
 | Intro to jQuery                    | Udacity               | [click here](https://www.udacity.com/course/intro-to-jquery--ud245)                    |
@@ -415,9 +418,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Responsive Images                  | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
 | Responsive Web Design Fundamentals | Udacity               | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
 | Tailwind CSS                       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
-| Frontend web developer Bootcamp course | FreeCodeCamp      | [click here](https://youtu.be/zJSY8tbf_ys)                                             |
-| CSS (Beginner)                     | Traversy Media        | [click here](https://www.youtube.com/watch?v=yfoY53QXEnI)                              |
-| HTML/CSS/Javascript (Beginners)    | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)     |
+| The Complete JavaScript Course 2022: From Zero to Expert! | Udemy | [click here](https://www.udemy.com/course/the-complete-javascript-course/) |
 
 
 

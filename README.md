@@ -156,6 +156,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Git and GitHub Crash Course :FreeCodeCamp - https://www.youtube.com/watch?v=RGOj5yH7evk
     - Git Branching Game - https://learngitbranching.js.org/
     - Git and GitHub Overview :Love Babbar - https://www.youtube.com/watch?v=uj4fy4kpaOA
+    - Version Control with Git :Udacity -https://www.udacity.com/course/version-control-with-git--ud123
     
 
 ## 🎯 Frameworks/Library Doc
@@ -432,6 +433,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Vue JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
 | React JS (Intermediate)        | Scrimba           | [click here](https://scrimba.com/learn/learnreact)                                     |
 | Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
+| React JS (Advanced)            | Chris Blakely     | [click here](https://youtube.com/playlist?list=PLaebUsP3fWHuY7LpRHYmst5FFrrMYaaLR)     |
 
 
 

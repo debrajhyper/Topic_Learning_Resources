@@ -435,6 +435,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | React JS (Intermediate)        | Scrimba           | [click here](https://scrimba.com/learn/learnreact)                                     |
 | Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
 | React JS (Advanced)            | Chris Blakely     | [click here](https://youtube.com/playlist?list=PLaebUsP3fWHuY7LpRHYmst5FFrrMYaaLR)     |
+| React JS (Beginner)            | Thapa Technical   | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) |                         
 
 
 

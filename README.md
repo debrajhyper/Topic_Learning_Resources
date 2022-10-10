@@ -187,7 +187,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - DevTools :  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
 - PWA :  https://developers.google.com/web/progressive-web-apps
 
-## 👩🏻‍💻 Programming Doc 
+## 👩‍💻 Programming Doc 
+- C Language:
+    - Official Doc - https://devdocs.io/c/
+    - Learn-C - https://www.learn-c.org/
+    - BeginnersPoint - https://beginnerspointuemk.000webhostapp.com
 - C# :
     - Official Doc - https://learn.microsoft.com/en-us/dotnet/csharp
 - GoLang :

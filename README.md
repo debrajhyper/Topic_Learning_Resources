@@ -457,6 +457,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Ethics                   | CS50                  | [click here](https://youtu.be/eNxMn7slmwI)                                             |
 | Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
 | Git and Github           | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=RGOj5yH7evk)                              |
+| Blender 3.0          | Blender Guru        | [click here](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)                              |
 
 ## 👩🏻‍💻 Programming:
 

@@ -159,6 +159,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Git and GitHub Overview :Love Babbar - https://www.youtube.com/watch?v=uj4fy4kpaOA
     - Version Control with Git :Udacity -https://www.udacity.com/course/version-control-with-git--ud123
     
+ - Vue.Js:
+    - Vue Mstery - https://www.vuemastery.com/
+    - Mini-curso Vue Evolutio - https://evolutio.io/curso/minicurso_vuejs
+    - Learn Vue.co - https://learnvue.co/tutorials/template-refs 
+    
+    
 
 ## 🎯 Frameworks/Library Doc
 - Angular : Doc -  https://angular.io
@@ -445,6 +451,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | React JS (Intermediate)        | Scrimba           | [click here](https://scrimba.com/learn/learnreact)                                     |
 | Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
 | React JS (Advanced)            | Chris Blakely     | [click here](https://youtube.com/playlist?list=PLaebUsP3fWHuY7LpRHYmst5FFrrMYaaLR)     |
+| React JS (Beginner)            | Thapa Technical   | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) |                         
 
 
 
@@ -467,6 +474,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Ethics                   | CS50                  | [click here](https://youtu.be/eNxMn7slmwI)                                             |
 | Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
 | Git and Github           | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=RGOj5yH7evk)                              |
+| Blender 3.0          | Blender Guru        | [click here](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)                              |
 
 ## 👩🏻‍💻 Programming:
 

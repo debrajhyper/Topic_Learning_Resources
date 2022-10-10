@@ -158,6 +158,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - Git and GitHub Overview :Love Babbar - https://www.youtube.com/watch?v=uj4fy4kpaOA
     - Version Control with Git :Udacity -https://www.udacity.com/course/version-control-with-git--ud123
     
+ - Vue.Js:
+    - Vue Mstery - https://www.vuemastery.com/
+    - Mini-curso Vue Evolutio - https://evolutio.io/curso/minicurso_vuejs
+    - Learn Vue.co - https://learnvue.co/tutorials/template-refs 
+    
+    
 
 ## 🎯 Frameworks/Library Doc
 - Angular : Doc -  https://angular.io

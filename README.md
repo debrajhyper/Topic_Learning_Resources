@@ -331,6 +331,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ROR             | APPSIMPACT Academy    | [click here](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPP)  |
 | Node JS         | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLobAq7hWqZWGTfhj4jNQAVzJd_y6iTErQ) |
 | Python (Django) | CodeWithHarry         | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
+| GoLang          | FreeCodeCamp         | [click here](https://www.youtube.com/watch?v=jFfo23yIWac) |
 
 ## 🦄 Full Stack
 

@@ -53,10 +53,28 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## ⚡ Development Doc
 - Android Development : Doc - https://developer.android.com/courses
+- Flutter : Doc - https://www.flutter.dev/
+                  https://www.w3adda.com/flutter-tutorial
+                  https://www.geeksforgeeks.org/flutter-tutorial/
 
 
 
+- Websites for getting useful API's
+    - https://apilayer.com/
+    - https://rapidapi.com/
 
+
+- Websites for Web Scraping using Python
+    - https://python-adv-web-apps.readthedocs.io/
+    - https://docs.scrapy.org/
+
+
+- Figma resources
+    * DOC - https://www.figma.com/ 
+    * Tutorial - https://www.youtube.com/watch?v=3q3FV65ZrUs&ab_channel=DesignCourse
+    * Styles - https://dribbble.com/tags/figma_style
+    
+       
 🧟Websites for programming competitions
     - https://clist.by
     - https://www.topcoder.com

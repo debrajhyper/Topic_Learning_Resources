@@ -161,49 +161,49 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 
 ## 🔁 Git & Github Documentations
-- Udacity - https://www.udacity.com/course/version-control-with-git--ud123
-- Git Branching Game - https://learngitbranching.js.org
+- [Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Git Branching Game](https://learngitbranching.js.org)
 - `Bonus :`
-    - Git Cheatsheet - https://education.github.com/git-cheat-sheet-education.pdf
+    - [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
 ## ⛓ Blockchain Documentations
 - Learn the basics
-    - Mastering Ethereum - https://github.com/ethereumbook/ethereumbook
-    - Build by participating at Ethereum hackathons - https://ethglobal.com
-    - Contribute to Gitcoin projects - https://gitcoin.co
-    - Stay up to date with the latest Ethereum development - https://weekinethereumnews.com/
+    - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+    - [Build by participating at Ethereum hackathons](https://ethglobal.com)
+    - [Contribute to Gitcoin projects](https://gitcoin.co)
+    - [Stay up to date with the latest Ethereum development](https://weekinethereumnews.com/)
 - Ethereum
-    - Freecodecamp - https://www.freecodecamp.org/news/full-stack-ethereum-development
-    - Collection of resources about all things related to Ethereum - https://github.com/Scanate/EthList (this list is awesome but a little overwhelming)
-    - Paradigm blog posts - https://www.paradigm.xyz
-    - Paradigm blog posts - https://www.paradigm.xyz
-    - Yellow paper - https://ethereum.github.io/yellowpaper/paper.pdf (understand the white paper before attempting to read the yellow paper).
+    - [Freecodecamp](https://www.freecodecamp.org/news/full-stack-ethereum-development)
+    - [Collection of resources about all things related to Ethereum](https://github.com/Scanate/EthList (this list is awesome but a little overwhelming)
+    - [Paradigm blog posts](https://www.paradigm.xyz)
+    - [Paradigm blog posts](https://www.paradigm.xyz)
+    - [Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf) (understand the white paper before attempting to read the yellow paper)
 - Defi
-    - DeFi Roadmap - https://github.com/OffcierCia/DeFi-Developer-Road-Map 
+    - [DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - Learning about DeFi Protocols
-    - Uniswap whitepaper - https://hackmd.io/@HaydenAdams/HJ9jLsfTz?type=view
-    - Uniswap V1 - https://docs.uniswap.org/protocol/V1/introduction
-    - Uniswap V2 - https://uniswap.org/whitepaper.pdf
-    - Uniswap V3 - https://uniswap.org/whitepaper-v3.pdf
-    - Compound - https://compound.finance/docs
-    - Aave - https://docs.aave.com/developers/
+    - [Uniswap whitepaper](https://hackmd.io/@HaydenAdams/HJ9jLsfTz?type=view)
+    - [Uniswap V1](https://docs.uniswap.org/protocol/V1/introduction)
+    - [Uniswap V2](https://uniswap.org/whitepaper.pdf)
+    - [Uniswap V3](https://uniswap.org/whitepaper-v3.pdf)
+    - [Compound](https://compound.finance/docs)
+    - [Aave](https://docs.aave.com/developers/)
 - Smart Contracts Development (must read)
-    - Cryptozombies - https://cryptozombies.io/
-    - OpenZeppelin contracts - https://docs.openzeppelin.com/contracts/4.x/
-    - Solidity - https://docs.soliditylang.org/en/v0.8.9/
+    - [Cryptozombies](https://cryptozombies.io/)
+    - [OpenZeppelin contracts](https://docs.openzeppelin.com/contracts/4.x/)
+    - [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
 - Cairo
-    - The most complete Cairo reference with tutorials and exercises - https://www.cairo-lang.org/docs/ 
-    - Practical approach to Cairo - https://perama-v.github.io/cairo/by-example/
-    - White paper - https://eprint.iacr.org/2021/1063.pdf (optional, but gives deeper understanding)
-    - OpenZeppelin contracts - https://github.com/OpenZeppelin/cairo-contracts/
+    - [The most complete Cairo reference with tutorials and exercises](https://www.cairo-lang.org/docs/)
+    - [Practical approach to Cairo](https://perama-v.github.io/cairo/by-example/)
+    - [White paper](https://eprint.iacr.org/2021/1063.pdf (optional, but gives deeper understanding)
+    - [OpenZeppelin contracts](https://github.com/OpenZeppelin/cairo-contracts/)
 - MEV
-    - Flash Boys 2.0 - https://arxiv.org/abs/1904.05234
-    - Flashbots - https://github.com/flashbots/pm
-    - Ethereum is a Dark Forest -  https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff
+    - [Flash Boys 2.0](https://arxiv.org/abs/1904.05234)
+    - [Flashbots](https://github.com/flashbots/pm)
+    - [Ethereum is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
 - Build Blockchain Based Projects
-    - Buildspace - https://buildspace.so/
-    - LearnWeb3 - https://learnweb3.io/
+    - [Buildspace](https://buildspace.so/)
+    - [LearnWeb3](https://learnweb3.io/)
 
 
 ## 📟 Programming Languages Documentations

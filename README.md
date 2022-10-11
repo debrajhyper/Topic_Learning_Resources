@@ -208,42 +208,42 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 📟 Programming Languages Documentations
 - GoLang :
-    - Go by Example (Hands-on introduction to Go) - https://gobyexample.com
-    - Learn Go - https://www.learn-golang.org
+    - [Go by Example (Hands-on introduction to Go)](https://gobyexample.com)
+    - [Learn Go](https://www.learn-golang.org)
 - PHP :
-    - The Right Way - https://phptherightway.com
-    - W3Schools - https://www.w3schools.com/php
+    - [The Right Way](https://phptherightway.com)
+    - [W3Schools](https://www.w3schools.com/php)
 - Python :
-    - FreecodeCamp (Scientific Computing with Python) - https://freecodecamp.org/learn/scientific-computing-with-python
-    - Python for everybody (Dr. Chuck) - https://py4e.com
-    - Python Blog series (Aatmaj) - https://dev.to/aatmaj/series/13315
-    - Python Blog Series (Real Python) - https://realpython.com/python-basics
+    - [FreecodeCamp (Scientific Computing with Python)](https://freecodecamp.org/learn/scientific-computing-with-python)
+    - [Python for everybody (Dr. Chuck)](https://py4e.com)
+    - [Python Blog series (Aatmaj)](https://dev.to/aatmaj/series/13315)
+    - [Python Blog Series (Real Python)](https://realpython.com/python-basics)
 - Ruby : 
-    - Codecademy (Beginner) - https://codecademy.com/learn/learn-ruby
+    - [Codecademy (Beginner)](https://codecademy.com/learn/learn-ruby)
 - JavaScript :
-    - FreecodeCamp (JavaScript Algorithms and Data Structures) - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures
-    - Edureka (JavaScript Advance) - https://edureka.co/blog/advanced-javascript-tutorial
-    - JS for Cats - https://jsforcats.com
-    - MDN Web Docs - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
-    - JavaScript Info - https://javascript.info
-    - Scrimba - https://scrimba.com/learn/learnjavascript
-    - The odin project - https://www.theodinproject.com
+    - [FreecodeCamp (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+    - [Edureka (JavaScript Advance)](https://edureka.co/blog/advanced-javascript-tutorial)
+    - [JS for Cats](https://jsforcats.com)
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+    - [JavaScript Info](https://javascript.info)
+    - [Scrimba](https://scrimba.com/learn/learnjavascript)
+    - [The odin project](https://www.theodinproject.com)
     - `Bonus :`
-        - 30 Day Vanilla JS Coding Challenge - https://javascript30.com
+        - [30 Day Vanilla JS Coding Challenge](https://javascript30.com)
 - Java :
-    - w3 schools - https://www.w3schools.com/java/default.asp
-    - GeeksForGeeks - https://www.geeksforgeeks.org/java/
-    - Java Bootcamp (Kunal Kushwaha) - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
-    - JavaTpoint - https://www.javatpoint.com/java-tutorial
+    - [w3 schools](https://www.w3schools.com/java/default.asp)
+    - [GeeksForGeeks](https://www.geeksforgeeks.org/java/)
+    - [Java Bootcamp (Kunal Kushwaha)](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+    - [JavaTpoint](https://www.javatpoint.com/java-tutorial)
     - `Bonus :`
-        - Java-Projects-For-Beginners - https://github.com/KrishGaur1354/Java-Projects-for-Beginners
+        - [Java-Projects-For-Beginners](https://github.com/KrishGaur1354/Java-Projects-for-Beginners)
 - SQL :
-    - SQLZOO : https://sqlzoo.net/wiki/SQL_Tutorial
-    - SQL Easy (places to test the code) : https://www.sql-easy.com
-    - Exercises to practice : https://sqlbolt.com
-    - SQL Tutorial for Beginners : https://www.programiz.com/sql
+    - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+    - [SQL Easy (places to test the code)](https://www.sql-easy.com)
+    - [Exercises to practice](https://sqlbolt.com)
+    - [SQL Tutorial for Beginners](https://www.programiz.com/sql)
     - `Bonus :`
-        - Discover who is the murder with SQL : https://mystery.knightlab.com/,
+        - [Discover who is the murder with SQL](https://mystery.knightlab.com/)
 
 
 ## 👨🏻‍💻 Competitive Programming Documentations

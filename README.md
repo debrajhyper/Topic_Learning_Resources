@@ -39,18 +39,20 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [💻 Video/Playlist Resources](#-videoplaylist)
     - [🧩 Block Programming](#-block-programming)
     - [💡 Artificial Intelligence](#-artificial-intelligence)
+    - [📈 Data Science](#-data-science)
+    - [🤖 Machine Learning](#-machine-learning)
+    - [📱 Android Development](#-android-development)
+    - [🌊 Frontend Development](#-frontend-development)
+    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
     - [🔥 Backend Development](#-backend-development)
     - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
     - [📂 Database](#-database)
-    - [📈 Data Science](#-data-science)
+    - [🦄 Full Stack Development](#-full-stack-development)
+    - [⛓ Blockchain Development](#-blockchain-development)
+    - [📟 Programming Languages](#-programming-languages)
     - [🎓 DSA](#-dsa)
-    - [👀 Ethereum Development](#-ethereum-development)
-    - [🌊 Frontend Development](#-frontend-development)
-    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-    - [📑 Machine Learning](#-machine-learning)
-    - [📄 Misc](#-misc)
-    - [👩🏻‍💻 Programming](#-programming)
-    - [🖥️ Competitive Programming Tutorials](#%EF%B8%8F-competitive-programming-tutorials)
+    - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
+    - [💥 Miscellaneous](#-miscellaneous)
 <br/>
 
 # 📃 Documentations
@@ -276,10 +278,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🧩 Block Programming
 
-| TOPIC           | SOURCE NAME           | LINK                                                                                   |
-|-----------------|-----------------------|----------------------------------------------------------------------------------------|
-| Scratch         | CS50                  | [click here](https://youtu.be/YoXxevp1WRQ)                                             |
-| MIT-APP Inventor| Coding Blocks Jr      | [click here](https://youtu.be/HbIX_l2FWi8)                                             |
+| TOPIC            | SOURCE NAME      | LINK                                       |
+| ---------------- | ---------------- |------------------------------------------- |
+| Scratch          | CS50             | [click here](https://youtu.be/YoXxevp1WRQ) |
+| MIT-APP Inventor | Coding Blocks Jr | [click here](https://youtu.be/HbIX_l2FWi8) |
 
 ## 💡 Artificial Intelligence
 
@@ -291,51 +293,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |
 | Convolutional Neural Networks for Visual Recognition | Stanford - YouTube         | [click here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                                                                                                                                                                                                       |
 | Deep Learning Specialization                         | DeepLearning.AI - Coursera | [click here](https://www.coursera.org/specializations/deep-learning)                                                                                                                                                                                                                         |
-| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)
-| AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)
-
-## 🔥 Backend Development:
-
-| TOPIC           | SOURCE NAME           | LINK                                                                                   |
-| --------------- | --------------------- | -------------------------------------------------------------------------------------- |
-| Node JS         | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) |
-| Node JS (Rest API)   | Artlfmj               | [click here](https://www.youtube.com/watch?v=z0mySTQDJvc&list=PLdgxJkMu3zdR9dUPZT4hX9esce3-SzuK6)     
-| PHP (MongoDB)   | AmigosCode            | [click here](https://www.youtube.com/watch?v=Www6cTUymCY)                              |
-| PHP(PostgreSQL) | AmigosCode            | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
-| PHP (Rest API)  | ProgrammingKnowledge  | [click here](https://www.youtube.com/watch?v=dlGtSoigdB0)                              |
-| Python          | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                |
-| Python (Django) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
-| Python (Flask)  | Corey Schafer         | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
-| Node & Express JS | FreeCodeCamp        | [click here](https://youtu.be/Oe421EPjeBE)                                             |
-| ROR             | APPSIMPACT Academy    | [click here](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPP)  |
-| Node JS         | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLobAq7hWqZWGTfhj4jNQAVzJd_y6iTErQ) |
-| Python (Django) | CodeWithHarry         | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
-
-## 🦄 Full Stack
-
-| TOPIC           | SOURCE NAME           | LINK                                                                                   |
-| --------------- | --------------------- | -------------------------------------------------------------------------------------- |
-| Web Dev full course | Codedamn          | [click here](https://youtu.be/ZxKM3DCV2kE)                                             |
-
-## 🌀 Backend Frameworks/Library
-
-| TOPIC             | SOURCE NAME                | LINK                                                                                   |
-| ----------------- | -------------------------- | -------------------------------------------------------------------------------------- |
-| Laravel (Beginner)| ProgrammingKnowledge       | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi) |
-| Laravel           | Laracasts | [click here](https://laracasts.com) |
-| Pytest (Beginner) | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial)                   |
-| GO, JS (Beginner) | gRPC Cross Language        | [click here](https://github.com/rizkyian78/grpc_cross_language)                        |
-
-## 📂 Database
-
-| TOPIC             | SOURCE NAME    | LINK                                                                                   |
-| ----------------- | -------------- | -------------------------------------------------------------------------------------- |
-| MongoDB           | JsWiz          | [click here](https://www.youtube.com/playlist?list=PLGquJ_T_JBMQmvvrriJcwdESGECuRhvtR) |
-| MongoDB           | WebDevSimplied | [click here](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9) |
-| SQL (CrashCourse) | CS50           | [click here](https://youtu.be/Wb0DM9I8RDo)                                             |
-| SQL (Beginner)    | Amigoscode     | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
-| DBMS Course       | Neso Academy   | [click here](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ) |
-
+| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) |
+| AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)                                                                                                                                                                                                   |
 
 ## 📈 Data Science
 
@@ -348,82 +307,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Process Mining: Data science in Action                    | Coursera    | [click here](https://www.coursera.org/learn/process-mining?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-H5LHsnuxkpXkYu0WYISbgg&siteID=Vrr1tRSwXGM-H5LHsnuxkpXkYu0WYISbgg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM)                         |
 | Probability and Statistics: To p or not to p?             | Coursera    | [click here](https://www.coursera.org/learn/probability-statistics?ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-cIxdZ2YiHhlxp7gXDVD3dw&siteID=Vrr1tRSwXGM-cIxdZ2YiHhlxp7gXDVD3dw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM)                 |
 | Linear Algebra Refresher Course                           | Udacity     | [click here](https://www.udacity.com/course/linear-algebra-refresher-course--ud953?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBSX%3ARxOwUAzM0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224)                                              |
-| Statistics Fundamentals                                   | StatQuest   | [click here](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)                  |
+| Statistics Fundamentals                                   | StatQuest   | [click here](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)                                                                                                                                                                                                       |
 
-## 🎓 DSA
-
-| TOPIC                                               | SOURCE NAME    | LINK                                                                                              |
-| --------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------- |
-| Algorithms                                          | Abdul Bari     | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)            |
-| DSA in Java                                         | Dinesh Varyani | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)            |
-| Java Complete Course - Placement Series             | Apna College   | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)            |
-| Dynamic Programming                                 | Aditya Verma   | [click here](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) |
-| Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha | [click here](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)                |
-| Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
-| Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)            |
-| Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)            |
-| Algorithms                                          | Abdul Bari     | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)              |                |
-| DSA in Java                                         | Dinesh Varyani | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)              |                |
-| Dynamic Programming                                 | Aditya Verma   | [click here](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)              |                | 
-| Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha | [click here](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)              |                |
-| Recursion                                           | Aditya Verma   | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)              |                |
-| Sliding Window Algorithm                            | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)              |                |
-| Stack                                               | Aditya Verma   | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)              |                |
-| Data Structures                                     | mycodeschool   | [click here](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)              |                |
-| Data Structures (in Hindi)                          | Anuj Bhaiya    | [click here](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) |
-
-
-## ⟠ Ethereum Development
-
-| TOPIC                    | SOURCE NAME   | LINK                                                                                            |
-| ------------------------ | ------------- | ----------------------------------------------------------------------------------------------- |
-| Ethereum with JavaScript | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)           |
-| Ethereum with Python     | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)           |
-| Ethereum Complete Guide  | Udemy         | [click here](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) |
-
-## 🌊 Frontend Development
-
-| TOPIC                              | SOURCE NAME           | LINK                                                                                   |
-| ---------------------------------- | --------------------- | -------------------------------------------------------------------------------------- |
-| CSS (Beginner)                     | Traversy Media        | [click here](https://www.youtube.com/watch?v=yfoY53QXEnI)                              |
-| Frontend web developer Bootcamp course | FreeCodeCamp      | [click here](https://youtu.be/zJSY8tbf_ys)                                             |
-| HTML                               | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg)                              |
-| HTML (Beginner)                    | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s)                       |
-| HTML Canvas                        | Udacity               | [click here](https://www.udacity.com/course/html5-canvas--ud292)                       |
-| HTML/CSS From scratch              | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)                              |
-| HTML/CSS/Javascript (Beginners)    | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)     |
-| Intro to AJAX                      | Udacity               | [click here](https://www.udacity.com/course/intro-to-ajax--ud110)                      |
-| Intro to HTML & CSS                | Udacity               | [click here](https://www.udacity.com/course/intro-to-html-and-css--ud001)              |
-| Intro to jQuery                    | Udacity               | [click here](https://www.udacity.com/course/intro-to-jquery--ud245)                    |
-| JavaScript Basics                  | Udacity               | [click here](https://www.udacity.com/course/javascript-basics--ud804)                  |
-| JavaScript (Beginner)              | Programming with Mosh | [click here](https://www.youtube.com/watch?v=W6NZfCO5SIk)                              |
-| JavaScript Design Patterns         | Udacity               | [click here](https://www.udacity.com/course/javascript-design-patterns--ud989)         |
-| JavaScript Testing                 | Udacity               | [click here](https://www.udacity.com/course/javascript-testing--ud549)                 |
-| Object-Oriented JavaScript         | Udacity               | [click here](https://www.udacity.com/course/object-oriented-javascript--ud015)         |
-| Responsive Images                  | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
-| Responsive Web Design Fundamentals | Udacity               | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
-| Tailwind CSS                       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
-| The Complete JavaScript Course 2022: From Zero to Expert! | Udemy | [click here](https://www.udemy.com/course/the-complete-javascript-course/) |
-
-
-
-## ⚡ Frontend Frameworks/Library
-
-| TOPIC                          | SOURCE NAME       | LINK                                                                                   |
-| ------------------------------ | ----------------- | -------------------------------------------------------------------------------------- |
-| React JS (Beginner)            | Clever Programmer | [click here](https://www.youtube.com/watch?v=vIRBSI-elUM)                              |
-| React JS (Beginner to Advance) | Clever Programmer | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)                              |
-| React JS (Beginner to Advance) | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
-| React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |
-| React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
-| Vue JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
-| React JS (Intermediate)        | Scrimba           | [click here](https://scrimba.com/learn/learnreact)                                     |
-| Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
-| React JS (Advanced)            | Chris Blakely     | [click here](https://youtube.com/playlist?list=PLaebUsP3fWHuY7LpRHYmst5FFrrMYaaLR)     |
-
-
-
-## 📑 Machine Learning
+## 🤖 Machine Learning
 
 | TOPIC                                                     | SOURCE NAME                   | LINK                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -433,64 +319,169 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Machine Learning Crash Course                             | Google Developer Student Club | [click here](https://developers.google.com/machine-learning/crash-course/ml-intro)                                                                                                                                                                                     |
 | Python Crash Course for Data Science and Machine Learning | Udemy                         | [click here](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-FHQDALViz5JD74D6YRr0Rw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads)                   |
 
-## 📄 Misc
+## 📱 Android Development
 
-| TOPIC                    | SOURCE NAME           | LINK                                                                                   |
-| ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
-| Cookies                  | Hussein Nasser        | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
-| Android Development      | Rahul Pandey          | [click here](https://www.youtube.com/c/RahulPandeyrkp)
-| Ethics                   | CS50                  | [click here](https://youtu.be/eNxMn7slmwI)                                             |
-| Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
-| Git and Github           | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=RGOj5yH7evk)                              |
+| TOPIC              | SOURCE NAME    | LINK                                                                                              |
+| ------------------ | -------------- | ------------------------------------------------------------------------------------------------- |
+| Flutter (Beginner) | Johannes Milke | [click here](https://www.youtube.com/watch?v=g8Y1Eqa4pbc&list=PL1WkZqhlAdC_Tr3GFYq3W0KYfX49_FiNA) |
 
-## 👩🏻‍💻 Programming:
+## 🌊 Frontend Development
+
+| TOPIC                              | SOURCE NAME           | LINK                                                                                   |
+| ---------------------------------- | --------------------- | -------------------------------------------------------------------------------------- |
+| HTML                               | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg)                              |
+| HTML (Beginner)                    | Programming with Mosh | [click here](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=344s)                       |
+| HTML Canvas                        | Udacity               | [click here](https://www.udacity.com/course/html5-canvas--ud292)                       |
+| CSS (Beginner)                     | Traversy Media        | [click here](https://www.youtube.com/watch?v=yfoY53QXEnI)                              |
+| HTML/CSS From scratch              | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=mU6anWqZJcc)                              |
+| HTML/CSS/Javascript (Beginners)    | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)     |
+| Frontend web developer Bootcamp    | FreeCodeCamp          | [click here](https://youtu.be/zJSY8tbf_ys)                                             |
+| Intro to HTML & CSS                | Udacity               | [click here](https://www.udacity.com/course/intro-to-html-and-css--ud001)              |
+| Intro to AJAX                      | Udacity               | [click here](https://www.udacity.com/course/intro-to-ajax--ud110)                      |
+| Intro to jQuery                    | Udacity               | [click here](https://www.udacity.com/course/intro-to-jquery--ud245)                    |
+| JavaScript Basics                  | Udacity               | [click here](https://www.udacity.com/course/javascript-basics--ud804)                  |
+| JavaScript (Beginner)              | Programming with Mosh | [click here](https://www.youtube.com/watch?v=W6NZfCO5SIk)                              |
+| JavaScript Design Patterns         | Udacity               | [click here](https://www.udacity.com/course/javascript-design-patterns--ud989)         |
+| JavaScript Testing                 | Udacity               | [click here](https://www.udacity.com/course/javascript-testing--ud549)                 |
+| Object-Oriented JavaScript         | Udacity               | [click here](https://www.udacity.com/course/object-oriented-javascript--ud015)         |
+| Responsive Images                  | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
+| Responsive Web Design Fundamentals | Udacity               | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
+
+## ⚡ Frontend Frameworks/Library
+
+| TOPIC                          | SOURCE NAME       | LINK                                                                                   |
+| ------------------------------ | ----------------- | -------------------------------------------------------------------------------------- |
+| Tailwind CSS                   | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+| React JS (Beginner)            | Clever Programmer | [click here](https://www.youtube.com/watch?v=vIRBSI-elUM)                              |
+| React JS (Intermediate)        | Scrimba           | [click here](https://scrimba.com/learn/learnreact)                                     |
+| React JS (Beginner to Advance) | Clever Programmer | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)                              |
+| React JS (Beginner to Advance) | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
+| React JS (Advanced)            | Chris Blakely     | [click here](https://youtube.com/playlist?list=PLaebUsP3fWHuY7LpRHYmst5FFrrMYaaLR)     |
+| React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |
+| React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
+| Vue JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
+| Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
+
+## 🔥 Backend Development
+
+| TOPIC              | SOURCE NAME           | LINK                                                                                              |
+| ------------------ | --------------------- | ------------------------------------------------------------------------------------------------- |
+| Node JS            | Thapa Technical       | [click here](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8)            |
+| Node JS            | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLobAq7hWqZWGTfhj4jNQAVzJd_y6iTErQ)                |
+| Node JS (Rest API) | Artlfmj               | [click here](https://www.youtube.com/watch?v=z0mySTQDJvc&list=PLdgxJkMu3zdR9dUPZT4hX9esce3-SzuK6) |
+| Python             | API Testing In Python | [click here](https://testautomationu.applitools.com/python-api-testing)                           |
+| PHP (Rest API)     | ProgrammingKnowledge  | [click here](https://www.youtube.com/watch?v=dlGtSoigdB0)                                         |
+
+## 🌀 Backend Frameworks/Library
+
+| TOPIC              | SOURCE NAME                | LINK                                                                                   |
+| ------------------ | -------------------------- | -------------------------------------------------------------------------------------- |
+| Node & Express JS  | FreeCodeCamp               | [click here](https://youtu.be/Oe421EPjeBE)                                             |
+| Laravel            | Laracasts                  | [click here](https://laracasts.com)                                                    |
+| Laravel (Beginner) | ProgrammingKnowledge       | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi) |
+| Pytest (Beginner)  | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial)                   |
+| Django             | FreeCodeCamp               | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
+| Django             | CodeWithHarry              | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
+| Flask              | Corey Schafer              | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
+
+## 📂 Database
+
+| TOPIC             | SOURCE NAME    | LINK                                                                                   |
+| ----------------- | -------------- | -------------------------------------------------------------------------------------- |
+| DBMS Course       | Neso Academy   | [click here](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ) |
+| SQL (CrashCourse) | CS50           | [click here](https://youtu.be/Wb0DM9I8RDo)                                             |
+| SQL (Beginner)    | Amigoscode     | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
+| SQL               | AmigosCode     | [click here](https://www.youtube.com/watch?v=5hzZtqCNQKk)                              |
+| MongoDB           | JsWiz          | [click here](https://www.youtube.com/playlist?list=PLGquJ_T_JBMQmvvrriJcwdESGECuRhvtR) |
+| MongoDB           | WebDevSimplied | [click here](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9) |
+| MongoDB           | AmigosCode     | [click here](https://www.youtube.com/watch?v=Www6cTUymCY)                              |
+
+## 🦄 Full Stack Development
+
+| TOPIC               | SOURCE NAME  | LINK                                       |
+| ------------------- | ------------ | ------------------------------------------ |
+| Web Dev full course | Codedamn     | [click here](https://youtu.be/ZxKM3DCV2kE) |
+
+## ⛓ Blockchain Development
+
+| TOPIC                    | SOURCE NAME   | LINK                                                                                            |
+| ------------------------ | ------------- | ----------------------------------------------------------------------------------------------- |
+| Ethereum Complete Guide  | Udemy         | [click here](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) |
+| Ethereum with JavaScript | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)           |
+| Ethereum with Python     | FreeCodeCamp  | [click here](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)           |
+
+## 📟 Programming Languages
 
 | TOPIC                    | SOURCE NAME           | LINK                                                                                   |
 | ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
 | C                        | CS50                  | [click here](https://youtu.be/zYierUhIFNQ)                                             |
 | C++                      | Apna College          | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) |
 | C++ (Beginner)           | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)     |
-| C++ (Full course)        | Caleb Curry           | [click here](https://www.youtube.com/watch?v=_bYFu9mBnr4)                   |
-| C++ (complete DSA)       | Code Help - by Babbar | [click here](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)     |
+| C++ (Full course)        | Caleb Curry           | [click here](https://www.youtube.com/watch?v=_bYFu9mBnr4)                              |
 | C# (Basic)               | Programming With Mosh | [click here](https://www.youtube.com/watch?v=gfkTfcpWqAY)                              |
-| C#  (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
+| C# (Full Course)         | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=GhQdlIFylQ8)                              |
 | Core JAVA                | Smart Programming     | [click here](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) |
-| Flask                    | CS50                  | [click here](https://youtu.be/x_c8pTW8ZUc)                                             |
-| Flutter (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
-| GoLang (Beginner)        | Tech with Tim         | [click here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) |
-| Javascript (Beginner)    | Brad Travesy          | [click here](https://youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)     |
 | Javascript (Beginner)    | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=PkZNo7MFNFg)                              |
-| Kotlin                   | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=F9UC9DY-vIU)                              |
-| PHP (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
-| Python Basics CrashCourse| CS50                  | [click here](https://youtu.be/ZEQh45W_UDo)                                             |
-| Python Basics (Beginner) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw)                              |
-| Python (Beginner)        | TechWorld with Nana   | [click here](https://www.youtube.com/watch?v=t8pPdKYpowI)                              |
-| Python (Advance)         | Python Engineer       | [click here](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |
-| Ruby (Beginner)          | ProgrammingKnowledge  | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbNBXZAeVbkkHEj9zsEbXQK) |
-| Python (OOPS)            | Telusko               | [click here](https://www.youtube.com/watch?v=qiSCMNBIP2g)                              | 
+| Javascript (Beginner)    | Brad Travesy          | [click here](https://youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)     |
 | JavaScript(OOPS)         | Apna College          | [click here](https://www.youtube.com/watch?v=bSrm9RXwBaI)                              |
+| Flask                    | CS50                  | [click here](https://youtu.be/x_c8pTW8ZUc)                                             |
+| Ruby (Beginner)          | ProgrammingKnowledge  | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbNBXZAeVbkkHEj9zsEbXQK) |
+| GoLang (Beginner)        | Tech with Tim         | [click here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) |
+| Kotlin                   | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=F9UC9DY-vIU)                              |
+| Flutter (Beginner)       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
+| PHP (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
+| Python (OOPS)            | Telusko               | [click here](https://www.youtube.com/watch?v=qiSCMNBIP2g)                              | 
+| Python (Beginner)        | TechWorld with Nana   | [click here](https://www.youtube.com/watch?v=t8pPdKYpowI)                              |
+| Python Basics (Beginner) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw)                              |
+| Python Basics CrashCourse| CS50                  | [click here](https://youtu.be/ZEQh45W_UDo)                                             |
+| Python (Advance)         | Python Engineer       | [click here](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |
 
-## 🖥️ Competitive Programming Tutorials
+## 🎓 DSA
 
-| TOPIC           | SOURCE NAME           | LINK                                                                                   |
-| --------------------- | ------------------------- | -------------------------------------------------------------------------------------- |
-| CP playlist (Hindi)   | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) |
-| CP playlist (English) | ProgrammingWithHarry      | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE) |
-| JavaScript Playlist   | ProgrammingWithHarry      | [click here](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) |
-| Algorithms Playlist   | Errichto                  | [click here](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80) |
-| Streams               | William Lin , Geothermal  | [William Lin](https://www.youtube.com/c/WilliamLin168/playlists), [Geothermal](https://www.youtube.com/channel/UCpUTNKWxw9p4nOvekiIRWow)                           |                                                                                        |
-| Beginner Topics For CP| COPS IIT-(BHU)            | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6) |
-| C++ STL               | Utkatsh Gupta             | [click here](https://youtu.be/PZogbfU4X5E)                                             |
-| C++ STL(Full Course)  | Luv                       | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) |
+| TOPIC                                               | SOURCE NAME           | LINK                                                                                              |
+| --------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------- |
+| Algorithms                                          | Abdul Bari            | [click here](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)            |
+| DSA in Java                                         | Dinesh Varyani        | [click here](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)            |
+| Java + DSA + Interview Preparation Course (Ongoing) | Kunal Kushwaha        | [click here](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)                |
+| Stack                                               | Aditya Verma          | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)            |
+| Recursion                                           | Aditya Verma          | [click here](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
+| Dynamic Programming                                 | Aditya Verma          | [click here](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) |
+| Sliding Window Algorithm                            | Aditya Verma          | [click here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)            |
+| Data Structures                                     | mycodeschool          | [click here](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)                |
+| Data Structures (in Hindi)                          | Anuj Bhaiya           | [click here](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)            |
+| Java Complete Course - Placement Series             | Apna College          | [click here](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)            |
+| C++ (complete DSA)                                  | Code Help - by Babbar | [click here](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)                |
 
+## 👨🏻‍💻 Competitive Programming
 
+| TOPIC                  | SOURCE NAME              | LINK                                                                                              |
+| ---------------------- | ------------------------ | ------------------------------------------------------------------------------------------------- |
+| CP playlist (Hindi)    | Luv                      | [click here](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)            |
+| CP playlist (English)  | ProgrammingWithHarry     | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE)                                         |
+| JavaScript Playlist    | ProgrammingWithHarry     | [click here](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) |
+| Algorithms Playlist    | Errichto                 | [click here](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80)            |
+| Beginner Topics For CP | COPS IIT-(BHU)           | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6)            |
+| C++ STL                | Utkatsh Gupta            | [click here](https://youtu.be/PZogbfU4X5E)                                                        |
+| C++ STL(Full Course)   | Luv                      | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)            |
 
-## Thanks to all Contributors
+## 💥 Miscellaneous
+
+| TOPIC                    | SOURCE NAME           | LINK                                                                                   |
+| ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
+| Git and Github           | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=RGOj5yH7evk)                              |
+| Ethics                   | CS50                  | [click here](https://youtu.be/eNxMn7slmwI)                                             |
+| Cookies                  | Hussein Nasser        | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
+| Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
+
+<br/>
+<br/>
+
+# Thanks to all Contributors
 
 Thanks a lot for spending your time helping Topic Learning Resources.
 
 [![Contributors](https://contrib.rocks/image?repo=debrajhyper/Topic_Learning_Resources)](https://github.com/debrajhyper/Topic_Learning_Resources/graphs/contributors)
 
-## License
+# License
 
 This repository is under The MIT License. Read the [LICENSE](https://github.com/debrajhyper/Topic_Learning_Resources/blob/master/LICENSE) file for more information.

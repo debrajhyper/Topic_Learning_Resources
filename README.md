@@ -248,42 +248,42 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 👨🏻‍💻 Competitive Programming Documentations
 - Programming Contests and Practice
-    - CList : https://clist.by
-    - CodeForces : https://codeforces.com
-    - CodeChef : https://www.codechef.com
-    - TopCoder : https://www.topcoder.com
-    - AtCoder : https://atcoder.jp
-    - Hackerrank : https://www.hackerrank.com
-    - HackerEarth : https://www.hackerearth.com
-    - Google Kickstart : https://codingcompetitions.withgoogle.com/kickstart
-    - Google Code Jam - https://codingcompetitions.withgoogle.com/codejam
-    - ICPC Global : https://icpc.global
-    - LeetCode : https://leetcode.com
-    - GeeksForGeeks : https://www.geeksforgeeks.org
-    - A2OJ ladder (Practice) : https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
-    - Work@Tech : https://workat.tech/problem-solving/practice
-    - Tech Interview Handbook : https://www.techinterviewhandbook.org/grind75
-    - LintCode : https://www.lintcode.com/problem/?typeId=4
+    - [CList](https://clist.by)
+    - [CodeForces](https://codeforces.com)
+    - [CodeChef](https://www.codechef.com)
+    - [TopCoder](https://www.topcoder.com)
+    - [AtCoder](https://atcoder.jp)
+    - [Hackerrank](https://www.hackerrank.com)
+    - [HackerEarth](https://www.hackerearth.com)
+    - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+    - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+    - [ICPC Global](https://icpc.global)
+    - [LeetCode](https://leetcode.com)
+    - [GeeksForGeeks](https://www.geeksforgeeks.org)
+    - [A2OJ ladder (Practice)](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
+    - [Work@Tech](https://workat.tech/problem-solving/practice)
+    - [Tech Interview Handbook](https://www.techinterviewhandbook.org/grind75)
+    - [LintCode](https://www.lintcode.com/problem/?typeId=4)
 - Resources For CP
-    - CP Handbook (pdf) : https://cses.fi/book.pdf
-    - CP Algorithms : https://cp-algorithms.com
-    - Usaco Guide : https://usaco.guide
+    - [CP Handbook (pdf)](https://cses.fi/book.pdf)
+    - [CP Algorithms](https://cp-algorithms.com)
+    - [Usaco Guide](https://usaco.guide)
     - GeeksForGeeks : 
-        - Complete Guide - https://www.geeksforgeeks.org/competitive-programming-a-complete-guide
-        - Data Structures - https://www.geeksforgeeks.org/data-structures
-    - CodeForces Edu : https://codeforces.com/edu/courses
-    - C++ Tips and Tricks : https://codeforces.com/blog/entry/74684
-    - Roadmap : https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg
+        - [Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide)
+        - [Data Structures](https://www.geeksforgeeks.org/data-structures)
+    - [CodeForces Edu](https://codeforces.com/edu/courses)
+    - [C++ Tips and Tricks](https://codeforces.com/blog/entry/74684)
+    - [Roadmap](https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg)
     - List of other useful resources : 
-        - Codeforces - https://codeforces.com/blog/entry/91363
-        - Codeforces - https://codeforces.com/blog/entry/57282
-        - Codeforces - https://codeforces.com/blog/entry/13529 
-        - Handbook - https://cses.fi/book/book.pdf
+        - [Codeforces](https://codeforces.com/blog/entry/91363)
+        - [Codeforces](https://codeforces.com/blog/entry/57282)
+        - [Codeforces](https://codeforces.com/blog/entry/13529)
+        - [Handbook](https://cses.fi/book/book.pdf)
 
 
 ## 💥 Miscellaneous Documentations
-- DevTools - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
-- PWA - https://developers.google.com/web/progressive-web-apps
+- [DevTools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+- [PWA](https://developers.google.com/web/progressive-web-apps)
   
 
 <br/>

@@ -121,13 +121,27 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
         - CSS Grid - https://grid.malven.co
         - CSS Tricks - https://css-tricks.com
         - Loading Animation - https://loading.io
+        
 - HTML/CSS :
     - Learn-HTML - https://learn-html.org
-    - FreecodeCamp (Responsive Web Design) - https://freecodecamp.org/learn/responsive-web-design
+    - FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
+    - The Odin Project - https://www.theodinproject.com/paths/foundations/courses/foundations
     - Udemy Course - https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
+
+- JavaScript :
+    - FreecodeCamp JavaScript Algorithms and Data Structures certification - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+    - JavaScript Exercises (Beginner) - https://asmarterwaytolearn.com/js/index-of-exercises
+    - JavaScript (Advance) - https://edureka.co/blog/advanced-javascript-tutorial
+    - JS for Cats - https://jsforcats.com
+    - JavaScript Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+    - JavaScript Info - https://javascript.info
+    - Javascript Tutorail From Scrimba - https://scrimba.com/learn/learnjavascript
+    - The odin project - https://www.theodinproject.com/paths/foundations/courses/foundations
+    
 - SASS :
     - W3Schools -  https://w3schools.com/sass
     - javatpoint - https://www.javatpoint.com/sass-tutorial
+    
 - Webpack :
     - Codeinwp - https://www.codeinwp.com/blog/webpack-tutorial-for-beginners 
 

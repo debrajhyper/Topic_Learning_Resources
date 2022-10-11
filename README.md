@@ -59,35 +59,35 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 📜 Official Documentations
 - 📱 Android Development :
-    - Guide - https://developer.android.com/guide
-    - Developers - https://developer.android.com/courses
+    - [Guide](https://developer.android.com/guide)
+    - [Developers](https://developer.android.com/courses)
 - 🌊 Frontend Development :
-    - SASS - https://sass-lang.com/documentation
-    - Webpack - https://webpack.js.org
+    - [SASS](https://sass-lang.com/documentation)
+    - [Webpack](https://webpack.js.org)
 - ⚡ Frontend Frameworks/Library :
-    - Ethers JS - https://docs.ethers.io/v5
-    - Tailwind CSS -  https://tailwindcss.com
-    - Chakra UI -  https://chakra-ui.com/getting-started
-    - Angular -  https://angular.io
-    - Vue JS - https://vuejs.org
-    - React JS -  https://beta.reactjs.org
-    - Next JS-  https://nextjs.org
-    - Svelte -  https://svelte.dev
+    - [Ethers JS](https://docs.ethers.io/v5)
+    - [Tailwind CSS](https://tailwindcss.com)
+    - [Chakra UI](https://chakra-ui.com/getting-started)
+    - [Angular](https://angular.io)
+    - [Vue JS](https://vuejs.org)
+    - [React JS](https://beta.reactjs.org)
+    - [Next JS](https://nextjs.org)
+    - [Svelte](https://svelte.dev)
 - 🌀 Backend Frameworks/Library :
-    - Flask - https://flask.palletsprojects.com
-    - Jinja - https://jinja.palletsprojects.com
-    - Django - https://docs.djangoproject.com/en/4.1
-    - FastAPI - https://fastapi.tiangolo.com
+    - [Flask](https://flask.palletsprojects.com)
+    - [Jinja](https://jinja.palletsprojects.com)
+    - [Django](https://docs.djangoproject.com/en/4.1)
+    - [FastAPI](https://fastapi.tiangolo.com)
 - ⛓ Blockchain Development :
-    - Ethereum Development - https://ethereum.org/en/developers/docs
+    - [Ethereum Development](https://ethereum.org/en/developers/docs)
 - 📟 Programming Languages :
-    - C# - https://learn.microsoft.com/en-us/dotnet/csharp
-    - GoLang - https://go.dev/doc
-    - Kotlin - https://kotlinlang.org/docs/home.html
-    - PHP - https://www.php.net/manual/en/index.php
-    - Rust - https://rust-lang.org/learn
-    - Perl - https://perldoc.perl.org
-    - TypeScript -  https://www.typescriptlang.org/docs/handbook/2/basic-types.html
+    - [C#](https://learn.microsoft.com/en-us/dotnet/csharp)
+    - [GoLang](https://go.dev/doc)
+    - [Kotlin](https://kotlinlang.org/docs/home.html)
+    - [PHP](https://www.php.net/manual/en/index.php)
+    - [Rust](https://rust-lang.org/learn)
+    - [Perl](https://perldoc.perl.org)
+    - [TypeScript](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 
 
 ## 📱 Android Documentations

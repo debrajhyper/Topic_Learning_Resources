@@ -27,15 +27,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## Table of Contents
 
 - [📃 Documentations Resources](#-documentations)
-    - [📜 Official Documentations](#📜-official-documentations)
-    - [📱 Android Documentations](#📱-android-documentations)
-    - [🌊 Frontend Documentations](#🌊-frontend-documentations)
-    - [⚡ Frontend Frameworks/Library Documentations](#⚡-frontend-frameworkslibrary-documentations)
-    - [🔁 Git & Github Documentations](#🔁-git--github-documentations)
-    - [⛓ Blockchain Documentations](#⛓-blockchain-documentations)
-    - [📟 Programming Languages Documentations](#📟-programming-languages-documentations)
-    - [👨🏻‍💻 Competitive Programming Documentations](#👨🏻‍💻-competitive-programming-documentations)
-    - [💥 Miscellaneous Documentations](#💥-miscellaneous-documentations)
+    - [📜 Official Documentations](#-official-documentations)
+    - [📱 Android Documentations](#-android-documentations)
+    - [🌊 Frontend Documentations](#-frontend-documentations)
+    - [⚡ Frontend Frameworks/Library Documentations](#-frontend-frameworkslibrary-documentations)
+    - [🔁 Git & Github Documentations](#-git--github-documentations)
+    - [⛓ Blockchain Documentations](#-blockchain-documentations)
+    - [📟 Programming Languages Documentations](#-programming-languages-documentations)
+    - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
+    - [💥 Miscellaneous Documentations](#-miscellaneous-documentations)
 - [💻 Video/Playlist Resources](#-videoplaylist)
     - [🧩 Block Programming](#-block-programming)
     - [💡 Artificial Intelligence](#-artificial-intelligence)
@@ -60,11 +60,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - 📱 Android Development :
     - Guide - https://developer.android.com/guide
     - Developers - https://developer.android.com/courses
-
 - 🌊 Frontend Development :
     - SASS - https://sass-lang.com/documentation
     - Webpack - https://webpack.js.org
-
 - ⚡ Frontend Frameworks/Library :
     - Ethers JS - https://docs.ethers.io/v5
     - Tailwind CSS -  https://tailwindcss.com
@@ -74,16 +72,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - React JS -  https://beta.reactjs.org
     - Next JS-  https://nextjs.org
     - Svelte -  https://svelte.dev
-
 - 🌀 Backend Frameworks/Library :
     - Flask - https://flask.palletsprojects.com
     - Jinja - https://jinja.palletsprojects.com
     - Django - https://docs.djangoproject.com/en/4.1
     - FastAPI - https://fastapi.tiangolo.com
-
 - ⛓ Blockchain Development :
     - Ethereum Development - https://ethereum.org/en/developers/docs
-
 - 📟 Programming Languages :
     - C# - https://learn.microsoft.com/en-us/dotnet/csharp
     - GoLang - https://go.dev/doc

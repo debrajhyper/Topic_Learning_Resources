@@ -52,7 +52,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [👩🏻‍💻 Programming](#-programming)
     - [🖥️ Competitive Programming Tutorials](#%EF%B8%8F-competitive-programming-tutorials)
 <br/>
-<br/>
 
 # 📃 Documentations
 

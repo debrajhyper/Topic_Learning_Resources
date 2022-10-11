@@ -103,61 +103,61 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🌊 Frontend Documentations
 - HTML :
-    - W3Schools - https://www.w3schools.com/html
-    - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
-    - Freecodecamp - https://www.freecodecamp.org/news/learn-html-beginners-course
+    - [W3Schools](https://www.w3schools.com/html)
+    - [TutorialsPoint](https://tutorialspoint.com/html/html_tutorial.pdf)
+    - [Freecodecamp](https://www.freecodecamp.org/news/learn-html-beginners-course)
     - `Bonus :`
-        - HTML Cheat Sheet - https://htmlcheatsheet.com
+        - [HTML Cheat Sheet](https://htmlcheatsheet.com)
 - CSS :
-    - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
-    - Scrimba - https://scrimba.com/learn/introtocss
-    - W3Schools - https://w3schools.com/css
-    - Web.Dev - https://web.dev/learn/css
-    - Visual Guide - https://cssreference.io
-    - Flexbox through game - https://flexboxfroggy.com
-    - Grid through game - https://cssgridgarden.com
+    - [CSS Animated Tutorial](https://joshwcomeau.com/tutorials/css)
+    - [Scrimba](https://scrimba.com/learn/introtocss)
+    - [W3Schools](https://w3schools.com/css)
+    - [Web.Dev](https://web.dev/learn/css)
+    - [Visual Guide](https://cssreference.io)
+    - [Flexbox through game](https://flexboxfroggy.com)
+    - [Grid through game](https://cssgridgarden.com)
     - `Bonus :`
-        - CSS Flexbox - https://flexbox.malven.co
-        - CSS Grid - https://grid.malven.co
-        - CSS Tricks - https://css-tricks.com
-        - Loading Animation - https://loading.io
+        - [CSS Flexbox](https://flexbox.malven.co)
+        - [CSS Grid](https://grid.malven.co)
+        - [CSS Tricks](https://css-tricks.com)
+        - [Loading Animation](https://loading.io)
         
 - HTML/CSS :
-    - Learn-HTML - https://learn-html.org
-    - FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
-    - The Odin Project - https://www.theodinproject.com/paths/foundations/courses/foundations
-    - Udemy Course - https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
+    - [Learn-HTML](https://learn-html.org)
+    - [FreecodeCamp responsive web design certification](https://freecodecamp.org/learn/responsive-web-design)
+    - [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+    - [Udemy Course](https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign)
 
 - JavaScript :
-    - FreecodeCamp JavaScript Algorithms and Data Structures certification - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-    - JavaScript Exercises (Beginner) - https://asmarterwaytolearn.com/js/index-of-exercises
-    - JavaScript (Advance) - https://edureka.co/blog/advanced-javascript-tutorial
-    - JS for Cats - https://jsforcats.com
-    - JavaScript Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
-    - JavaScript Info - https://javascript.info
-    - Javascript Tutorail From Scrimba - https://scrimba.com/learn/learnjavascript
-    - The odin project - https://www.theodinproject.com/paths/foundations/courses/foundations
-    - MDN Docs- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    - [FreecodeCamp JavaScript Algorithms and Data Structures certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+    - [JavaScript Exercises (Beginner)](https://asmarterwaytolearn.com/js/index-of-exercises)
+    - [JavaScript (Advance)](https://edureka.co/blog/advanced-javascript-tutorial)
+    - [JS for Cats](https://jsforcats.com)
+    - [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+    - [JavaScript Info](https://javascript.info)
+    - [Javascript Tutorail From Scrimba](https://scrimba.com/learn/learnjavascript)
+    - [The odin project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+    - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     
 - SASS :
-    - W3Schools -  https://w3schools.com/sass
-    - javatpoint - https://www.javatpoint.com/sass-tutorial
+    - [W3Schools](https://w3schools.com/sass)
+    - [javatpoint](https://www.javatpoint.com/sass-tutorial)
     
 - Webpack :
-    - Codeinwp - https://www.codeinwp.com/blog/webpack-tutorial-for-beginners 
+    - [Codeinwp](https://www.codeinwp.com/blog/webpack-tutorial-for-beginners)
 
 
 ## ⚡ Frontend Frameworks/Library Documentations
 - Bootstrap 4 :
-    - Scrimba -  https://scrimba.com/learn/bootstrap4
+    - [Scrimba](https://scrimba.com/learn/bootstrap4)
 - Bulma : 
-    - openbase -  https://openbase.io/js/bulma/tutorials
+    - [openbase](https://openbase.io/js/bulma/tutorials)
 - Angular (beginner) : 
-    - TekTutorialsHub - https://www.tektutorialshub.com/angular-tutorial
+    - [TekTutorialsHub](https://www.tektutorialshub.com/angular-tutorial)
  - Vue Js:
-    - Vue Mstery - https://www.vuemastery.com
-    - Mini-curso Vue Evolutio - https://evolutio.io/curso/minicurso_vuejs
-    - Learn Vue.co - https://learnvue.co/tutorials/template-refs 
+    - [Vue Mstery](https://www.vuemastery.com)
+    - [Mini-curso Vue Evolution](https://evolutio.io/curso/minicurso_vuejs)
+    - [Learn Vue.co](https://learnvue.co/tutorials/template-refs)
 
 
 ## 🔁 Git & Github Documentations

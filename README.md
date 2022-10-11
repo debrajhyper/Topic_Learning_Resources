@@ -91,14 +91,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 
 ## 📱 Android Documentations
-- Android Guids - https://github.com/codepath/android_guides/wiki
-- Codelabs (Google) - https://codelabs.developers.google.com/?cat=android&product=android
-- Jetpack Compose - https://foso.github.io/Jetpack-Compose-Playground
+- [Android Guids](https://github.com/codepath/android_guides/wiki)
+- [Codelabs (Google)](https://codelabs.developers.google.com/?cat=android&product=android)
+- [Jetpack Compose](https://foso.github.io/Jetpack-Compose-Playground)
 - Flutter : 
-    - Freecodecamp - https://www.freecodecamp.org/news/learn-flutter-full-course
-    - Angela Yu Flutter Course - https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart-13
+    - [Freecodecamp](https://www.freecodecamp.org/news/learn-flutter-full-course)
+    - [Angela Yu Flutter Course](https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart-13)
 - Kotlin :
-    - Udacity (Kotlin) - https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+    - [Udacity (Kotlin)](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
 
 ## 🌊 Frontend Documentations

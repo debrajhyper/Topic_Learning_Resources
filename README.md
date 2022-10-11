@@ -137,6 +137,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - JavaScript Info - https://javascript.info
     - Javascript Tutorail From Scrimba - https://scrimba.com/learn/learnjavascript
     - The odin project - https://www.theodinproject.com/paths/foundations/courses/foundations
+    - MDN Docs- https://developer.mozilla.org/en-US/docs/Web/JavaScript
     
 - SASS :
     - W3Schools -  https://w3schools.com/sass

@@ -175,7 +175,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [Stay up to date with the latest Ethereum development](https://weekinethereumnews.com/)
 - Ethereum
     - [Freecodecamp](https://www.freecodecamp.org/news/full-stack-ethereum-development)
-    - [Collection of resources about all things related to Ethereum](https://github.com/Scanate/EthList (this list is awesome but a little overwhelming)
+    - [Collection of resources about all things related to Ethereum](https://github.com/Scanate/EthList) (this list is awesome but a little overwhelming)
     - [Paradigm blog posts](https://www.paradigm.xyz)
     - [Paradigm blog posts](https://www.paradigm.xyz)
     - [Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf) (understand the white paper before attempting to read the yellow paper)

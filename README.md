@@ -279,6 +279,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
         - [Codeforces](https://codeforces.com/blog/entry/57282)
         - [Codeforces](https://codeforces.com/blog/entry/13529)
         - [Handbook](https://cses.fi/book/book.pdf)
+        - [Open Courses](https://github.com/prakhar1989/awesome-courses#algorithms)
 
 
 ## 💥 Miscellaneous Documentations

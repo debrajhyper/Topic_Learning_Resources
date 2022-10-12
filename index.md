@@ -1,18 +1,10 @@
-
-<div align="center">
-
 # Topic Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/debrajhyper)
-
-</div>
-<div align="center">
 
 ![Issues](https://img.shields.io/github/issues/debrajhyper/Topic_Learning_Resources?color=brightgreen)
 ![Pull requests](https://img.shields.io/github/issues-pr/debrajhyper/Topic_Learning_Resources?color=brigthgreen)
 ![forks](https://img.shields.io/github/forks/debrajhyper/Topic_Learning_Resources)
 ![stars](https://img.shields.io/github/stars/debrajhyper/Topic_Learning_Resources)
 ![license](https://img.shields.io/github/license/debrajhyper/Topic_Learning_Resources?color=orange)
-
-</div>
 
 This is an awesome project about various Learning resources. 📚
 

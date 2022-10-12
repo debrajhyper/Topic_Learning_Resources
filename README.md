@@ -26,33 +26,38 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Table of Contents
 
-- [📃 Documentations Resources](#-documentations)
-    - [📜 Official Documentations](#-official-documentations)
-    - [📱 Android Documentations](#-android-documentations)
-    - [🌊 Frontend Documentations](#-frontend-documentations)
-    - [⚡ Frontend Frameworks/Library Documentations](#-frontend-frameworkslibrary-documentations)
-    - [🔁 Git & Github Documentations](#-git--github-documentations)
-    - [⛓ Blockchain Documentations](#-blockchain-documentations)
-    - [📟 Programming Languages Documentations](#-programming-languages-documentations)
-    - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
-    - [💥 Miscellaneous Documentations](#-miscellaneous-documentations)
-- [💻 Video/Playlist Resources](#-videoplaylist)
-    - [🧩 Block Programming](#-block-programming)
-    - [💡 Artificial Intelligence](#-artificial-intelligence)
-    - [📈 Data Science](#-data-science)
-    - [🤖 Machine Learning](#-machine-learning)
-    - [📱 Android Development](#-android-development)
-    - [🌊 Frontend Development](#-frontend-development)
-    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-    - [🔥 Backend Development](#-backend-development)
-    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-    - [📂 Database](#-database)
-    - [🦄 Full Stack Development](#-full-stack-development)
-    - [⛓ Blockchain Development](#-blockchain-development)
-    - [📟 Programming Languages](#-programming-languages)
-    - [🎓 DSA](#-dsa)
-    - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
-    - [💥 Miscellaneous](#-miscellaneous)
+- [Topic Learning Resources ![Awesome](https://github.com/debrajhyper)](#topic-learning-resources-)
+  - [Table of Contents](#table-of-contents)
+- [📃 Documentations](#-documentations)
+  - [📜 Official Documentations](#-official-documentations)
+  - [📱 Android Documentations](#-android-documentations)
+  - [🌊 Frontend Documentations](#-frontend-documentations)
+  - [⚡ Frontend Frameworks/Library Documentations](#-frontend-frameworkslibrary-documentations)
+  - [🔁 Git & Github Documentations](#-git--github-documentations)
+  - [⛓ Blockchain Documentations](#-blockchain-documentations)
+  - [📟 Programming Languages Documentations](#-programming-languages-documentations)
+  - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
+  - [💥 Miscellaneous Documentations](#-miscellaneous-documentations)
+  - [DevOps Documentation](#devops-documentation)
+- [💻 Video/Playlist](#-videoplaylist)
+  - [🧩 Block Programming](#-block-programming)
+  - [💡 Artificial Intelligence](#-artificial-intelligence)
+  - [📈 Data Science](#-data-science)
+  - [🤖 Machine Learning](#-machine-learning)
+  - [📱 Android Development](#-android-development)
+  - [🌊 Frontend Development](#-frontend-development)
+  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+  - [🔥 Backend Development](#-backend-development)
+  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+  - [📂 Database](#-database)
+  - [🦄 Full Stack Development](#-full-stack-development)
+  - [⛓ Blockchain Development](#-blockchain-development)
+  - [📟 Programming Languages](#-programming-languages)
+  - [🎓 DSA](#-dsa)
+  - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
+  - [💥 Miscellaneous](#-miscellaneous)
+- [Thanks to all Contributors](#thanks-to-all-contributors)
+- [License](#license)
 <br/>
 
 # 📃 Documentations
@@ -286,8 +291,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [DevTools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
 - [PWA](https://developers.google.com/web/progressive-web-apps)
   
-
-<br/>
+## DevOps Documentation
+- [Roadmap](https://www.commclassroom.org/devops-roadmap?r_done=1)
+    <h3>aws</h3>
+- [AWS Ramp-Up Guide: Architect](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)
+- [AWS Whitepapers + Well architected Framework + FAQs](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 
 # 💻 Video/Playlist

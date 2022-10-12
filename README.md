@@ -268,7 +268,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [CP Handbook (pdf)](https://cses.fi/book.pdf)
     - [CP Algorithms](https://cp-algorithms.com)
     - [Usaco Guide](https://usaco.guide)
-    - [Book](http://comscigate.com/Books/contests/icpc.pdf)
+    - [Guide to the Programming Contests -by Nite Nimajneb](http://comscigate.com/Books/contests/icpc.pdf)
     - GeeksForGeeks : 
         - [Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide)
         - [Data Structures](https://www.geeksforgeeks.org/data-structures)

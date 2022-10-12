@@ -310,8 +310,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |
 | Convolutional Neural Networks for Visual Recognition | Stanford - YouTube         | [click here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                                                                                                                                                                                                       |
 | Deep Learning Specialization                         | DeepLearning.AI - Coursera | [click here](https://www.coursera.org/specializations/deep-learning)                                                                                                                                                                                                                         |
-| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) |
-| AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)                                                                                                                                                                                                   |
+| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)
+| AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)
 
 ## 📈 Data Science
 
@@ -400,6 +400,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Django             | FreeCodeCamp               | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Django             | CodeWithHarry              | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
 | Flask              | Corey Schafer              | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
+| GoLang             | FreeCodeCamp               | [click here](https://www.youtube.com/watch?v=jFfo23yIWac)                              |
 
 ## 📂 Database
 

@@ -59,231 +59,232 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 📜 Official Documentations
 - 📱 Android Development :
-    - Guide - https://developer.android.com/guide
-    - Developers - https://developer.android.com/courses
+    - [Guide](https://developer.android.com/guide)
+    - [Developers](https://developer.android.com/courses)
 - 🌊 Frontend Development :
-    - SASS - https://sass-lang.com/documentation
-    - Webpack - https://webpack.js.org
+    - [SASS](https://sass-lang.com/documentation)
+    - [Webpack](https://webpack.js.org)
 - ⚡ Frontend Frameworks/Library :
-    - Ethers JS - https://docs.ethers.io/v5
-    - Tailwind CSS -  https://tailwindcss.com
-    - Chakra UI -  https://chakra-ui.com/getting-started
-    - Angular -  https://angular.io
-    - Vue JS - https://vuejs.org
-    - React JS -  https://beta.reactjs.org
-    - Next JS-  https://nextjs.org
-    - Svelte -  https://svelte.dev
+    - [Ethers JS](https://docs.ethers.io/v5)
+    - [Tailwind CSS](https://tailwindcss.com)
+    - [Chakra UI](https://chakra-ui.com/getting-started)
+    - [Angular](https://angular.io)
+    - [Vue JS](https://vuejs.org)
+    - [React JS](https://beta.reactjs.org)
+    - [Next JS](https://nextjs.org)
+    - [Svelte](https://svelte.dev)
 - 🌀 Backend Frameworks/Library :
-    - Flask - https://flask.palletsprojects.com
-    - Jinja - https://jinja.palletsprojects.com
-    - Django - https://docs.djangoproject.com/en/4.1
-    - FastAPI - https://fastapi.tiangolo.com
+    - [Flask](https://flask.palletsprojects.com)
+    - [Jinja](https://jinja.palletsprojects.com)
+    - [Django](https://docs.djangoproject.com/en/4.1)
+    - [FastAPI](https://fastapi.tiangolo.com)
 - ⛓ Blockchain Development :
-    - Ethereum Development - https://ethereum.org/en/developers/docs
+    - [Ethereum Development](https://ethereum.org/en/developers/docs)
 - 📟 Programming Languages :
-    - C# - https://learn.microsoft.com/en-us/dotnet/csharp
-    - GoLang - https://go.dev/doc
-    - Kotlin - https://kotlinlang.org/docs/home.html
-    - PHP - https://www.php.net/manual/en/index.php
-    - Rust - https://rust-lang.org/learn
-    - Perl - https://perldoc.perl.org
-    - TypeScript -  https://www.typescriptlang.org/docs/handbook/2/basic-types.html
+    - [C#](https://learn.microsoft.com/en-us/dotnet/csharp)
+    - [GoLang](https://go.dev/doc)
+    - [Kotlin](https://kotlinlang.org/docs/home.html)
+    - [PHP](https://www.php.net/manual/en/index.php)
+    - [Rust](https://rust-lang.org/learn)
+    - [Perl](https://perldoc.perl.org)
+    - [TypeScript](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 
 
 ## 📱 Android Documentations
-- Android Guids - https://github.com/codepath/android_guides/wiki
-- Codelabs (Google) - https://codelabs.developers.google.com/?cat=android&product=android
-- Jetpack Compose - https://foso.github.io/Jetpack-Compose-Playground
+- [Android Guids](https://github.com/codepath/android_guides/wiki)
+- [Codelabs (Google)](https://codelabs.developers.google.com/?cat=android&product=android)
+- [Jetpack Compose](https://foso.github.io/Jetpack-Compose-Playground)
 - Flutter : 
-    - Freecodecamp - https://www.freecodecamp.org/news/learn-flutter-full-course
-    - Angela Yu Flutter Course - https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart-13
+    - [Freecodecamp](https://www.freecodecamp.org/news/learn-flutter-full-course)
+    - [Angela Yu Flutter Course](https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart-13)
 - Kotlin :
-    - Udacity (Kotlin) - https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+    - [Udacity (Kotlin)](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
 
 ## 🌊 Frontend Documentations
 - HTML :
-    - W3Schools - https://www.w3schools.com/html
-    - TutorialsPoint - https://tutorialspoint.com/html/html_tutorial.pdf
-    - Freecodecamp - https://www.freecodecamp.org/news/learn-html-beginners-course
+    - [W3Schools](https://www.w3schools.com/html)
+    - [TutorialsPoint](https://tutorialspoint.com/html/html_tutorial.pdf)
+    - [Freecodecamp](https://www.freecodecamp.org/news/learn-html-beginners-course)
     - `Bonus :`
-        - HTML Cheat Sheet - https://htmlcheatsheet.com
+        - [HTML Cheat Sheet](https://htmlcheatsheet.com)
 - CSS :
-    - CSS Animated Tutorial - https://joshwcomeau.com/tutorials/css
-    - Scrimba - https://scrimba.com/learn/introtocss
-    - W3Schools - https://w3schools.com/css
-    - Web.Dev - https://web.dev/learn/css
-    - Visual Guide - https://cssreference.io
-    - Flexbox through game - https://flexboxfroggy.com
-    - Grid through game - https://cssgridgarden.com
+    - [CSS Animated Tutorial](https://joshwcomeau.com/tutorials/css)
+    - [Scrimba](https://scrimba.com/learn/introtocss)
+    - [W3Schools](https://w3schools.com/css)
+    - [Web.Dev](https://web.dev/learn/css)
+    - [Visual Guide](https://cssreference.io)
+    - [Flexbox through game](https://flexboxfroggy.com)
+    - [Grid through game](https://cssgridgarden.com)
     - `Bonus :`
-        - CSS Flexbox - https://flexbox.malven.co
-        - CSS Grid - https://grid.malven.co
-        - CSS Tricks - https://css-tricks.com
-        - Loading Animation - https://loading.io
+        - [CSS Flexbox](https://flexbox.malven.co)
+        - [CSS Grid](https://grid.malven.co)
+        - [CSS Tricks](https://css-tricks.com)
+        - [Loading Animation](https://loading.io)
         
 - HTML/CSS :
-    - Learn-HTML - https://learn-html.org
-    - FreecodeCamp responsive web design certification - https://freecodecamp.org/learn/responsive-web-design
-    - The Odin Project - https://www.theodinproject.com/paths/foundations/courses/foundations
-    - Udemy Course - https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign
+    - [Learn-HTML](https://learn-html.org)
+    - [FreecodeCamp responsive web design certification](https://freecodecamp.org/learn/responsive-web-design)
+    - [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+    - [Udemy Course](https://udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-.kQm3jmcBuCh.MiOQl7t4Q&utm_medium=udemyads&utm_source=aff-campaign)
 
 - JavaScript :
-    - FreecodeCamp JavaScript Algorithms and Data Structures certification - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-    - JavaScript Exercises (Beginner) - https://asmarterwaytolearn.com/js/index-of-exercises
-    - JavaScript (Advance) - https://edureka.co/blog/advanced-javascript-tutorial
-    - JS for Cats - https://jsforcats.com
-    - JavaScript Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
-    - JavaScript Info - https://javascript.info
-    - Javascript Tutorail From Scrimba - https://scrimba.com/learn/learnjavascript
-    - The odin project - https://www.theodinproject.com/paths/foundations/courses/foundations
-    - MDN Docs- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    - [FreecodeCamp JavaScript Algorithms and Data Structures certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+    - [JavaScript Exercises (Beginner)](https://asmarterwaytolearn.com/js/index-of-exercises)
+    - [JavaScript (Advance)](https://edureka.co/blog/advanced-javascript-tutorial)
+    - [JS for Cats](https://jsforcats.com)
+    - [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+    - [JavaScript Info](https://javascript.info)
+    - [Javascript Tutorail From Scrimba](https://scrimba.com/learn/learnjavascript)
+    - [The odin project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+    - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     
 - SASS :
-    - W3Schools -  https://w3schools.com/sass
-    - javatpoint - https://www.javatpoint.com/sass-tutorial
+    - [W3Schools](https://w3schools.com/sass)
+    - [javatpoint](https://www.javatpoint.com/sass-tutorial)
     
 - Webpack :
-    - Codeinwp - https://www.codeinwp.com/blog/webpack-tutorial-for-beginners 
+    - [Codeinwp](https://www.codeinwp.com/blog/webpack-tutorial-for-beginners)
 
 
 ## ⚡ Frontend Frameworks/Library Documentations
 - Bootstrap 4 :
-    - Scrimba -  https://scrimba.com/learn/bootstrap4
+    - [Scrimba](https://scrimba.com/learn/bootstrap4)
 - Bulma : 
-    - openbase -  https://openbase.io/js/bulma/tutorials
+    - [openbase](https://openbase.io/js/bulma/tutorials)
 - Angular (beginner) : 
-    - TekTutorialsHub - https://www.tektutorialshub.com/angular-tutorial
+    - [TekTutorialsHub](https://www.tektutorialshub.com/angular-tutorial)
  - Vue Js:
-    - Vue Mstery - https://www.vuemastery.com
-    - Mini-curso Vue Evolutio - https://evolutio.io/curso/minicurso_vuejs
-    - Learn Vue.co - https://learnvue.co/tutorials/template-refs 
+    - [Vue Mstery](https://www.vuemastery.com)
+    - [Mini-curso Vue Evolution](https://evolutio.io/curso/minicurso_vuejs)
+    - [Learn Vue.co](https://learnvue.co/tutorials/template-refs)
 
 
 ## 🔁 Git & Github Documentations
-- Udacity - https://www.udacity.com/course/version-control-with-git--ud123
-- Git Branching Game - https://learngitbranching.js.org
+- [Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Git Branching Game](https://learngitbranching.js.org)
 - `Bonus :`
-    - Git Cheatsheet - https://education.github.com/git-cheat-sheet-education.pdf
+    - [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
 ## ⛓ Blockchain Documentations
 - Learn the basics
-    - Mastering Ethereum - https://github.com/ethereumbook/ethereumbook
-    - Build by participating at Ethereum hackathons - https://ethglobal.com
-    - Contribute to Gitcoin projects - https://gitcoin.co
-    - Stay up to date with the latest Ethereum development - https://weekinethereumnews.com/
+    - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+    - [Build by participating at Ethereum hackathons](https://ethglobal.com)
+    - [Contribute to Gitcoin projects](https://gitcoin.co)
+    - [Stay up to date with the latest Ethereum development](https://weekinethereumnews.com/)
 - Ethereum
-    - Freecodecamp - https://www.freecodecamp.org/news/full-stack-ethereum-development
-    - Collection of resources about all things related to Ethereum - https://github.com/Scanate/EthList (this list is awesome but a little overwhelming)
-    - Paradigm blog posts - https://www.paradigm.xyz
-    - Paradigm blog posts - https://www.paradigm.xyz
-    - Yellow paper - https://ethereum.github.io/yellowpaper/paper.pdf (understand the white paper before attempting to read the yellow paper).
+    - [Freecodecamp](https://www.freecodecamp.org/news/full-stack-ethereum-development)
+    - [Collection of resources about all things related to Ethereum](https://github.com/Scanate/EthList) (this list is awesome but a little overwhelming)
+    - [Paradigm blog posts](https://www.paradigm.xyz)
+    - [Paradigm blog posts](https://www.paradigm.xyz)
+    - [Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf) (understand the white paper before attempting to read the yellow paper)
 - Defi
-    - DeFi Roadmap - https://github.com/OffcierCia/DeFi-Developer-Road-Map 
+    - [DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - Learning about DeFi Protocols
-    - Uniswap whitepaper - https://hackmd.io/@HaydenAdams/HJ9jLsfTz?type=view
-    - Uniswap V1 - https://docs.uniswap.org/protocol/V1/introduction
-    - Uniswap V2 - https://uniswap.org/whitepaper.pdf
-    - Uniswap V3 - https://uniswap.org/whitepaper-v3.pdf
-    - Compound - https://compound.finance/docs
-    - Aave - https://docs.aave.com/developers/
+    - [Uniswap whitepaper](https://hackmd.io/@HaydenAdams/HJ9jLsfTz?type=view)
+    - [Uniswap V1](https://docs.uniswap.org/protocol/V1/introduction)
+    - [Uniswap V2](https://uniswap.org/whitepaper.pdf)
+    - [Uniswap V3](https://uniswap.org/whitepaper-v3.pdf)
+    - [Compound](https://compound.finance/docs)
+    - [Aave](https://docs.aave.com/developers/)
 - Smart Contracts Development (must read)
-    - Cryptozombies - https://cryptozombies.io/
-    - OpenZeppelin contracts - https://docs.openzeppelin.com/contracts/4.x/
-    - Solidity - https://docs.soliditylang.org/en/v0.8.9/
+    - [Cryptozombies](https://cryptozombies.io/)
+    - [OpenZeppelin contracts](https://docs.openzeppelin.com/contracts/4.x/)
+    - [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
 - Cairo
-    - The most complete Cairo reference with tutorials and exercises - https://www.cairo-lang.org/docs/ 
-    - Practical approach to Cairo - https://perama-v.github.io/cairo/by-example/
-    - White paper - https://eprint.iacr.org/2021/1063.pdf (optional, but gives deeper understanding)
-    - OpenZeppelin contracts - https://github.com/OpenZeppelin/cairo-contracts/
+    - [The most complete Cairo reference with tutorials and exercises](https://www.cairo-lang.org/docs/)
+    - [Practical approach to Cairo](https://perama-v.github.io/cairo/by-example/)
+    - [White paper](https://eprint.iacr.org/2021/1063.pdf (optional, but gives deeper understanding)
+    - [OpenZeppelin contracts](https://github.com/OpenZeppelin/cairo-contracts/)
 - MEV
-    - Flash Boys 2.0 - https://arxiv.org/abs/1904.05234
-    - Flashbots - https://github.com/flashbots/pm
-    - Ethereum is a Dark Forest -  https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff
+    - [Flash Boys 2.0](https://arxiv.org/abs/1904.05234)
+    - [Flashbots](https://github.com/flashbots/pm)
+    - [Ethereum is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
 - Build Blockchain Based Projects
-    - Buildspace - https://buildspace.so/
-    - LearnWeb3 - https://learnweb3.io/
+    - [Buildspace](https://buildspace.so/)
+    - [LearnWeb3](https://learnweb3.io/)
 
 
 ## 📟 Programming Languages Documentations
 - GoLang :
-    - Go by Example (Hands-on introduction to Go) - https://gobyexample.com
-    - Learn Go - https://www.learn-golang.org
+    - [Go by Example (Hands-on introduction to Go)](https://gobyexample.com)
+    - [Learn Go](https://www.learn-golang.org)
 - PHP :
-    - The Right Way - https://phptherightway.com
-    - W3Schools - https://www.w3schools.com/php
+    - [The Right Way](https://phptherightway.com)
+    - [W3Schools](https://www.w3schools.com/php)
 - Python :
-    - FreecodeCamp (Scientific Computing with Python) - https://freecodecamp.org/learn/scientific-computing-with-python
-    - Python for everybody (Dr. Chuck) - https://py4e.com
-    - Python Blog series (Aatmaj) - https://dev.to/aatmaj/series/13315
-    - Python Blog Series (Real Python) - https://realpython.com/python-basics
+    - [FreecodeCamp (Scientific Computing with Python)](https://freecodecamp.org/learn/scientific-computing-with-python)
+    - [Python for everybody (Dr. Chuck)](https://py4e.com)
+    - [Python Blog series (Aatmaj)](https://dev.to/aatmaj/series/13315)
+    - [Python Blog Series (Real Python)](https://realpython.com/python-basics)
 - Ruby : 
-    - Codecademy (Beginner) - https://codecademy.com/learn/learn-ruby
+    - [Codecademy (Beginner)](https://codecademy.com/learn/learn-ruby)
 - JavaScript :
-    - FreecodeCamp (JavaScript Algorithms and Data Structures) - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures
-    - Edureka (JavaScript Advance) - https://edureka.co/blog/advanced-javascript-tutorial
-    - JS for Cats - https://jsforcats.com
-    - MDN Web Docs - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
-    - JavaScript Info - https://javascript.info
-    - Scrimba - https://scrimba.com/learn/learnjavascript
-    - The odin project - https://www.theodinproject.com
+    - [FreecodeCamp (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+    - [Edureka (JavaScript Advance)](https://edureka.co/blog/advanced-javascript-tutorial)
+    - [JS for Cats](https://jsforcats.com)
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+    - [JavaScript Info](https://javascript.info)
+    - [Scrimba](https://scrimba.com/learn/learnjavascript)
+    - [The odin project](https://www.theodinproject.com)
     - `Bonus :`
-        - 30 Day Vanilla JS Coding Challenge - https://javascript30.com
+        - [30 Day Vanilla JS Coding Challenge](https://javascript30.com)
 - Java :
-    - w3 schools - https://www.w3schools.com/java/default.asp
-    - GeeksForGeeks - https://www.geeksforgeeks.org/java/
-    - Java Bootcamp (Kunal Kushwaha) - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
-    - JavaTpoint - https://www.javatpoint.com/java-tutorial
+    - [w3 schools](https://www.w3schools.com/java/default.asp)
+    - [GeeksForGeeks](https://www.geeksforgeeks.org/java/)
+    - [Java Bootcamp (Kunal Kushwaha)](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+    - [JavaTpoint](https://www.javatpoint.com/java-tutorial)
     - `Bonus :`
-        - Java-Projects-For-Beginners - https://github.com/KrishGaur1354/Java-Projects-for-Beginners
+        - [Java-Projects-For-Beginners](https://github.com/KrishGaur1354/Java-Projects-for-Beginners)
 - SQL :
-    - SQLZOO : https://sqlzoo.net/wiki/SQL_Tutorial
-    - SQL Easy (places to test the code) : https://www.sql-easy.com
-    - Exercises to practice : https://sqlbolt.com
-    - SQL Tutorial for Beginners : https://www.programiz.com/sql
+    - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+    - [SQL Easy (places to test the code)](https://www.sql-easy.com)
+    - [Exercises to practice](https://sqlbolt.com)
+    - [SQL Tutorial for Beginners](https://www.programiz.com/sql)
     - `Bonus :`
-        - Discover who is the murder with SQL : https://mystery.knightlab.com/,
+        - [Discover who is the murder with SQL](https://mystery.knightlab.com/)
 
 
 ## 👨🏻‍💻 Competitive Programming Documentations
 - Programming Contests and Practice
-    - CList : https://clist.by
-    - CodeForces : https://codeforces.com
-    - CodeChef : https://www.codechef.com
-    - TopCoder : https://www.topcoder.com
-    - AtCoder : https://atcoder.jp
-    - Hackerrank : https://www.hackerrank.com
-    - HackerEarth : https://www.hackerearth.com
-    - Google Kickstart : https://codingcompetitions.withgoogle.com/kickstart
-    - Google Code Jam - https://codingcompetitions.withgoogle.com/codejam
-    - ICPC Global : https://icpc.global
-    - LeetCode : https://leetcode.com
-    - GeeksForGeeks : https://www.geeksforgeeks.org
-    - A2OJ ladder (Practice) : https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
-    - Work@Tech : https://workat.tech/problem-solving/practice
-    - Tech Interview Handbook : https://www.techinterviewhandbook.org/grind75
-    - LintCode : https://www.lintcode.com/problem/?typeId=4
+    - [CList](https://clist.by)
+    - [CodeForces](https://codeforces.com)
+    - [CodeChef](https://www.codechef.com)
+    - [TopCoder](https://www.topcoder.com)
+    - [AtCoder](https://atcoder.jp)
+    - [Hackerrank](https://www.hackerrank.com)
+    - [HackerEarth](https://www.hackerearth.com)
+    - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+    - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+    - [ICPC Global](https://icpc.global)
+    - [LeetCode](https://leetcode.com)
+    - [GeeksForGeeks](https://www.geeksforgeeks.org)
+    - [A2OJ ladder (Practice)](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
+    - [Work@Tech](https://workat.tech/problem-solving/practice)
+    - [Tech Interview Handbook](https://www.techinterviewhandbook.org/grind75)
+    - [LintCode](https://www.lintcode.com/problem/?typeId=4)
 - Resources For CP
-    - CP Handbook (pdf) : https://cses.fi/book.pdf
-    - CP Algorithms : https://cp-algorithms.com
-    - Usaco Guide : https://usaco.guide
+    - [CP Handbook (pdf)](https://cses.fi/book.pdf)
+    - [CP Algorithms](https://cp-algorithms.com)
+    - [Usaco Guide](https://usaco.guide)
     - GeeksForGeeks : 
-        - Complete Guide - https://www.geeksforgeeks.org/competitive-programming-a-complete-guide
-        - Data Structures - https://www.geeksforgeeks.org/data-structures
-    - CodeForces Edu : https://codeforces.com/edu/courses
-    - C++ Tips and Tricks : https://codeforces.com/blog/entry/74684
-    - Roadmap : https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg
+        - [Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide)
+        - [Data Structures](https://www.geeksforgeeks.org/data-structures)
+    - [CodeForces Edu](https://codeforces.com/edu/courses)
+    - [C++ Tips and Tricks](https://codeforces.com/blog/entry/74684)
+    - [Roadmap](https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg)
     - List of other useful resources : 
-        - Codeforces - https://codeforces.com/blog/entry/91363
-        - Codeforces - https://codeforces.com/blog/entry/57282
-        - Codeforces - https://codeforces.com/blog/entry/13529 
-        - Handbook - https://cses.fi/book/book.pdf
+        - [Codeforces](https://codeforces.com/blog/entry/91363)
+        - [Codeforces](https://codeforces.com/blog/entry/57282)
+        - [Codeforces](https://codeforces.com/blog/entry/13529)
+        - [Handbook](https://cses.fi/book/book.pdf)
+        - [Open Courses](https://github.com/prakhar1989/awesome-courses#algorithms)
 
 
 ## 💥 Miscellaneous Documentations
-- DevTools - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
-- PWA - https://developers.google.com/web/progressive-web-apps
+- [DevTools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+- [PWA](https://developers.google.com/web/progressive-web-apps)
   
 
 <br/>

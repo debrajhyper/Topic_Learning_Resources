@@ -481,6 +481,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Beginner Topics For CP | COPS IIT-(BHU)           | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6)            |
 | C++ STL                | Utkatsh Gupta            | [click here](https://youtu.be/PZogbfU4X5E)                                                        |
 | C++ STL(Full Course)   | Luv                      | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)            |
+| Streams                | Geothermal               | [click here](https://www.youtube.com/channel/UCpUTNKWxw9p4nOvekiIRWow)                            |
+| Streams                | Neal Wu                  | [click here](https://www.youtube.com/c/NealWuProgramming)                                         |
+| Streams                | SecondThread             | [click here](https://www.youtube.com/c/SecondThread)                                              |
+| Streams                | William Lin              | [click here](https://www.youtube.com/c/WilliamLin168)                                             |
+| Number Theory          | CodeNCode                | [click here](https://youtube.com/playlist?list=PL5DyztRVgtRWblnyEHtajWijQffrfwLz6)                |
+| Algorithms (hard)      | Algorithms Live          | [click here](https://www.youtube.com/c/AlgorithmsLive/featured)                                   |
+
+
 
 ## 💥 Miscellaneous
 

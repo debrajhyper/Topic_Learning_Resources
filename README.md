@@ -35,6 +35,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [⛓ Blockchain Documentations](#-blockchain-documentations)
     - [📟 Programming Languages Documentations](#-programming-languages-documentations)
     - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
+    - [👨🏻‍💻 Open Source Resources](#-open-source-documentations)
     - [💥 Miscellaneous Documentations](#-miscellaneous-documentations)
 - [💻 Video/Playlist Resources](#-videoplaylist)
     - [🧩 Block Programming](#-block-programming)
@@ -52,6 +53,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📟 Programming Languages](#-programming-languages)
     - [🎓 DSA](#-dsa)
     - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
+    - [👨🏻‍💻 Open Source](#-open-source)
     - [💥 Miscellaneous](#-miscellaneous)
 <br/>
 
@@ -282,7 +284,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
         - [Handbook](https://cses.fi/book/book.pdf)
         - [Open Courses](https://github.com/prakhar1989/awesome-courses#algorithms)
 
-## 👨🏻‍💻 Open Source Resources
+## 👨🏻‍💻 Open Source Documentations
 - What is Open Source
     - [Resource 1](https://opensource.com/resources/what-open-source)
     - [Resource 2](https://www.redhat.com/en/topics/open-source/what-is-open-source)
@@ -517,6 +519,17 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Number Theory          | CodeNCode                | [click here](https://youtube.com/playlist?list=PL5DyztRVgtRWblnyEHtajWijQffrfwLz6)                |
 | Algorithms (hard)      | Algorithms Live          | [click here](https://www.youtube.com/c/AlgorithmsLive/featured)                                   |
 
+## 👨🏻‍💻 Open Source
+
+| TOPIC                    | SOURCE NAME           | LINK                                                                                   |
+| ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
+| What is Open Source      | Community classromm   | [click here](https://www.youtube.com/watch?v=msyGybzCKRs)                              |
+| What is Open Source      | Mozzilla              | [click here](https://www.youtube.com/watch?v=7c0IrsDsNaw)                              |
+| Complete guide           | freeCodeCamp          | [click here](https://www.youtube.com/watch?v=yzeVMecydCE)                              |
+| Getting started          | Traversy Media        | [click here](https://www.youtube.com/watch?v=3HqN-YS8eso)                              |
+| How to start             | Gaurav Sen            | [click here](https://www.youtube.com/watch?v=Tq4RZ-JH6aM)                              |
+| Git tutorial             | Kunal Kushwaha        | [click here](https://www.youtube.com/watch?v=Tq4RZ-JH6aM)                              |
+| Ethics in communities    | Microsoft             | [click here](https://www.youtube.com/watch?v=9BNSwKNadx4)                              |
 
 
 ## 💥 Miscellaneous

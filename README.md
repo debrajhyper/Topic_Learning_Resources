@@ -543,19 +543,19 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🎯 DevRel
 
-| TOPIC                   | SOURCE NAME         | LINK                                       |
-| ----------------------- | ------------------- | ------------------------------------------ |
-| Why?                    | Women who code      | [click here](https://youtu.be/lZvf5Tm4nSo) |
-| Developer Advocacy      | Kunal Kushwaha      | [click here](https://youtu.be/MKztZJODyxY) |
-| Roadmap                 | Brad McCoy          | [click here](https://youtu.be/_SSCZkSitlc) |
-| How?                    | Eddie Jaoude        | [click here](https://youtu.be/iUZerHctTB8) |
-| How to Get hired?       | Dev Rel             | [click here](https://youtu.be/VbM-Ii2HLoA) |
-| Public speaking         | Chris Anderson      | [click here](https://youtu.be/-FOCpMAww28) |
-| Best Practices          | Kunal Kushwaha      | [click here](https://youtu.be/mTsMaxkQ42I) |
-| Learning in Public      | Kunal Kushwaha      | [click here](https://youtu.be/d8AJEXmOBnI) |
-| Technical Blogging      | FreeCodeCamp Talks  | [click here](https://youtu.be/YODPgBadj80) |
-| Community Management    | Community classroom | [click here](https://youtu.be/bnEIt1MyhDY) |
-| 25+ Open Source Programs| Kunal Kushwaha      | [click here](https://youtu.be/x4hsV_q_YQc) |
+| TOPIC                    | SOURCE NAME         | LINK                                       |
+| ------------------------ | ------------------- | ------------------------------------------ |
+| Why?                     | Women who code      | [click here](https://youtu.be/lZvf5Tm4nSo) |
+| Developer Advocacy       | Kunal Kushwaha      | [click here](https://youtu.be/MKztZJODyxY) |
+| Roadmap                  | Brad McCoy          | [click here](https://youtu.be/_SSCZkSitlc) |
+| How?                     | Eddie Jaoude        | [click here](https://youtu.be/iUZerHctTB8) |
+| How to Get hired?        | Dev Rel             | [click here](https://youtu.be/VbM-Ii2HLoA) |
+| Public speaking          | Chris Anderson      | [click here](https://youtu.be/-FOCpMAww28) |
+| Best Practices           | Kunal Kushwaha      | [click here](https://youtu.be/mTsMaxkQ42I) |
+| Learning in Public       | Kunal Kushwaha      | [click here](https://youtu.be/d8AJEXmOBnI) |
+| Technical Blogging       | FreeCodeCamp Talks  | [click here](https://youtu.be/YODPgBadj80) |
+| Community Management     | Community classroom | [click here](https://youtu.be/bnEIt1MyhDY) |
+| 25+ Open Source Programs | Kunal Kushwaha      | [click here](https://youtu.be/x4hsV_q_YQc) |
 
 ## 💥 Miscellaneous
 

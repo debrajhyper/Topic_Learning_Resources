@@ -282,6 +282,35 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
         - [Handbook](https://cses.fi/book/book.pdf)
         - [Open Courses](https://github.com/prakhar1989/awesome-courses#algorithms)
 
+## 👨🏻‍💻 Open Source Resources
+- What is Open Source
+    - [Resource 1](https://opensource.com/resources/what-open-source)
+    - [Resource 2](https://www.redhat.com/en/topics/open-source/what-is-open-source)
+    - [Resource 3](https://en.wikipedia.org/wiki/Open-source_software)
+    - [Open source guide](https://opensource.guide/)
+
+- Getting started
+    - [How to Contribute to Open Source Projects – beginner friendly](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+    - [14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star](https://smartbear.com/blog/14-ways-to-contribute-to-open-source-without-being/)
+
+- Learning Git(version control system)
+    - [Git documentation](https://git-scm.com/doc)
+
+- Creating your first open source project
+    - [Creating a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+    - [How to Start an Open Source Project on GitHub](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/)
+    - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+
+- Contributing to open source projects
+    - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+    - [How to contribute to and maintain open source projects with GitHub](https://www.oswc.is/search-projects)
+
+- 25+ paid open source programs and internships
+    - [Resource 1](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
+
+- Learning open source values & ethics
+    - [Ethics for open source  values and ethics](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/)
+    
 
 ## 💥 Miscellaneous Documentations
 - [DevTools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)

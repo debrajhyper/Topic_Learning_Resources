@@ -36,6 +36,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📟 Programming Languages Documentations](#-programming-languages-documentations)
     - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
     - [🎯 Open Source Documentations](#-open-source-documentations)
+    - [🎯 DevRel Documentations](#-devrel-documentations)
     - [💥 Miscellaneous Documentations](#-miscellaneous-documentations)
 - [💻 Video/Playlist Resources](#-videoplaylist)
     - [🧩 Block Programming](#-block-programming)
@@ -54,6 +55,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🎓 DSA](#-dsa)
     - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
     - [🎯 Open Source](#-open-source)
+    - [🎯 DevRel](#-devrel)
     - [💥 Miscellaneous](#-miscellaneous)
 <br/>
 
@@ -309,6 +311,17 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Learning open source values & ethics
     - [Ethics for open source  values and ethics](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/)
     
+## 🎯 DevRel Documentations
+- All about DevRel
+    - [Resource 1](https://devrel.co/about/)
+- [Articles and Blogs](https://www.commonroom.io/)
+- Participate in community events(Twitter spaces, community hangouts, etc)
+- Personal Branding
+    - [How to Build a Personal Brand for Your Tech Career](https://careerfoundry.com/en/blog/career-change/personal-branding/)
+    - [Helping you to build your Personal Brand in Tech](https://dev.to/vinzvinci/helping-you-to-build-your-personal-brand-in-tech-35df)
+- [25+ paid open source programs and internships](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
+
+
 
 ## 💥 Miscellaneous Documentations
 - [DevTools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
@@ -527,6 +540,22 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Git tutorial          | Kunal Kushwaha      | [click here](https://www.youtube.com/watch?v=Tq4RZ-JH6aM) |
 | Ethics in communities | Microsoft           | [click here](https://www.youtube.com/watch?v=9BNSwKNadx4) |
 
+
+## 🎯 DevRel
+
+| TOPIC                   | SOURCE NAME         | LINK                                       |
+| ----------------------- | ------------------- | ------------------------------------------ |
+| Why?                    | Women who code      | [click here](https://youtu.be/lZvf5Tm4nSo) |
+| Developer Advocacy      | Kunal Kushwaha      | [click here](https://youtu.be/MKztZJODyxY) |
+| Roadmap                 | Brad McCoy          | [click here](https://youtu.be/_SSCZkSitlc) |
+| How?                    | Eddie Jaoude        | [click here](https://youtu.be/iUZerHctTB8) |
+| How to Get hired?       | Dev Rel             | [click here](https://youtu.be/VbM-Ii2HLoA) |
+| Public speaking         | Chris Anderson      | [click here](https://youtu.be/-FOCpMAww28) |
+| Best Practices          | Kunal Kushwaha      | [click here](https://youtu.be/mTsMaxkQ42I) |
+| Learning in Public      | Kunal Kushwaha      | [click here](https://youtu.be/d8AJEXmOBnI) |
+| Technical Blogging      | FreeCodeCamp Talks  | [click here](https://youtu.be/YODPgBadj80) |
+| Community Management    | Community classroom | [click here](https://youtu.be/bnEIt1MyhDY) |
+| 25+ Open Source Programs| Kunal Kushwaha      | [click here](https://youtu.be/x4hsV_q_YQc) |
 
 ## 💥 Miscellaneous
 

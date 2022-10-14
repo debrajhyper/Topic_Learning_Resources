@@ -266,6 +266,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [Work@Tech](https://workat.tech/problem-solving/practice)
     - [Tech Interview Handbook](https://www.techinterviewhandbook.org/grind75)
     - [LintCode](https://www.lintcode.com/problem/?typeId=4)
+    - [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup)
+    - [CSES ProblemSet](https://cses.fi/)
+    - [Timus Online Judge](https://acm.timus.ru/)
+    - [Project Euler](https://projecteuler.net/archives)
+    - [SPOJ](https://www.spoj.com/)
+    - [Uva Online Judge](https://onlinejudge.org/)
 - Resources For CP
     - [CP Handbook (pdf)](https://cses.fi/book.pdf)
     - [CP Algorithms](https://cp-algorithms.com)

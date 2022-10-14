@@ -45,7 +45,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📱 Android Development](#-android-development)
     - [🌊 Frontend Development](#-frontend-development)
     - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-    - [✒️ UI Development](#-ui-development)
+    - [✒️ UI Development](#%EF%B8%8F-ui-development)
     - [🔥 Backend Development](#-backend-development)
     - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
     - [📂 Database](#-database)

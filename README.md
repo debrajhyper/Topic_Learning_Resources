@@ -176,12 +176,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     
     
 ## 🎭 CyberSecurity Tools Documentations
-- [tcpdump] (https://www.tcpdump.org/index.html#documentation)
-- [Wireshark] (https://www.wireshark.org/docs/)
-- [Kali Linux] (https://www.kali.org/docs/)
-- [Metasploit] (https://docs.metasploit.com/)
-- [Nmap] (https://nmap.org/docs.html)
-- [Tor Browser] (https://2019.www.torproject.org/docs/documentation.html.en)
+- [tcpdump](https://www.tcpdump.org/index.html#documentation)
+- [Wireshark](https://www.wireshark.org/docs/)
+- [Kali Linux](https://www.kali.org/docs/)
+- [Metasploit](https://docs.metasploit.com/)
+- [Nmap](https://nmap.org/docs.html)
+- [Tor Browser](https://2019.www.torproject.org/docs/documentation.html.en)
 
 
 ## ⛓ Blockchain Documentations
@@ -490,14 +490,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🎭 CyberSecurity Tools
 
-| TOPIC       | SOURCE NAME      | LINK                                                       |
-| ----------- | ---------------- | ---------------------------------------------------------- |
-| Tcpdump     | HackerSploit     | [click here](https://www.youtube.com/watch?v=1lDfCRM6dWk)  |
-| Wireshark   | Vinsloev Academy | [click here]((https://www.youtube.com/watch?v=lb1Dw0elw0Q) |
-| Kali Linux  | Simplilearn      | [click here](https://www.youtube.com/watch?v=psyDZ9ytlwc)  |
-| Metasploit  | HackerSploit     | [click here](https://www.youtube.com/watch?v=8lR27r8Y_ik)  |
-| Nmpap       | HackerSploit     | [click here](https://www.youtube.com/watch?v=5MTZdN9TEO4)  |
-| Tor Browser | Lawrence Systems | [click here](https://www.youtube.com/watch?v=EczKNBikP_Y)  |
+| TOPIC       | SOURCE NAME      | LINK                                                      |
+| ----------- | ---------------- | --------------------------------------------------------- |
+| Tcpdump     | HackerSploit     | [click here](https://www.youtube.com/watch?v=1lDfCRM6dWk) |
+| Wireshark   | Vinsloev Academy | [click here](https://www.youtube.com/watch?v=lb1Dw0elw0Q) |
+| Kali Linux  | Simplilearn      | [click here](https://www.youtube.com/watch?v=psyDZ9ytlwc) |
+| Metasploit  | HackerSploit     | [click here](https://www.youtube.com/watch?v=8lR27r8Y_ik) |
+| Nmpap       | HackerSploit     | [click here](https://www.youtube.com/watch?v=5MTZdN9TEO4) |
+| Tor Browser | Lawrence Systems | [click here](https://www.youtube.com/watch?v=EczKNBikP_Y) |
 
 ## ⛓ Blockchain Development
 

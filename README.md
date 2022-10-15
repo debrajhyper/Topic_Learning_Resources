@@ -32,7 +32,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🌊 Frontend Documentations](#-frontend-documentations)
     - [⚡ Frontend Frameworks/Library Documentations](#-frontend-frameworkslibrary-documentations)
     - [🔁 Git & Github Documentations](#-git--github-documentations)
-    - [🎭 CyberSecurity Tools Documentations](#-cyberSecurity-tools-documentations)
+    - [🎭 CyberSecurity Tools Documentations](#-cybersecurity-tools-documentations)
     - [⛓ Blockchain Documentations](#-blockchain-documentations)
     - [📟 Programming Languages Documentations](#-programming-languages-documentations)
     - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
@@ -45,14 +45,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📈 Data Science](#-data-science)
     - [🤖 Machine Learning](#-machine-learning)
     - [📱 Android Development](#-android-development)
+    - [✒️ UI Development](#%EF%B8%8F-ui-development)
     - [🌊 Frontend Development](#-frontend-development)
     - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-    - [✒️ UI Development](#%EF%B8%8F-ui-development)
     - [🔥 Backend Development](#-backend-development)
     - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
     - [📂 Database](#-database)
     - [🦄 Full Stack Development](#-full-stack-development)
-    - [🎭 CyberSecurity Tools](#-cyberSecurity-tools)
+    - [🎭 CyberSecurity Tools](#-cybersecurity-tools)
     - [⛓ Blockchain Development](#-blockchain-development)
     - [📟 Programming Languages](#-programming-languages)
     - [🎓 DSA](#-dsa)
@@ -401,6 +401,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ------------------ | -------------- | ------------------------------------------------------------------------------------------------- |
 | Flutter (Beginner) | Johannes Milke | [click here](https://www.youtube.com/watch?v=g8Y1Eqa4pbc&list=PL1WkZqhlAdC_Tr3GFYq3W0KYfX49_FiNA) |
 
+## ✒️ UI Development
+
+| TOPIC                          | SOURCE NAME    | LINK                                                                               |
+| ------------------------------ | -------------- | ---------------------------------------------------------------------------------- |
+| Adobe XD (Beginner to Advance) | Pelfizz Studio | [click here](https://youtube.com/playlist?list=PLuRPummNMvIN43IBo1EltezV2ngqYz5T6) |
+| Figma (Beginner to Advance)    | Pelfizz Studio | [click here](https://youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq) |
+| Adobe Illustrator (Beginner)   | GFXMentor      | [click here](https://youtube.com/playlist?list=PLW-zSkCnZ-gCq0DjkzY-YapCBEk0lA6lR) |
+| React Material UI (Beginner)   | Codevolution   | [click here](https://youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO) |
+
 ## 🌊 Frontend Development
 
 | TOPIC                              | SOURCE NAME           | LINK                                                                                   |
@@ -437,15 +446,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
 | Vue JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
 | Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
-
-## ✒️ UI Development
-
-| TOPIC                          | SOURCE NAME       | LINK                                                                                   |
-| ------------------------------ | ----------------- | -------------------------------------------------------------------------------------- |
-| Adobe XD (Beginner to Advance  | Pelfizz Studio    | [click here](https://youtube.com/playlist?list=PLuRPummNMvIN43IBo1EltezV2ngqYz5T6)     |
-| Figma (Beginner to Advance)    | Pelfizz Studio    | [click here](https://youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq)     |
-| Adobe Illustrator (Beginner)   | GFXMentor         | [click here](https://youtube.com/playlist?list=PLW-zSkCnZ-gCq0DjkzY-YapCBEk0lA6lR)     |
-| React Material UI (Beginner)   | Codevolution      | [click here](https://youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO)     |
 
 ## 🔥 Backend Development
 

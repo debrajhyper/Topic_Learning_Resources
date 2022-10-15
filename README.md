@@ -167,6 +167,35 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [Mini-curso Vue Evolution](https://evolutio.io/curso/minicurso_vuejs)
     - [Learn Vue.co](https://learnvue.co/tutorials/template-refs)
 
+## 🎯 Frameworks/Library Doc
+- Angular : Doc -  https://angular.io
+- Bootstrap 4 : Scrimba -  https://scrimba.com/learn/bootstrap4
+- Bulma : openbase -  https://openbase.io/js/bulma/tutorials
+- Chakra UI : Doc -  https://chakra-ui.com/getting-started
+- Ethers JS : Doc - https://docs.ethers.io/v5
+- Flask : Doc - https://flask.palletsprojects.com
+- Jinja : Doc - https://jinja.palletsprojects.com
+- Material UI : Doc -  https://mui.com
+- Next : Doc -  https://nextjs.org
+- React JS : Doc -  https://reactjs.org/docs/hello-world
+- Svelte : Doc -  https://svelte.dev
+- TailwindCSS : Doc -  https://tailwindcss.com
+- Vue : Doc - https://vuejs.org
+- Angular for beginner : TekTutorialsHub - https://www.tektutorialshub.com/angular-tutorial/
+- Django : Doc - https://docs.djangoproject.com/en/4.1/
+- FastAPI : Doc - https://fastapi.tiangolo.com/
+ 
+## 📄 Misc Doc
+- DevTools :  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
+- PWA :  https://developers.google.com/web/progressive-web-apps
+
+## 👩‍💻 Programming Doc 
+- C Language:
+    - Official Doc - https://devdocs.io/c/
+    - Learn-C - https://www.learn-c.org/
+    - BeginnersPoint - https://beginnerspointuemk.000webhostapp.com
+- C# :
+    - Official Doc - https://learn.microsoft.com/en-us/dotnet/csharp
 
 ## 🔁 Git & Github Documentations
 - [Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
@@ -182,7 +211,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Metasploit](https://docs.metasploit.com/)
 - [Nmap](https://nmap.org/docs.html)
 - [Tor Browser](https://2019.www.torproject.org/docs/documentation.html.en)
-
 
 ## ⛓ Blockchain Documentations
 - Learn the basics
@@ -224,6 +252,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 
 ## 📟 Programming Languages Documentations
+
 - GoLang :
     - [Go by Example (Hands-on introduction to Go)](https://gobyexample.com)
     - [Learn Go](https://www.learn-golang.org)

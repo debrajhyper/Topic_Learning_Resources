@@ -56,6 +56,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
     - [🎯 Open Source](#-open-source)
     - [💥 Miscellaneous](#-miscellaneous)
+    - [☠ CyberSecurity Tools] (#-sybersecurity-tools)
 <br/>
 
 # 📃 Documentations
@@ -320,6 +321,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## 💥 Miscellaneous Documentations
 - [DevTools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
 - [PWA](https://developers.google.com/web/progressive-web-apps)
+
+## ☠ CyberSecurity Tools Documentations
+- [tcpdump] (https://www.tcpdump.org/index.html#documentation)
+- [Wireshark] (https://www.wireshark.org/docs/)
+- [Kali Linux] (https://www.kali.org/docs/)
+- [Metasploit] (https://docs.metasploit.com/)
+- [Nmap] (https://nmap.org/docs.html)
+- [Tor Browser] (https://2019.www.torproject.org/docs/documentation.html.en)
   
 
 <br/>
@@ -552,6 +561,17 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Ethics         | CS50           | [click here](https://youtu.be/eNxMn7slmwI)                                             |
 | Cookies        | Hussein Nasser | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
 | Security       | CS50           | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
+
+## ☠ CyberSecurity Tools
+
+| TOPIC          | SOURCE NAME      | LINK                                                                                   |
+| -------------- | ---------------- | -------------------------------------------------------------------------------------- |
+| Tcpdump        | HackerSploit     | [click here](https://www.youtube.com/watch?v=1lDfCRM6dWk)                              |
+| Wireshark      | Vinsloev Academy | [click here]((https://www.youtube.com/watch?v=lb1Dw0elw0Q)                             |
+| Kali Linux     | Simplilearn      | [click here](https://www.youtube.com/watch?v=psyDZ9ytlwc)                              |
+| Metasploit     | HackerSploit     | [click here](https://www.youtube.com/watch?v=8lR27r8Y_ik)                              |
+| Nmpap          | HackerSploit     | [click here](https://www.youtube.com/watch?v=5MTZdN9TEO4)                              |
+| Tor Browser    | Lawrence Systems | [click here](https://www.youtube.com/watch?v=EczKNBikP_Y)                              |
 
 <br/>
 <br/>

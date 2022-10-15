@@ -32,11 +32,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🌊 Frontend Documentations](#-frontend-documentations)
     - [⚡ Frontend Frameworks/Library Documentations](#-frontend-frameworkslibrary-documentations)
     - [🔁 Git & Github Documentations](#-git--github-documentations)
+    - [🎭 CyberSecurity Tools Documentations](#-cyberSecurity-tools-documentations)
     - [⛓ Blockchain Documentations](#-blockchain-documentations)
     - [📟 Programming Languages Documentations](#-programming-languages-documentations)
     - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
     - [🎯 Open Source Documentations](#-open-source-documentations)
-    - [🎯 DevRel Documentations](#-devrel-documentations)
+    - [🔐 DevRel Documentations](#-devrel-documentations)
     - [💥 Miscellaneous Documentations](#-miscellaneous-documentations)
 - [💻 Video/Playlist Resources](#-videoplaylist)
     - [🧩 Block Programming](#-block-programming)
@@ -51,14 +52,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
     - [📂 Database](#-database)
     - [🦄 Full Stack Development](#-full-stack-development)
+    - [🎭 CyberSecurity Tools](#-cyberSecurity-tools)
     - [⛓ Blockchain Development](#-blockchain-development)
     - [📟 Programming Languages](#-programming-languages)
     - [🎓 DSA](#-dsa)
     - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
     - [🎯 Open Source](#-open-source)
-    - [🎯 DevRel](#-devrel)
+    - [🔐 DevRel](#-devrel)
     - [💥 Miscellaneous](#-miscellaneous)
-    - [☠ CyberSecurity Tools] (#-sybersecurity-tools)
+    
 <br/>
 
 # 📃 Documentations
@@ -171,6 +173,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Git Branching Game](https://learngitbranching.js.org)
 - `Bonus :`
     - [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+    
+    
+## 🎭 CyberSecurity Tools Documentations
+- [tcpdump] (https://www.tcpdump.org/index.html#documentation)
+- [Wireshark] (https://www.wireshark.org/docs/)
+- [Kali Linux] (https://www.kali.org/docs/)
+- [Metasploit] (https://docs.metasploit.com/)
+- [Nmap] (https://nmap.org/docs.html)
+- [Tor Browser] (https://2019.www.torproject.org/docs/documentation.html.en)
 
 
 ## ⛓ Blockchain Documentations
@@ -319,7 +330,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Learning open source values & ethics
     - [Ethics for open source  values and ethics](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/)
     
-## 🎯 DevRel Documentations
+    
+## 🔐 DevRel Documentations
 - All about DevRel
     - [Resource 1](https://devrel.co/about/)
 - [Articles and Blogs](https://www.commonroom.io/)
@@ -330,18 +342,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [25+ paid open source programs and internships](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
 
 
-
 ## 💥 Miscellaneous Documentations
 - [DevTools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
 - [PWA](https://developers.google.com/web/progressive-web-apps)
-
-## ☠ CyberSecurity Tools Documentations
-- [tcpdump] (https://www.tcpdump.org/index.html#documentation)
-- [Wireshark] (https://www.wireshark.org/docs/)
-- [Kali Linux] (https://www.kali.org/docs/)
-- [Metasploit] (https://docs.metasploit.com/)
-- [Nmap] (https://nmap.org/docs.html)
-- [Tor Browser] (https://2019.www.torproject.org/docs/documentation.html.en)
   
 
 <br/>
@@ -485,6 +488,17 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ------------------- | ------------ | ------------------------------------------ |
 | Web Dev full course | Codedamn     | [click here](https://youtu.be/ZxKM3DCV2kE) |
 
+## 🎭 CyberSecurity Tools
+
+| TOPIC       | SOURCE NAME      | LINK                                                       |
+| ----------- | ---------------- | ---------------------------------------------------------- |
+| Tcpdump     | HackerSploit     | [click here](https://www.youtube.com/watch?v=1lDfCRM6dWk)  |
+| Wireshark   | Vinsloev Academy | [click here]((https://www.youtube.com/watch?v=lb1Dw0elw0Q) |
+| Kali Linux  | Simplilearn      | [click here](https://www.youtube.com/watch?v=psyDZ9ytlwc)  |
+| Metasploit  | HackerSploit     | [click here](https://www.youtube.com/watch?v=8lR27r8Y_ik)  |
+| Nmpap       | HackerSploit     | [click here](https://www.youtube.com/watch?v=5MTZdN9TEO4)  |
+| Tor Browser | Lawrence Systems | [click here](https://www.youtube.com/watch?v=EczKNBikP_Y)  |
+
 ## ⛓ Blockchain Development
 
 | TOPIC                    | SOURCE NAME   | LINK                                                                                            |
@@ -566,7 +580,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Ethics in communities | Microsoft           | [click here](https://www.youtube.com/watch?v=9BNSwKNadx4) |
 
 
-## 🎯 DevRel
+## 🔐 DevRel
 
 | TOPIC                    | SOURCE NAME         | LINK                                       |
 | ------------------------ | ------------------- | ------------------------------------------ |
@@ -590,17 +604,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Ethics         | CS50           | [click here](https://youtu.be/eNxMn7slmwI)                                             |
 | Cookies        | Hussein Nasser | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
 | Security       | CS50           | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
-
-## ☠ CyberSecurity Tools
-
-| TOPIC          | SOURCE NAME      | LINK                                                                                   |
-| -------------- | ---------------- | -------------------------------------------------------------------------------------- |
-| Tcpdump        | HackerSploit     | [click here](https://www.youtube.com/watch?v=1lDfCRM6dWk)                              |
-| Wireshark      | Vinsloev Academy | [click here]((https://www.youtube.com/watch?v=lb1Dw0elw0Q)                             |
-| Kali Linux     | Simplilearn      | [click here](https://www.youtube.com/watch?v=psyDZ9ytlwc)                              |
-| Metasploit     | HackerSploit     | [click here](https://www.youtube.com/watch?v=8lR27r8Y_ik)                              |
-| Nmpap          | HackerSploit     | [click here](https://www.youtube.com/watch?v=5MTZdN9TEO4)                              |
-| Tor Browser    | Lawrence Systems | [click here](https://www.youtube.com/watch?v=EczKNBikP_Y)                              |
 
 <br/>
 <br/>

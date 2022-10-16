@@ -105,9 +105,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Flutter : 
     - [Freecodecamp](https://www.freecodecamp.org/news/learn-flutter-full-course)
     - [Angela Yu Flutter Course](https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart-13)
-    - [FlutterDevs](https://medium.flutterdevs.com/)
-    - [Fireship](https://fireship.io/)
-    - [FilledStacks](https://www.filledstacks.com/)
+    - [FlutterDevs](https://medium.flutterdevs.com)
+    - [Fireship](https://fireship.io)
+    - [FilledStacks](https://www.filledstacks.com)
 - Kotlin :
     - [Udacity (Kotlin)](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 

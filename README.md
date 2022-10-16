@@ -536,6 +536,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | PHP (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
 | Python (OOPS)            | Telusko               | [click here](https://www.youtube.com/watch?v=qiSCMNBIP2g)                              | 
 | Python (Beginner)        | TechWorld with Nana   | [click here](https://www.youtube.com/watch?v=t8pPdKYpowI)                              |
+| Python (Beginner + OOPS) | Programming with Mosh | [click here](https://www.youtube.com/watch?v=_uQrJ0TkZlc)                              |
 | Python Basics (Beginner) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw)                              |
 | Python Basics CrashCourse| CS50                  | [click here](https://youtu.be/ZEQh45W_UDo)                                             |
 | Python (Advance)         | Python Engineer       | [click here](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |

@@ -465,6 +465,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Laravel            | Laracasts                  | [click here](https://laracasts.com)                                                    |
 | Laravel (Beginner) | ProgrammingKnowledge       | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi) |
 | Pytest (Beginner)  | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial)                   |
+| Spring Boot        | Java Brains                | [click here](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x) |
 | Django             | FreeCodeCamp               | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Django             | CodeWithHarry              | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
 | Flask              | Corey Schafer              | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |

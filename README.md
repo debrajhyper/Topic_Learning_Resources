@@ -491,14 +491,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 🎭 CyberSecurity Tools
 
-| TOPIC       | SOURCE NAME      | LINK                                                      |
-| ----------- | ---------------- | --------------------------------------------------------- |
-| Tcpdump     | HackerSploit     | [click here](https://www.youtube.com/watch?v=1lDfCRM6dWk) |
-| Wireshark   | Vinsloev Academy | [click here](https://www.youtube.com/watch?v=lb1Dw0elw0Q) |
-| Kali Linux  | Simplilearn      | [click here](https://www.youtube.com/watch?v=psyDZ9ytlwc) |
-| Metasploit  | HackerSploit     | [click here](https://www.youtube.com/watch?v=8lR27r8Y_ik) |
-| Nmpap       | HackerSploit     | [click here](https://www.youtube.com/watch?v=5MTZdN9TEO4) |
-| Tor Browser | Lawrence Systems | [click here](https://www.youtube.com/watch?v=EczKNBikP_Y) |
+| TOPIC                      | SOURCE NAME                      | LINK                                                      |
+| -------------------------- | -------------------------------- | --------------------------------------------------------- |
+| Tcpdump                    | HackerSploit                     | [click here](https://www.youtube.com/watch?v=1lDfCRM6dWk) |
+| Wireshark                  | Vinsloev Academy                 | [click here](https://www.youtube.com/watch?v=lb1Dw0elw0Q) |
+| Kali Linux                 | Simplilearn                      | [click here](https://www.youtube.com/watch?v=psyDZ9ytlwc) |
+| Metasploit                 | HackerSploit                     | [click here](https://www.youtube.com/watch?v=8lR27r8Y_ik) |
+| Nmpap                      | HackerSploit                     | [click here](https://www.youtube.com/watch?v=5MTZdN9TEO4) |
+| Tor Browser                | Lawrence Systems                 | [click here](https://www.youtube.com/watch?v=EczKNBikP_Y) |
+| XSS - Cross Site Scripting | Virtual Forge an Onapsis Company | [click here](https://www.youtube.com/watch?v=cbmBDiR6WaY) |
 
 ## ⛓ Blockchain Development
 

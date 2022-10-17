@@ -60,6 +60,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🎯 Open Source](#-open-source)
     - [🔐 DevRel](#-devrel)
     - [💥 Miscellaneous](#-miscellaneous)
+- [📚 E-books](#e-books)
     
 <br/>
 
@@ -612,6 +613,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Ethics         | CS50           | [click here](https://youtu.be/eNxMn7slmwI)                                             |
 | Cookies        | Hussein Nasser | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
 | Security       | CS50           | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
+
+
+## 📚 E-books
+| TOPIC                    | SOURCE NAME                                      | LINK                                          |
+| ------------------------ | ------------------------------------------------ | --------------------------------------------- |
+| Javascript               | Eloquent Javascript                              | [click here](https://eloquentjavascript.net/) |
+| Javascript               | Learning Patterns - Lydia Hallie and Addy Osmani | [click here](https://archive.org/details/learning-patterns/learning-patterns-final-v1.1/)
+
 
 <br/>
 <br/>

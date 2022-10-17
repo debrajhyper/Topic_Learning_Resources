@@ -403,6 +403,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC              | SOURCE NAME    | LINK                                                                                              |
 | ------------------ | -------------- | ------------------------------------------------------------------------------------------------- |
 | Flutter (Beginner) | Johannes Milke | [click here](https://www.youtube.com/watch?v=g8Y1Eqa4pbc&list=PL1WkZqhlAdC_Tr3GFYq3W0KYfX49_FiNA) |
+| Android (Basic to Advance) | Udacity | [click here](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) 
 
 ## ✒️ UI Development
 

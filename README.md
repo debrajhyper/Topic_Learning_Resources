@@ -32,13 +32,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
   - [📜 Official Documentations](#-official-documentations)
   - [📱 Android Documentations](#-android-documentations)
   - [🌊 Frontend Documentations](#-frontend-documentations)
-  - [⚡ Frontend Frameworks/Library Documentations](#-frontend-frameworkslibrary-documentations)
+  - [⚡ Frontend Frameworks/Library Documentation](#-frontend-frameworkslibrary-documentations)
+  - [💣 DevOps Documentation](#-💣-DevOps-Documentation)
   - [🔁 Git & Github Documentations](#-git--github-documentations)
+  - [☁️ Cloud Computing Documentations](#-☁️-Cloud-Computing-Documentations)
   - [⛓ Blockchain Documentations](#-blockchain-documentations)
   - [📟 Programming Languages Documentations](#-programming-languages-documentations)
   - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
   - [💥 Miscellaneous Documentations](#-miscellaneous-documentations)
-  - [DevOps Documentation](#devops-documentation)
 - [💻 Video/Playlist](#-videoplaylist)
   - [🧩 Block Programming](#-block-programming)
   - [💡 Artificial Intelligence](#-artificial-intelligence)
@@ -171,6 +172,12 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - `Bonus :`
     - [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+## ☁️ Cloud Computing Documentations
+<h3>AWS</h3>
+
+- [AWS Ramp-Up Guide: Architect](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)
+
+- [AWS Whitepapers + Well architected Framework + FAQs](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 ## ⛓ Blockchain Documentations
 - Learn the basics
@@ -291,12 +298,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [DevTools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
 - [PWA](https://developers.google.com/web/progressive-web-apps)
   
-## DevOps Documentation
+## 💣 DevOps Documentation
 - [Roadmap](https://www.commclassroom.org/devops-roadmap?r_done=1)
-    <h3>aws</h3>
-- [AWS Ramp-Up Guide: Architect](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)
-- [AWS Whitepapers + Well architected Framework + FAQs](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-
 
 # 💻 Video/Playlist
 

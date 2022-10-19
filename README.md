@@ -103,6 +103,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - Flutter : 
     - [Freecodecamp](https://www.freecodecamp.org/news/learn-flutter-full-course)
     - [Angela Yu Flutter Course](https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart-13)
+    - [FlutterDevs](https://medium.flutterdevs.com)
+    - [Fireship](https://fireship.io)
+    - [FilledStacks](https://www.filledstacks.com)
 - Kotlin :
     - [Udacity (Kotlin)](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
@@ -171,6 +174,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Git Branching Game](https://learngitbranching.js.org)
 - `Bonus :`
     - [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+    
+    
+## 🎭 CyberSecurity Tools Documentations
+- [tcpdump](https://www.tcpdump.org/index.html#documentation)
+- [Wireshark](https://www.wireshark.org/docs/)
+- [Kali Linux](https://www.kali.org/docs/)
+- [Metasploit](https://docs.metasploit.com/)
+- [Nmap](https://nmap.org/docs.html)
+- [Tor Browser](https://2019.www.torproject.org/docs/documentation.html.en)
 
 ## ☁️ Cloud Computing Documentations
 <h3>AWS</h3>
@@ -276,10 +288,17 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [Work@Tech](https://workat.tech/problem-solving/practice)
     - [Tech Interview Handbook](https://www.techinterviewhandbook.org/grind75)
     - [LintCode](https://www.lintcode.com/problem/?typeId=4)
+    - [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup)
+    - [CSES ProblemSet](https://cses.fi/)
+    - [Timus Online Judge](https://acm.timus.ru/)
+    - [Project Euler](https://projecteuler.net/archives)
+    - [SPOJ](https://www.spoj.com/)
+    - [Uva Online Judge](https://onlinejudge.org/)
 - Resources For CP
     - [CP Handbook (pdf)](https://cses.fi/book.pdf)
     - [CP Algorithms](https://cp-algorithms.com)
     - [Usaco Guide](https://usaco.guide)
+    - [Guide to the Programming Contests -by Nite Nimajneb](http://comscigate.com/Books/contests/icpc.pdf)
     - GeeksForGeeks : 
         - [Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide)
         - [Data Structures](https://www.geeksforgeeks.org/data-structures)
@@ -292,6 +311,42 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
         - [Codeforces](https://codeforces.com/blog/entry/13529)
         - [Handbook](https://cses.fi/book/book.pdf)
         - [Open Courses](https://github.com/prakhar1989/awesome-courses#algorithms)
+        - [Good Tutorials on Codeforces](https://codeforces.com/blog/entry/57282)
+
+
+## 🎯 Open Source Documentations
+- What is Open Source
+    - [Resource 1](https://opensource.com/resources/what-open-source)
+    - [Resource 2](https://www.redhat.com/en/topics/open-source/what-is-open-source)
+    - [Resource 3](https://en.wikipedia.org/wiki/Open-source_software)
+    - [Open source guide](https://opensource.guide/)
+- Getting started
+    - [How to Contribute to Open Source Projects – beginner friendly](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+    - [14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star](https://smartbear.com/blog/14-ways-to-contribute-to-open-source-without-being/)
+- Learning Git (version control system)
+    - [Git documentation](https://git-scm.com/doc)
+- Creating your first open source project
+    - [Creating a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+    - [How to Start an Open Source Project on GitHub](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/)
+    - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+- Contributing to open source projects
+    - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+    - [How to contribute to and maintain open source projects with GitHub](https://www.oswc.is/search-projects)
+- 25+ paid open source programs and internships
+    - [Resource 1](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
+- Learning open source values & ethics
+    - [Ethics for open source  values and ethics](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/)
+    
+    
+## 🔐 DevRel Documentations
+- All about DevRel
+    - [Resource 1](https://devrel.co/about/)
+- [Articles and Blogs](https://www.commonroom.io/)
+- Participate in community events(Twitter spaces, community hangouts, etc)
+- Personal Branding
+    - [How to Build a Personal Brand for Your Tech Career](https://careerfoundry.com/en/blog/career-change/personal-branding/)
+    - [Helping you to build your Personal Brand in Tech](https://dev.to/vinzvinci/helping-you-to-build-your-personal-brand-in-tech-35df)
+- [25+ paid open source programs and internships](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
 
 
 ## 💥 Miscellaneous Documentations
@@ -352,6 +407,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ------------------ | -------------- | ------------------------------------------------------------------------------------------------- |
 | Flutter (Beginner) | Johannes Milke | [click here](https://www.youtube.com/watch?v=g8Y1Eqa4pbc&list=PL1WkZqhlAdC_Tr3GFYq3W0KYfX49_FiNA) |
 
+## ✒️ UI Development
+
+| TOPIC                          | SOURCE NAME    | LINK                                                                               |
+| ------------------------------ | -------------- | ---------------------------------------------------------------------------------- |
+| Adobe XD (Beginner to Advance) | Pelfizz Studio | [click here](https://youtube.com/playlist?list=PLuRPummNMvIN43IBo1EltezV2ngqYz5T6) |
+| Figma (Beginner to Advance)    | Pelfizz Studio | [click here](https://youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq) |
+| Adobe Illustrator (Beginner)   | GFXMentor      | [click here](https://youtube.com/playlist?list=PLW-zSkCnZ-gCq0DjkzY-YapCBEk0lA6lR) |
+| React Material UI (Beginner)   | Codevolution   | [click here](https://youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO) |
+
 ## 🌊 Frontend Development
 
 | TOPIC                              | SOURCE NAME           | LINK                                                                                   |
@@ -385,7 +449,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | React JS (Beginner to Advance) | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
 | React JS (Advanced)            | Chris Blakely     | [click here](https://youtube.com/playlist?list=PLaebUsP3fWHuY7LpRHYmst5FFrrMYaaLR)     |
 | React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |
+| React Router v6                | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG) |
 | React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
+| Next JS                        | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) |
 | Vue JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
 | Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
 
@@ -407,6 +473,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Laravel            | Laracasts                  | [click here](https://laracasts.com)                                                    |
 | Laravel (Beginner) | ProgrammingKnowledge       | [click here](https://www.youtube.com/playlist?list=PLS1QulWo1RIbRHq1qqw3Jc7e8qlB6cWfi) |
 | Pytest (Beginner)  | Test Automation University | [click here](https://testautomationu.applitools.com/pytest-tutorial)                   |
+| Spring Boot        | Java Brains                | [click here](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x) |
 | Django             | FreeCodeCamp               | [click here](https://www.youtube.com/watch?v=jBzwzrDvZ18)                              |
 | Django             | CodeWithHarry              | [click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) |
 | Flask              | Corey Schafer              | [click here](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)     |
@@ -429,6 +496,18 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC               | SOURCE NAME  | LINK                                       |
 | ------------------- | ------------ | ------------------------------------------ |
 | Web Dev full course | Codedamn     | [click here](https://youtu.be/ZxKM3DCV2kE) |
+
+## 🎭 CyberSecurity Tools
+
+| TOPIC                      | SOURCE NAME                      | LINK                                                      |
+| -------------------------- | -------------------------------- | --------------------------------------------------------- |
+| Tcpdump                    | HackerSploit                     | [click here](https://www.youtube.com/watch?v=1lDfCRM6dWk) |
+| Wireshark                  | Vinsloev Academy                 | [click here](https://www.youtube.com/watch?v=lb1Dw0elw0Q) |
+| Kali Linux                 | Simplilearn                      | [click here](https://www.youtube.com/watch?v=psyDZ9ytlwc) |
+| Metasploit                 | HackerSploit                     | [click here](https://www.youtube.com/watch?v=8lR27r8Y_ik) |
+| Nmpap                      | HackerSploit                     | [click here](https://www.youtube.com/watch?v=5MTZdN9TEO4) |
+| Tor Browser                | Lawrence Systems                 | [click here](https://www.youtube.com/watch?v=EczKNBikP_Y) |
+| XSS - Cross Site Scripting | Virtual Forge an Onapsis Company | [click here](https://www.youtube.com/watch?v=cbmBDiR6WaY) |
 
 ## ⛓ Blockchain Development
 
@@ -460,6 +539,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | PHP (Full Course)        | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=OK_JCtrrv-c)                              |
 | Python (OOPS)            | Telusko               | [click here](https://www.youtube.com/watch?v=qiSCMNBIP2g)                              | 
 | Python (Beginner)        | TechWorld with Nana   | [click here](https://www.youtube.com/watch?v=t8pPdKYpowI)                              |
+| Python (Beginner + OOPS) | Programming with Mosh | [click here](https://www.youtube.com/watch?v=_uQrJ0TkZlc)                              |
 | Python Basics (Beginner) | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw)                              |
 | Python Basics CrashCourse| CS50                  | [click here](https://youtu.be/ZEQh45W_UDo)                                             |
 | Python (Advance)         | Python Engineer       | [click here](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |
@@ -482,24 +562,59 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 👨🏻‍💻 Competitive Programming
 
-| TOPIC                  | SOURCE NAME              | LINK                                                                                              |
-| ---------------------- | ------------------------ | ------------------------------------------------------------------------------------------------- |
-| CP playlist (Hindi)    | Luv                      | [click here](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)            |
-| CP playlist (English)  | ProgrammingWithHarry     | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE)                                         |
-| JavaScript Playlist    | ProgrammingWithHarry     | [click here](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) |
-| Algorithms Playlist    | Errichto                 | [click here](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80)            |
-| Beginner Topics For CP | COPS IIT-(BHU)           | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6)            |
-| C++ STL                | Utkatsh Gupta            | [click here](https://youtu.be/PZogbfU4X5E)                                                        |
-| C++ STL(Full Course)   | Luv                      | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)            |
+| TOPIC                  | SOURCE NAME          | LINK                                                                                              |
+| ---------------------- | -------------------- | ------------------------------------------------------------------------------------------------- |
+| CP playlist (Hindi)    | Luv                  | [click here](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)            |
+| CP playlist (English)  | ProgrammingWithHarry | [click here](https://www.youtube.com/watch?v=_MF8L7ZxwRE)                                         |
+| JavaScript Playlist    | ProgrammingWithHarry | [click here](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) |
+| Algorithms Playlist    | Errichto             | [click here](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80)            |
+| Beginner Topics For CP | COPS IIT-(BHU)       | [click here](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6)            |
+| C++ STL                | Utkatsh Gupta        | [click here](https://youtu.be/PZogbfU4X5E)                                                        |
+| C++ STL(Full Course)   | Luv                  | [click here](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)            |
+| Streams                | Geothermal           | [click here](https://www.youtube.com/channel/UCpUTNKWxw9p4nOvekiIRWow)                            |
+| Streams                | Neal Wu              | [click here](https://www.youtube.com/c/NealWuProgramming)                                         |
+| Streams                | SecondThread         | [click here](https://www.youtube.com/c/SecondThread)                                              |
+| Streams                | William Lin          | [click here](https://www.youtube.com/c/WilliamLin168)                                             |
+| Number Theory          | CodeNCode            | [click here](https://youtube.com/playlist?list=PL5DyztRVgtRWblnyEHtajWijQffrfwLz6)                |
+| Algorithms (hard)      | Algorithms Live      | [click here](https://www.youtube.com/c/AlgorithmsLive/featured)                                   |
+
+## 🎯 Open Source
+
+| TOPIC                 | SOURCE NAME         | LINK                                                      |
+| --------------------- | ------------------- | --------------------------------------------------------- |
+| What is Open Source   | Community classromm | [click here](https://www.youtube.com/watch?v=msyGybzCKRs) |
+| What is Open Source   | Mozzilla            | [click here](https://www.youtube.com/watch?v=7c0IrsDsNaw) |
+| Complete guide        | freeCodeCamp        | [click here](https://www.youtube.com/watch?v=yzeVMecydCE) |
+| Getting started       | Traversy Media      | [click here](https://www.youtube.com/watch?v=3HqN-YS8eso) |
+| How to start          | Gaurav Sen          | [click here](https://www.youtube.com/watch?v=Tq4RZ-JH6aM) |
+| Git tutorial          | Kunal Kushwaha      | [click here](https://www.youtube.com/watch?v=Tq4RZ-JH6aM) |
+| Ethics in communities | Microsoft           | [click here](https://www.youtube.com/watch?v=9BNSwKNadx4) |
+
+
+## 🔐 DevRel
+
+| TOPIC                    | SOURCE NAME         | LINK                                       |
+| ------------------------ | ------------------- | ------------------------------------------ |
+| Why?                     | Women who code      | [click here](https://youtu.be/lZvf5Tm4nSo) |
+| Developer Advocacy       | Kunal Kushwaha      | [click here](https://youtu.be/MKztZJODyxY) |
+| Roadmap                  | Brad McCoy          | [click here](https://youtu.be/_SSCZkSitlc) |
+| How?                     | Eddie Jaoude        | [click here](https://youtu.be/iUZerHctTB8) |
+| How to Get hired?        | Dev Rel             | [click here](https://youtu.be/VbM-Ii2HLoA) |
+| Public speaking          | Chris Anderson      | [click here](https://youtu.be/-FOCpMAww28) |
+| Best Practices           | Kunal Kushwaha      | [click here](https://youtu.be/mTsMaxkQ42I) |
+| Learning in Public       | Kunal Kushwaha      | [click here](https://youtu.be/d8AJEXmOBnI) |
+| Technical Blogging       | FreeCodeCamp Talks  | [click here](https://youtu.be/YODPgBadj80) |
+| Community Management     | Community classroom | [click here](https://youtu.be/bnEIt1MyhDY) |
+| 25+ Open Source Programs | Kunal Kushwaha      | [click here](https://youtu.be/x4hsV_q_YQc) |
 
 ## 💥 Miscellaneous
 
-| TOPIC                    | SOURCE NAME           | LINK                                                                                   |
-| ------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
-| Git and Github           | FreeCodeCamp          | [click here](https://www.youtube.com/watch?v=RGOj5yH7evk)                              |
-| Ethics                   | CS50                  | [click here](https://youtu.be/eNxMn7slmwI)                                             |
-| Cookies                  | Hussein Nasser        | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
-| Security                 | CS50                  | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
+| TOPIC          | SOURCE NAME    | LINK                                                                                   |
+| -------------- | -------------- | -------------------------------------------------------------------------------------- |
+| Git and Github | FreeCodeCamp   | [click here](https://www.youtube.com/watch?v=RGOj5yH7evk)                              |
+| Ethics         | CS50           | [click here](https://youtu.be/eNxMn7slmwI)                                             |
+| Cookies        | Hussein Nasser | [click here](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn) |
+| Security       | CS50           | [click here](https://youtu.be/qFiAJ1sgYNU)                                             |
 
 <br/>
 <br/>

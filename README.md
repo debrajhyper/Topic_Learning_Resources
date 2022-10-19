@@ -299,7 +299,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [PWA](https://developers.google.com/web/progressive-web-apps)
   
 ## 💣 DevOps Documentation
-- [Roadmap](https://www.commclassroom.org/devops-roadmap?r_done=1)
+- [Roadmap](https://roadmap.sh/devops)
 
 # 💻 Video/Playlist
 

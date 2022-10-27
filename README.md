@@ -52,6 +52,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
     - [📂 Database](#-database)
     - [🦄 Full Stack Development](#-full-stack-development)
+    - [☁ Cloud Computing](#-cloud-computing)
     - [🎭 CyberSecurity Tools](#-cybersecurity-tools)
     - [⛓ Blockchain Development](#-blockchain-development)
     - [📟 Programming Languages](#-programming-languages)
@@ -372,9 +373,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |
 | Convolutional Neural Networks for Visual Recognition | Stanford - YouTube         | [click here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                                                                                                                                                                                                       |
 | Deep Learning Specialization                         | DeepLearning.AI - Coursera | [click here](https://www.coursera.org/specializations/deep-learning)                                                                                                                                                                                                                         |
-| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)
-| AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)
-| AWS Cloud Essentials Free Course                     | AWS                        | [click here](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan?la=cta&cta=topbanner)
+| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) |
+
 ## 📈 Data Science
 
 | TOPIC                                                     | SOURCE NAME | LINK                                                                                                                                                                                                                                                                                         |
@@ -494,6 +494,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC               | SOURCE NAME  | LINK                                       |
 | ------------------- | ------------ | ------------------------------------------ |
 | Web Dev full course | Codedamn     | [click here](https://youtu.be/ZxKM3DCV2kE) |
+
+## ☁ Cloud Computing
+
+| TOPIC                                       | SOURCE NAME  | LINK                                                                                                                                   |
+| ------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| AWS Cloud Certified Practitioner Essentials | Coursera     | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)                                             |
+| AWS Cloud Essentials Free Course            | AWS          | [click here](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan?la=cta&cta=topbanner) |
 
 ## 🎭 CyberSecurity Tools
 

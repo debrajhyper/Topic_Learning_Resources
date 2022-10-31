@@ -420,6 +420,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Figma (Beginner to Advance)    | Pelfizz Studio | [click here](https://youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq) |
 | Adobe Illustrator (Beginner)   | GFXMentor      | [click here](https://youtube.com/playlist?list=PLW-zSkCnZ-gCq0DjkzY-YapCBEk0lA6lR) |
 | React Material UI (Beginner)   | Codevolution   | [click here](https://youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO) |
+| Sketch (Beginner)              | LearnUX.io     | [click here](https://learnux.io/course/sketch) |
+
 
 ## 🌊 Frontend Development
 

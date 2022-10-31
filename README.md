@@ -112,6 +112,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [FilledStacks](https://www.filledstacks.com)
 - Kotlin :
     - [Udacity (Kotlin)](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+    - [Kotlin for Android](https://developer.android.com/kotlin/campaign/learn)
+    - [W3Schools](https://www.w3schools.com/KOTLIN/index.php)
 
 
 ## 🌊 Frontend Documentations

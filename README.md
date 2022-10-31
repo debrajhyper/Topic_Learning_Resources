@@ -26,39 +26,42 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Table of Contents
 
-- [Topic Learning Resources ![Awesome](https://github.com/debrajhyper)](#topic-learning-resources-)
-  - [Table of Contents](#table-of-contents)
-- [📃 Documentations](#-documentations)
-  - [📜 Official Documentations](#-official-documentations)
-  - [📱 Android Documentations](#-android-documentations)
-  - [🌊 Frontend Documentations](#-frontend-documentations)
-  - [⚡ Frontend Frameworks/Library Documentation](#-frontend-frameworkslibrary-documentations)
-  - [💣 DevOps Documentation](#-💣-DevOps-Documentation)
-  - [🔁 Git & Github Documentations](#-git--github-documentations)
-  - [☁️ Cloud Computing Documentations](#-☁️-Cloud-Computing-Documentations)
-  - [⛓ Blockchain Documentations](#-blockchain-documentations)
-  - [📟 Programming Languages Documentations](#-programming-languages-documentations)
-  - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
-  - [💥 Miscellaneous Documentations](#-miscellaneous-documentations)
-- [💻 Video/Playlist](#-videoplaylist)
-  - [🧩 Block Programming](#-block-programming)
-  - [💡 Artificial Intelligence](#-artificial-intelligence)
-  - [📈 Data Science](#-data-science)
-  - [🤖 Machine Learning](#-machine-learning)
-  - [📱 Android Development](#-android-development)
-  - [🌊 Frontend Development](#-frontend-development)
-  - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
-  - [🔥 Backend Development](#-backend-development)
-  - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
-  - [📂 Database](#-database)
-  - [🦄 Full Stack Development](#-full-stack-development)
-  - [⛓ Blockchain Development](#-blockchain-development)
-  - [📟 Programming Languages](#-programming-languages)
-  - [🎓 DSA](#-dsa)
-  - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
-  - [💥 Miscellaneous](#-miscellaneous)
-- [Thanks to all Contributors](#thanks-to-all-contributors)
-- [License](#license)
+- [📃 Documentations Resources](#-documentations)
+    - [📜 Official Documentations](#-official-documentations)
+    - [📱 Android Documentations](#-android-documentations)
+    - [🌊 Frontend Documentations](#-frontend-documentations)
+    - [⚡ Frontend Frameworks/Library Documentations](#-frontend-frameworkslibrary-documentations)
+    - [🔁 Git & Github Documentations](#-git--github-documentations)
+    - [🎭 CyberSecurity Tools Documentations](#-cybersecurity-tools-documentations)
+    - [⛓ Blockchain Documentations](#-blockchain-documentations)
+    - [📟 Programming Languages Documentations](#-programming-languages-documentations)
+    - [👨🏻‍💻 Competitive Programming Documentations](#-competitive-programming-documentations)
+    - [🎯 Open Source Documentations](#-open-source-documentations)
+    - [🔐 DevRel Documentations](#-devrel-documentations)
+    - [💥 Miscellaneous Documentations](#-miscellaneous-documentations)
+- [💻 Video/Playlist Resources](#-videoplaylist)
+    - [🧩 Block Programming](#-block-programming)
+    - [💡 Artificial Intelligence](#-artificial-intelligence)
+    - [📈 Data Science](#-data-science)
+    - [🤖 Machine Learning](#-machine-learning)
+    - [📱 Android Development](#-android-development)
+    - [✒️ UI Development](#%EF%B8%8F-ui-development)
+    - [🌊 Frontend Development](#-frontend-development)
+    - [⚡ Frontend Frameworks/Library](#-frontend-frameworkslibrary)
+    - [🔥 Backend Development](#-backend-development)
+    - [🌀 Backend Frameworks/Library](#-backend-frameworkslibrary)
+    - [📂 Database](#-database)
+    - [🦄 Full Stack Development](#-full-stack-development)
+    - [☁ Cloud Computing](#-cloud-computing)
+    - [🎭 CyberSecurity Tools](#-cybersecurity-tools)
+    - [⛓ Blockchain Development](#-blockchain-development)
+    - [📟 Programming Languages](#-programming-languages)
+    - [🎓 DSA](#-dsa)
+    - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
+    - [🎯 Open Source](#-open-source)
+    - [🔐 DevRel](#-devrel)
+    - [💥 Miscellaneous](#-miscellaneous)
+    
 <br/>
 
 # 📃 Documentations
@@ -375,8 +378,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Artificial Intelligence for Robotics                 | Udacity                    | [click here](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373?irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyzXEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)                                  |
 | Convolutional Neural Networks for Visual Recognition | Stanford - YouTube         | [click here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                                                                                                                                                                                                       |
 | Deep Learning Specialization                         | DeepLearning.AI - Coursera | [click here](https://www.coursera.org/specializations/deep-learning)                                                                                                                                                                                                                         |
-| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805)
-| AWS Cloud Certified Practitioner Essentials          | Coursera                   | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)
+| Intro to Artificial Intelligence                     | Udacity                    | [click here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api&irclickid=U8xQkT0t0xyIRBRyHvWLR34PUkBXCyxOEzo7z80&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_search_&utm_content=&adid=788805) |
 
 ## 📈 Data Science
 
@@ -403,9 +405,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## 📱 Android Development
 
-| TOPIC              | SOURCE NAME    | LINK                                                                                              |
-| ------------------ | -------------- | ------------------------------------------------------------------------------------------------- |
-| Flutter (Beginner) | Johannes Milke | [click here](https://www.youtube.com/watch?v=g8Y1Eqa4pbc&list=PL1WkZqhlAdC_Tr3GFYq3W0KYfX49_FiNA) |
+| TOPIC                      | SOURCE NAME    | LINK                                                                                              |
+| -------------------------- | -------------- | ------------------------------------------------------------------------------------------------- |
+| Flutter (Beginner)         | Johannes Milke | [click here](https://www.youtube.com/watch?v=g8Y1Eqa4pbc&list=PL1WkZqhlAdC_Tr3GFYq3W0KYfX49_FiNA) |
+| Android (Basic to Advance) | Udacity        | [click here](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)          |
 
 ## ✒️ UI Development
 
@@ -496,6 +499,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | TOPIC               | SOURCE NAME  | LINK                                       |
 | ------------------- | ------------ | ------------------------------------------ |
 | Web Dev full course | Codedamn     | [click here](https://youtu.be/ZxKM3DCV2kE) |
+
+## ☁ Cloud Computing
+
+| TOPIC                                       | SOURCE NAME  | LINK                                                                                                                                   |
+| ------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| AWS Cloud Certified Practitioner Essentials | Coursera     | [click here](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1)                                             |
+| AWS Cloud Essentials Free Course            | AWS          | [click here](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan?la=cta&cta=topbanner) |
 
 ## 🎭 CyberSecurity Tools
 

@@ -31,6 +31,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📱 Android Documentations](#-android-documentations)
     - [🌊 Frontend Documentations](#-frontend-documentations)
     - [⚡ Frontend Frameworks/Library Documentations](#-frontend-frameworkslibrary-documentations)
+    - [☁️ Cloud Computing Documentations](#-cloud-computing-documentations)
     - [🔁 Git & Github Documentations](#-git--github-documentations)
     - [🎭 CyberSecurity Tools Documentations](#-cybersecurity-tools-documentations)
     - [⛓ Blockchain Documentations](#-blockchain-documentations)
@@ -171,6 +172,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [Mini-curso Vue Evolution](https://evolutio.io/curso/minicurso_vuejs)
     - [Learn Vue.co](https://learnvue.co/tutorials/template-refs)
 
+## ☁️ Cloud Computing Documentations
+- AWS :
+    - [AWS Ramp-Up Guide: Architect](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)
+    - [AWS Whitepapers + Well architected Framework + FAQs](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
 
 ## 🔁 Git & Github Documentations
 - [Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
@@ -187,12 +193,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Nmap](https://nmap.org/docs.html)
 - [Tor Browser](https://2019.www.torproject.org/docs/documentation.html.en)
 
-## ☁️ Cloud Computing Documentations
-<h3>AWS</h3>
-
-- [AWS Ramp-Up Guide: Architect](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)
-
-- [AWS Whitepapers + Well architected Framework + FAQs](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 ## ⛓ Blockchain Documentations
 - Learn the basics

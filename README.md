@@ -243,6 +243,41 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [The Right Way](https://phptherightway.com)
     - [W3Schools](https://www.w3schools.com/php)
 - Python :
+    - FreecodeCamp Scientific Computing with Python certification - https://freecodecamp.org/learn/scientific-computing-with-python
+    - Python for everybody by Dr. Chuck - https://py4e.com
+    - Python Blog series by Aatmaj on Dev.to - https://dev.to/aatmaj/series/13315
+    - Python Blog Series by Real Python - https://realpython.com/python-basics/
+- Ruby (Beginner) : Codecademy - https://codecademy.com/learn/learn-ruby
+- Rust : Doc - https://rust-lang.org/learn
+- Solidity : 
+    - CryptoZombie - https://cryptozombies.io/
+    - Ethernaut - https://ethernaut.openzeppelin.com/ 
+<br/>
+
+## 🖥️ Competitive Programming
+- Websites For Programming Contests and Practice
+    - CList : https://clist.by/ 💚
+    - CodeForces : https://codeforces.com/
+    - CodeChef : https://www.codechef.com/
+    - TopCoder : https://www.topcoder.com/
+    - AtCoder : https://atcoder.jp/
+    - Hackerrank : https://www.hackerrank.com/
+    - HackerEarth : https://www.hackerearth.com/
+    - Google Kickstart : https://codingcompetitions.withgoogle.com/kickstart
+    - ICPC Global : https://icpc.global/
+    - LeetCode : https://leetcode.com/
+    - GeeksForGeeks : https://www.geeksforgeeks.org/
+    - A2OJ ladder (Practice) : https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
+- Resources For Competitive Programming
+    - CP Handbook (pdf) : https://cses.fi/book.pdf
+    - CP Algorithms : https://cp-algorithms.com/
+    - Usaco Guide : https://usaco.guide/
+    - GeeksForGeeks : https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/ , https://www.geeksforgeeks.org/data-structures/?ref=lbp , 
+    - CodeForces Edu : https://codeforces.com/edu/courses
+    - C++ Tips and Tricks : https://codeforces.com/blog/entry/74684
+    - Roadmap : https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg , https://www.geeksforgeeks.org/greedy-algorithms/ 
+    - List of other useful resources : https://codeforces.com/blog/entry/91363 , https://codeforces.com/blog/entry/57282 , https://codeforces.com/blog/entry/13529 
+<br/>
     - [FreecodeCamp (Scientific Computing with Python)](https://freecodecamp.org/learn/scientific-computing-with-python)
     - [Python for everybody (Dr. Chuck)](https://py4e.com)
     - [Python Blog series (Aatmaj)](https://dev.to/aatmaj/series/13315)

@@ -42,7 +42,6 @@ We love your input! We want to make contributing to this project as easy and tra
 
 ## Steps For Contribution
 
-- INSTRUCTIONS:
 
 - Fork this Repository using the button at the top on right corner.
 - Clone your forked repository to your pc ( git clone "url from clone option.)

@@ -1,0 +1,17 @@
+Hey there, 
+This is free Javascript resource consisting of 30 videos that will help you guys in clearing a lot of concept of Javascript.
+
+## Who is this for ?
+Beginner to Intermediate developers and designers who want to become comfortable with both JavaScript fundamentals and working in the DOM without a library.
+
+##What will you get in this course?
+1. Instant Access to all 30 videos
+2. 30 days of Starter Files
+3. Completed HTML, CSS and JS Solutions for each day
+
+This is the link for the free course : https://javascript30.com/
+
+
+**Go ahead, Let's learn together**
+
+**Contributed by Heeba Khan**

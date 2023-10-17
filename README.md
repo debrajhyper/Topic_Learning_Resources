@@ -59,6 +59,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📟 Programming Languages](#-programming-languages)
     - [🎓 DSA](#-dsa)
     - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
+    - [System Design](#-system-design)
     - [🎯 Open Source](#-open-source)
     - [🔐 DevRel](#-devrel)
     - [💥 Miscellaneous](#-miscellaneous)
@@ -591,6 +592,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Streams                | William Lin          | [click here](https://www.youtube.com/c/WilliamLin168)                                             |
 | Number Theory          | CodeNCode            | [click here](https://youtube.com/playlist?list=PL5DyztRVgtRWblnyEHtajWijQffrfwLz6)                |
 | Algorithms (hard)      | Algorithms Live      | [click here](https://www.youtube.com/c/AlgorithmsLive/featured)                                   |
+
+## ⚙ System Design
+
+| TOPIC            | SOURCE NAME      | LINK                                       |
+| ---------------- | ---------------- |------------------------------------------- |
+|System Design     | Gaurav Sen       | [click here](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) |
+|System Design     | sudoCODE         | [click here](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) |
 
 ## 🎯 Open Source
 

@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Issues](https://img.shields.io/github/issues/debrajhyper/Topic_Learning_Resources?color=brightgreen)](https://github.com/debrajhyper/Topic_Learning_Resources/issues)
-![Pull requests](https://img.shields.io/github/issues-pr/debrajhyper/Topic_Learning_Resources?color=brigthgreen)
+[![Pull requests](https://img.shields.io/github/issues-pr/debrajhyper/Topic_Learning_Resources?color=brigthgreen)](https://github.com/debrajhyper/Topic_Learning_Resources/pulls)
 ![forks](https://img.shields.io/github/forks/debrajhyper/Topic_Learning_Resources)
 ![stars](https://img.shields.io/github/stars/debrajhyper/Topic_Learning_Resources)
 ![license](https://img.shields.io/github/license/debrajhyper/Topic_Learning_Resources?color=orange)

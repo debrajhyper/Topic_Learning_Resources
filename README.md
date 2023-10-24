@@ -241,6 +241,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - GoLang :
     - [Go by Example (Hands-on introduction to Go)](https://gobyexample.com)
     - [Learn Go](https://www.learn-golang.org)
+    - [Explore Golang ](https://go.dev/doc/)
+    - [Go all important concepts](https://devdocs.io/go/)
 - PHP :
     - [The Right Way](https://phptherightway.com)
     - [W3Schools](https://www.w3schools.com/php)

@@ -190,11 +190,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     
     
 ## 🎭 CyberSecurity Tools Documentations
+- [Gophish](https://getgophish.com/documentation/)
 - [tcpdump](https://www.tcpdump.org/index.html#documentation)
 - [Wireshark](https://www.wireshark.org/docs/)
 - [Kali Linux](https://www.kali.org/docs/)
 - [Metasploit](https://docs.metasploit.com/)
 - [Nmap](https://nmap.org/docs.html)
+- [Nikto](https://www.kali.org/tools/nikto/)
 - [Tor Browser](https://2019.www.torproject.org/docs/documentation.html.en)
 
 
@@ -241,6 +243,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - GoLang :
     - [Go by Example (Hands-on introduction to Go)](https://gobyexample.com)
     - [Learn Go](https://www.learn-golang.org)
+    - [Explore Golang ](https://go.dev/doc/)
+    - [Go all important concepts](https://devdocs.io/go/)
 - PHP :
     - [The Right Way](https://phptherightway.com)
     - [W3Schools](https://www.w3schools.com/php)

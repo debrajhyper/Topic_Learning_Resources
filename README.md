@@ -444,6 +444,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Object-Oriented JavaScript         | Udacity               | [click here](https://www.udacity.com/course/object-oriented-javascript--ud015)         |
 | Responsive Images                  | Udacity               | [click here](https://www.udacity.com/course/responsive-images--ud882)                  |
 | Responsive Web Design Fundamentals | Udacity               | [click here](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
+| 30 days Vanilla JS Course          | courses.wesbos.com|   | [click here](https://javascript30.com/)
 
 ## ⚡ Frontend Frameworks/Library
 

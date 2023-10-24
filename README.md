@@ -6,8 +6,8 @@
 </div>
 <div align="center">
 
-![Issues](https://img.shields.io/github/issues/debrajhyper/Topic_Learning_Resources?color=brightgreen)
-![Pull requests](https://img.shields.io/github/issues-pr/debrajhyper/Topic_Learning_Resources?color=brigthgreen)
+[![Issues](https://img.shields.io/github/issues/debrajhyper/Topic_Learning_Resources?color=brightgreen)](https://github.com/debrajhyper/Topic_Learning_Resources/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/debrajhyper/Topic_Learning_Resources?color=brigthgreen)](https://github.com/debrajhyper/Topic_Learning_Resources/pulls)
 ![forks](https://img.shields.io/github/forks/debrajhyper/Topic_Learning_Resources)
 ![stars](https://img.shields.io/github/stars/debrajhyper/Topic_Learning_Resources)
 ![license](https://img.shields.io/github/license/debrajhyper/Topic_Learning_Resources?color=orange)
@@ -59,6 +59,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [📟 Programming Languages](#-programming-languages)
     - [🎓 DSA](#-dsa)
     - [👨🏻‍💻 Competitive Programming](#-competitive-programming)
+    - [System Design](#-system-design)
     - [🎯 Open Source](#-open-source)
     - [🔐 DevRel](#-devrel)
     - [💥 Miscellaneous](#-miscellaneous)
@@ -94,6 +95,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [C#](https://learn.microsoft.com/en-us/dotnet/csharp)
     - [GoLang](https://go.dev/doc)
     - [Kotlin](https://kotlinlang.org/docs/home.html)
+    - [OCaml](https://v2.ocaml.org/docs)
     - [PHP](https://www.php.net/manual/en/index.php)
     - [Rust](https://rust-lang.org/learn)
     - [Perl](https://perldoc.perl.org)
@@ -188,11 +190,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     
     
 ## 🎭 CyberSecurity Tools Documentations
+- [Gophish](https://getgophish.com/documentation/)
 - [tcpdump](https://www.tcpdump.org/index.html#documentation)
 - [Wireshark](https://www.wireshark.org/docs/)
 - [Kali Linux](https://www.kali.org/docs/)
 - [Metasploit](https://docs.metasploit.com/)
 - [Nmap](https://nmap.org/docs.html)
+- [Nikto](https://www.kali.org/tools/nikto/)
 - [Tor Browser](https://2019.www.torproject.org/docs/documentation.html.en)
 
 
@@ -239,6 +243,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - GoLang :
     - [Go by Example (Hands-on introduction to Go)](https://gobyexample.com)
     - [Learn Go](https://www.learn-golang.org)
+    - [Explore Golang ](https://go.dev/doc/)
+    - [Go all important concepts](https://devdocs.io/go/)
 - PHP :
     - [The Right Way](https://phptherightway.com)
     - [W3Schools](https://www.w3schools.com/php)
@@ -592,6 +598,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Streams                | William Lin          | [click here](https://www.youtube.com/c/WilliamLin168)                                             |
 | Number Theory          | CodeNCode            | [click here](https://youtube.com/playlist?list=PL5DyztRVgtRWblnyEHtajWijQffrfwLz6)                |
 | Algorithms (hard)      | Algorithms Live      | [click here](https://www.youtube.com/c/AlgorithmsLive/featured)                                   |
+
+## ⚙ System Design
+
+| TOPIC            | SOURCE NAME      | LINK                                       |
+| ---------------- | ---------------- |------------------------------------------- |
+|System Design     | Gaurav Sen       | [click here](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) |
+|System Design     | sudoCODE         | [click here](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) |
 
 ## 🎯 Open Source
 

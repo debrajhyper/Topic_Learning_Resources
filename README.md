@@ -95,6 +95,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - [C#](https://learn.microsoft.com/en-us/dotnet/csharp)
     - [GoLang](https://go.dev/doc)
     - [Kotlin](https://kotlinlang.org/docs/home.html)
+    - [OCaml](https://v2.ocaml.org/docs)
     - [PHP](https://www.php.net/manual/en/index.php)
     - [Rust](https://rust-lang.org/learn)
     - [Perl](https://perldoc.perl.org)

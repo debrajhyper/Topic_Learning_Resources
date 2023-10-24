@@ -188,11 +188,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     
     
 ## 🎭 CyberSecurity Tools Documentations
+- [Gophish](https://getgophish.com/documentation/)
 - [tcpdump](https://www.tcpdump.org/index.html#documentation)
 - [Wireshark](https://www.wireshark.org/docs/)
 - [Kali Linux](https://www.kali.org/docs/)
 - [Metasploit](https://docs.metasploit.com/)
 - [Nmap](https://nmap.org/docs.html)
+- [Nikto](https://www.kali.org/tools/nikto/)
 - [Tor Browser](https://2019.www.torproject.org/docs/documentation.html.en)
 
 
